@@ -1,0 +1,25 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/temas",
+ "requisitado_em_utc": "2026-10-26T23:39:30+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 57,
+    "tema": "Defesa e Segurança",
+    "relevancia": 0
+   },
+   {
+    "codTema": 44,
+    "tema": "Direitos Humanos e Minorias",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/temas"
+   }
+  ]
+ }
+}

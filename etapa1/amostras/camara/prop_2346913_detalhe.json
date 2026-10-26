@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913",
+ "requisitado_em_utc": "2026-10-26T23:39:40+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2346913,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 182,
+   "ano": 2023,
+   "ementa": "Altera a Lei n.º 9.605, de 12 de fevereiro de 1998, para criar o tipo penal de tráfico de animais silvestres e dar outras providências.",
+   "dataApresentacao": "2023-02-02T10:41",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+   "statusProposicao": {
+    "dataHora": "2025-11-05T00:00",
+    "sequencia": 16,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Prejudicialidade (Plenário)",
+    "codTipoTramitacao": "1240",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Matéria aprovada na forma da Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável (Sessão Deliberativa Extraordinária Semipresencial de 05/11/2025 - 10:00 - 241ª Sessão). Esta proposição fica prejudicada, na forma do art. 191 do RICD.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei dos Crimes Ambientais, aumento da pena, caça ilegal, animal silvestre, Fluxo migratório, exportação, Pele animal, ausência, autorização, órgão ambiental. _ Tipificação de conduta, Tráfico de animais silvestres.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261200",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2232362",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913"
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631",
+ "requisitado_em_utc": "2026-10-26T23:39:24+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2345631,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 6,
+   "ano": 2023,
+   "ementa": "Dá nova redação ao Parágrafo único do art. 13 da Lei nº 4.375, de 17 de agosto de 1964, “Lei do Serviço Militar”, para tornar facultativo o alistamento militar.",
+   "dataApresentacao": "2023-02-02T09:00",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+   "statusProposicao": {
+    "dataHora": "2024-12-16T22:35",
+    "sequencia": 24,
+    "siglaOrgao": "CREDN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Encerramento de Prazo",
+    "codTipoTramitacao": "600",
+    "descricaoSituacao": "Pronta para Pauta",
+    "codSituacao": 924,
+    "despacho": "Prazo de Vista Encerrado",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei do Serviço Militar, facultatividade, alistamento militar. _Proibição, exigência, certificado de reservista, certificado de dispensa de incorporação.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2230755",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631"
+   }
+  ]
+ }
+}

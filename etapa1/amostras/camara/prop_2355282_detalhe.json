@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282",
+ "requisitado_em_utc": "2026-10-26T23:40:12+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2355282,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 1730,
+   "ano": 2023,
+   "ementa": "Insere dispositivos na Lei nº 8.313, de 23 de dezembro de 1991 – Lei Rouanet, para possibilitar às pessoas físicas a opção de efetuar doações e patrocínios ao Fundo Nacional da Cultura e a projetos culturais para fins de dedução do Imposto de Renda naquele mesmo exercício.",
+   "dataApresentacao": "2023-04-10T15:38",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996",
+   "statusProposicao": {
+    "dataHora": "2024-06-07T00:00",
+    "sequencia": 43,
+    "siglaOrgao": "CCP",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160512",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Publicação de Proposição",
+    "codTipoTramitacao": "604",
+    "descricaoSituacao": "Aguardando Designação de Relator(a)",
+    "codSituacao": 907,
+    "despacho": "Encaminhada à publicação. Parecer da Comissão de Finanças e Tributação Publicado em avulso e no DCD 08/06/2024 PÁG 157, Letra B.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei Rouanet, critério, pessoa física, doação, patrocínio, Fundo Nacional da Cultura (FNC), projeto cultural, Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física, dedução tributária, Imposto sobre a Renda da Pessoa Física (IRPF), tributação.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2256451",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282"
+   }
+  ]
+ }
+}

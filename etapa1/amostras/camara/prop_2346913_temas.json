@@ -1,0 +1,25 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913/temas",
+ "requisitado_em_utc": "2026-10-26T23:39:40+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 43,
+    "tema": "Direito Penal e Processual Penal",
+    "relevancia": 0
+   },
+   {
+    "codTema": 48,
+    "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913/temas"
+   }
+  ]
+ }
+}

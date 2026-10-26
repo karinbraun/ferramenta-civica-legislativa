@@ -1,0 +1,111 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/tramitacoes",
+ "requisitado_em_utc": "2026-10-26T23:38:54+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "dataHora": "2023-02-02T09:00",
+    "sequencia": 1,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Apresentação de Proposição",
+    "codTipoTramitacao": "100",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apresentação do Projeto de Lei n. 9/2023, pelo Deputado Marcelo Queiroz (PP/RJ), que \"Institui o Registro Eletrônico de Vacinações dos Animais de Estimação e dá outras providências\".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2230769",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-14T17:33",
+    "sequencia": 7,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Despacho de Apensação",
+    "codTipoTramitacao": "129",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apense-se à(ao) PL-3103/2021. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinário (Art. 151, III, RICD)",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2234215",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-15T00:00",
+    "sequencia": 13,
+    "siglaOrgao": "CCP",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Publicação de Proposição",
+    "codTipoTramitacao": "604",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 16/03/2023 PAG 600",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2295980",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2024-03-25T11:43",
+    "sequencia": 14,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Apresentação de Requerimento",
+    "codTipoTramitacao": "194",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apresentação do REQ n. 827/2024 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Individual), pelos Deputados Delegado Bruno Lima (PP/SP) e Marcelo Queiroz PP, que \"Requer, nos termos regimentais, com anuência do autor, a coautoria ao Projeto de Lei nº 9/2023. \".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2399451",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2024-04-09T00:00",
+    "sequencia": 15,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Notificações",
+    "codTipoTramitacao": "1005",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Deferido o Requerimento n° 827/2024.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2024-07-10T12:13",
+    "sequencia": 17,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Apresentação de Requerimento",
+    "codTipoTramitacao": "194",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apresentação do REQ n. 2563/2024 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Lebrão (UNIÃO/RO), que \"Requer a retirada de tramitação e o arquivamento do Projeto de Lei Complementar nº 9/2023, Projeto de Lei Complementar n° 16/2023, Projeto de Lei Complementar n° 17/2023, Projeto de Lei n°161/2023 e Projeto de Lei n° 164/2023. \".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2453087",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/tramitacoes"
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786/temas",
+ "requisitado_em_utc": "2026-10-26T23:40:03+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 64,
+    "tema": "Agricultura, Pecuária, Pesca e Extrativismo",
+    "relevancia": 0
+   },
+   {
+    "codTema": 51,
+    "tema": "Estrutura Fundiária",
+    "relevancia": 0
+   },
+   {
+    "codTema": 70,
+    "tema": "Finanças Públicas e Orçamento",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786/temas"
+   }
+  ]
+ }
+}

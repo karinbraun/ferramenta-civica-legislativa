@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354",
+ "requisitado_em_utc": "2026-10-26T23:39:11+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2348354,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 442,
+   "ano": 2023,
+   "ementa": "Dispõe acerca do caráter permanente de Laudo Médico Pericial que atesta deficiências ou transtornos físicos, mentais ou intelectuais de caráter irreversível.",
+   "dataApresentacao": "2023-02-10T12:12",
+   "uriOrgaoNumerador": null,
+   "statusProposicao": {
+    "dataHora": "2023-05-10T00:00",
+    "sequencia": 18,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Arquivamento",
+    "codTipoTramitacao": "502",
+    "descricaoSituacao": "Aguardando Encaminhamento",
+    "codSituacao": 910,
+    "despacho": "Declarado prejudicado em face da aprovação em plenário da Subemenda Substitutiva Global ao Projeto de Lei nº 507, de 2023, apensado ao Projeto de Lei nº 4.402, de 2016, adotada pela relatora da Comissão de Saúde (Sessão Deliberativa Extraordinária de 10/5/2023 - 13h55 - 70ª Sessão).",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Caráter permanente, laudo médico, laudo pericial, prova (direito civil), deficiência, transtorno mental, deficiência intelectual, caráter irreversível.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305604",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2234654",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354"
+   }
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383287/votacoes",
+ "requisitado_em_utc": "2026-10-26T23:39:56+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": "2383287-63",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-63",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T21:31:29",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovada a Redação Final assinada pelo Relator, Dep. Pedro Paulo (PSD-RJ).",
+    "aprovacao": 1
+   },
+   {
+    "id": "2383287-61",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-61",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T21:30:42",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-53",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-53",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T21:18:13",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-50",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-50",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T21:05:35",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-47",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-47",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T20:59:25",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-43",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-43",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T20:46:05",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443.",
+    "aprovacao": 1
+   },
+   {
+    "id": "2383287-41",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-41",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T20:33:21",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitado o Requerimento. Sim: 118; não:318; total: 436.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-30",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-30",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T19:08:40",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitado o Requerimento. Sim: 128; não: 287; abstenção: 1; total: 416.",
+    "aprovacao": 0
+   },
+   {
+    "id": "2383287-23",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-23",
+    "data": "2023-10-25",
+    "dataHoraRegistro": "2023-10-25T18:25:55",
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70723",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Rejeitado o Requerimento. Sim: 121; não: 279; abstenção: 1 total: 401.",
+    "aprovacao": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383287/votacoes"
+   }
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354/tramitacoes",
+ "requisitado_em_utc": "2026-10-26T23:39:13+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "dataHora": "2023-02-10T12:12",
+    "sequencia": 1,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Apresentação de Proposição",
+    "codTipoTramitacao": "100",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Apresentação do Projeto de Lei n. 442/2023, pela Deputada Maria Arraes (SOLIDARI/PE), que \"Dispõe acerca do caráter permanente de Laudo Médico Pericial que atesta deficiências ou transtornos físicos, mentais ou intelectuais de caráter irreversível\".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2234654",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-28T21:00",
+    "sequencia": 7,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Despacho de Apensação",
+    "codTipoTramitacao": "129",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Apense-se à(ao) PL-3891/2021. Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II. Regime de Tramitação: Ordinário (Art. 151, III, RICD)",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2239315",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-30T00:00",
+    "sequencia": 13,
+    "siglaOrgao": "CCP",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Publicação de Proposição",
+    "codTipoTramitacao": "604",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 31/03/2023 PAG 1168",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2341233",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-31T08:42",
+    "sequencia": 14,
+    "siglaOrgao": "CSAUDE",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Recebimento",
+    "codTipoTramitacao": "500",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Recebimento pela CSAUDE.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-04-12T21:11",
+    "sequencia": 17,
+    "siglaOrgao": "CSAUDE",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Recebimento",
+    "codTipoTramitacao": "500",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Recebimento pela CSAUDE, apensado ao PL-3891/2021",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-05-10T00:00",
+    "sequencia": 18,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Arquivamento",
+    "codTipoTramitacao": "502",
+    "descricaoSituacao": "Aguardando Encaminhamento",
+    "codSituacao": 910,
+    "despacho": "Declarado prejudicado em face da aprovação em plenário da Subemenda Substitutiva Global ao Projeto de Lei nº 507, de 2023, apensado ao Projeto de Lei nº 4.402, de 2016, adotada pela relatora da Comissão de Saúde (Sessão Deliberativa Extraordinária de 10/5/2023 - 13h55 - 70ª Sessão).",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348354/tramitacoes"
+   }
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434/votacoes",
+ "requisitado_em_utc": "2026-10-26T23:40:10+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": "2351434-21",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2351434-21",
+    "data": "2023-08-01",
+    "dataHoraRegistro": "2023-08-01T16:20:07",
+    "siglaOrgao": "CPD",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/68917",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovado o Parecer.",
+    "aprovacao": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434/votacoes"
+   }
+  ]
+ }
+}

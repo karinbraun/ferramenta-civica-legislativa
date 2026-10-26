@@ -1,0 +1,47 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951/autores",
+ "requisitado_em_utc": "2026-10-26T23:38:59+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567",
+    "nome": "Jeferson Rodrigues",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 3,
+    "proponente": 1
+   },
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204372",
+    "nome": "Julio Cesar Ribeiro",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 1,
+    "proponente": 1
+   },
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220530",
+    "nome": "Messias Donato",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 2,
+    "proponente": 1
+   },
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220695",
+    "nome": "Rogéria Santos",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 4,
+    "proponente": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951/autores"
+   }
+  ]
+ }
+}

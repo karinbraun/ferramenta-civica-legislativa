@@ -1,0 +1,30 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383287/temas",
+ "requisitado_em_utc": "2026-10-26T23:39:53+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 40,
+    "tema": "Economia",
+    "relevancia": 0
+   },
+   {
+    "codTema": 70,
+    "tema": "Finanças Públicas e Orçamento",
+    "relevancia": 0
+   },
+   {
+    "codTema": 55,
+    "tema": "Relações Internacionais e Comércio Exterior",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383287/temas"
+   }
+  ]
+ }
+}

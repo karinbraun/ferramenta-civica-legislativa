@@ -1,0 +1,173 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=40&keywords=tributo",
+ "requisitado_em_utc": "2026-10-26T23:39:50+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 2383287,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383287",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 4173,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior.  NOVA EMENTA: Dispõe sobre a tributação de aplicações em fundos de investimento no País e da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior; altera as Leis nºs 11.033, de 21 de dezembro de 2004, 8.668, de 25 de junho de 1993, e 10.406, de 10 de janeiro de 2002 (Código Civil); revoga dispositivos das Leis nºs  4.728, de 14 de julho de 1965, 9.250, de 26 de dezembro de 1995, 9.532, de 10 de dezembro de 1997, 10.426, de 24 de abril de 2002, e 10.892, de 13 de julho de 2004, do Decreto-Lei nº 2.287, de 23 de julho de 1986, e das Medidas Provisórias nºs 2.189-49, de 23 de agosto de 2001, e 2.158-35, de 24 de agosto de 2001; e dá outras providências.",
+    "dataApresentacao": "2023-08-29T13:09"
+   },
+   {
+    "id": 2408934,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2408934",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 5835,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, para instituir a equalização das tarifas de energia elétrica no Brasil.",
+    "dataApresentacao": "2023-12-04T11:17"
+   },
+   {
+    "id": 2434836,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2434836",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1943,
+    "ano": 2024,
+    "ementa": "Dispõe sobre ações contingenciais direcionados ao setor de turismo e da vitivinicultura em função do desiquilíbrio resultado dos impactos das chuvas no Rio Grande do Sul.",
+    "dataApresentacao": "2024-05-20T17:13"
+   },
+   {
+    "id": 2437270,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2437270",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2133,
+    "ano": 2024,
+    "ementa": "Institui o Programa Nacional de Apoio aos Atingidos pelas Mudanças Climáticas (Pronamc), destinado ao apoio de pessoas físicas afetadas por estado de calamidade pública.",
+    "dataApresentacao": "2024-05-29T16:58"
+   },
+   {
+    "id": 2465779,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2465779",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 4153,
+    "ano": 2024,
+    "ementa": "Dispõe sobre a possibilidade de pagamento parcial de saldo devedor de tributos e contribuições no âmbito do Simples Nacional e dá outras providências.",
+    "dataApresentacao": "2024-10-30T14:01"
+   },
+   {
+    "id": 2483498,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483498",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 365,
+    "ano": 2025,
+    "ementa": "Dispõe sobre medidas para ampliar e garantir a efetividade do sigilo e a não incidência de preço superior, valor ou encargo adicional sobre os pagamentos realizados por meio de arranjo de Pagamentos Instantâneos – Pix, instituído pelo Banco Central do Brasil.",
+    "dataApresentacao": "2025-02-11T10:32"
+   },
+   {
+    "id": 2483524,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483524",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 370,
+    "ano": 2025,
+    "ementa": "\"Dispõe sobre a criação do Programa de Cashback Tributário para Consumidores de Baixa Renda e dá outras providências\".",
+    "dataApresentacao": "2025-02-11T11:50"
+   },
+   {
+    "id": 2485560,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485560",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 703,
+    "ano": 2025,
+    "ementa": "Altera a Lei nº 9.430, de 27 de dezembro de 1996, para prever que a aplicação da multa de ofício exclui a exigência da multa isolada decorrente do mesmo fato.",
+    "dataApresentacao": "2025-02-26T14:52"
+   },
+   {
+    "id": 2515735,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2515735",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2503,
+    "ano": 2025,
+    "ementa": "Dispõe sobre a exigência de aprovação legislativa expressa para a criação ou majoração de tributos estaduais e distritais, revoga a delegação implícita de competência tributária a atos infralegais e estabelece mecanismos de controle e transparência fiscal.",
+    "dataApresentacao": "2025-05-23T11:33"
+   },
+   {
+    "id": 2520664,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2520664",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2710,
+    "ano": 2025,
+    "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, que Dispõe sobre o Fundo Nacional de Segurança Pública (FNSP), sobre a destinação do produto da arrecadação das loterias e sobre a promoção comercial e a modalidade lotérica denominada apostas de quota fixa; altera as Leis n º 8.212, de 24 de julho de 1991, 9.615, de 24 março de 1998, 10.891, de 9 de julho de 2004, 11.473, de 10 de maio de 2007, e 13.675, de 11 de junho de 2018; e revoga dispositivos das Leis n º 6.168, de 9 de dezembro de 1974, 6.717, de 12 de novembro de 1979, 8.313, de 23 de dezembro de 1991, 9.649, de 27 de maio de 1998, 10.260, de 12 de julho de 2001, 11.345, de 14 de setembro de 2006, e 13.155, de 4 de agosto de 2015, da Lei Complementar nº 79, de 7 de janeiro de 1994, e dos Decretos-Leis n º 204, de 27 de fevereiro de 1967, e 594, de 27 de maio de 1969, as Leis n º 6.905, de 11 de maio de 1981, 9.092, de 12 de setembro de 1995, 9.999, de 30 de agosto de 2000, 10.201, de 14 de fevereiro de 2001, e 10.746, de 10 de outubro de 2003, e os Decretos-Leis n º 1.405, de 20 de junho de 1975, e 1.923, de 20 de janeiro de 1982.",
+    "dataApresentacao": "2025-06-03T17:57"
+   },
+   {
+    "id": 2529163,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2529163",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 3118,
+    "ano": 2025,
+    "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, para dispor sobre o fornecimento de informações tributárias ao consumidor na exposição à venda de produtos e serviços.",
+    "dataApresentacao": "2025-06-30T11:39"
+   },
+   {
+    "id": 2536291,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536291",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 3406,
+    "ano": 2025,
+    "ementa": "Institui o Programa Emergencial de Manutenção do Emprego e da Competitividade nas Exportações Brasileiras – PEMECEB, que estabelece a suspensão temporária de tributos federais incidentes sobre empresas exportadoras comprovadamente afetadas por barreiras comerciais externas, mediante contrapartida de manutenção de empregos, e dá outras providências.",
+    "dataApresentacao": "2025-07-15T12:44"
+   },
+   {
+    "id": 2599396,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2599396",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 6793,
+    "ano": 2025,
+    "ementa": "Dispõe sobre a atualização monetária dos valores retidos na fonte e posteriormente restituídos ao contribuinte, e dá outras providências.",
+    "dataApresentacao": "2025-12-22T20:23"
+   },
+   {
+    "id": 2600143,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600143",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 77,
+    "ano": 2026,
+    "ementa": "Altera a Lei nº 1.521, de 26 de dezembro de 1951, para tipificar como crime contra a economia popular a divulgação deliberada de notícias falsas sobre criação, aumento ou incidência de tributos, quando capazes de prejudicar consumidores e comprometer a estabilidade econômica, financeira e institucional do Estado brasileiro.",
+    "dataApresentacao": "2026-02-02T14:01"
+   },
+   {
+    "id": 2630767,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630767",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2974,
+    "ano": 2026,
+    "ementa": "Cria a Política Nacional de Incentivo ao Novilho Precoce, com concessão de bonificação econômica por meio de crédito presumido de tributos federais e subvenção direta, vinculada à certificação, tipificação de carcaça e rastreabilidade da produção.",
+    "dataApresentacao": "2026-06-09T18:49"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=40&keywords=tributo"
+   },
+   {
+    "rel": "first",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=40&keywords=tributo&pagina=1&itens=100"
+   },
+   {
+    "rel": "last",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=40&keywords=tributo&pagina=1&itens=100"
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639",
+ "requisitado_em_utc": "2026-10-26T23:38:52+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2345639,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 9,
+   "ano": 2023,
+   "ementa": "Institui o Registro Eletrônico de Vacinações dos Animais de Estimação e dá outras providências.",
+   "dataApresentacao": "2023-02-02T09:00",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+   "statusProposicao": {
+    "dataHora": "2024-07-10T12:13",
+    "sequencia": 17,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Apresentação de Requerimento",
+    "codTipoTramitacao": "194",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apresentação do REQ n. 2563/2024 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Lebrão (UNIÃO/RO), que \"Requer a retirada de tramitação e o arquivamento do Projeto de Lei Complementar nº 9/2023, Projeto de Lei Complementar n° 16/2023, Projeto de Lei Complementar n° 17/2023, Projeto de Lei n°161/2023 e Projeto de Lei n° 164/2023. \".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2453087",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Criação, Registro Eletrônico de Vacinações dos animais de estimação (REVPET), integração, atendimento veterinário, Unidade de saúde, saúde animal, defesa dos direitos animais, vacina, animal doméstico.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298025",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2230769",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639"
+   }
+  ]
+ }
+}

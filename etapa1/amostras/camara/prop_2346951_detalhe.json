@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951",
+ "requisitado_em_utc": "2026-10-26T23:38:58+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2346951,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 204,
+   "ano": 2023,
+   "ementa": "Dispõe sobre os tratamentos de hormonioterapia, e cirurgia de redesignação sexual.",
+   "dataApresentacao": "2023-02-02T12:35",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+   "statusProposicao": {
+    "dataHora": "2025-12-18T10:50",
+    "sequencia": 23,
+    "siglaOrgao": "CDHMIR",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+    "codTipoTramitacao": "1050",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Designada Relatora, Dep. Talíria Petrone (PSOL-RJ), para o PL 3419/2019, ao qual esta proposição está apensada.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Norma geral, tratamento de readequação sexual, transição, gênero, hormonioterapia, acompanhamento, equipe multidisciplinar, profissional, duração. _Proibição, Cirurgia de transgenitalização, pessoa, transtorno mental, hormonioterapia, menor de idade. _ Idade mínima, realização, Cirurgia de transgenitalização.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207336",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2235159",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346951"
+   }
+  ]
+ }
+}

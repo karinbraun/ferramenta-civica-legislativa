@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347041",
+ "requisitado_em_utc": "2026-10-26T23:39:57+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2347041,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347041",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 244,
+   "ano": 2023,
+   "ementa": "Institui o Fundo Nacional destinado a financiar e apoiar pesquisas e ações destinados às pessoas com deficiência.",
+   "dataApresentacao": "2023-02-02T17:55",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+   "statusProposicao": {
+    "dataHora": "2025-03-20T09:40",
+    "sequencia": 54,
+    "siglaOrgao": "CFT",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Recebimento - Relator(a) (Sem Manifestação)",
+    "codTipoTramitacao": "507",
+    "descricaoSituacao": "Aguardando Designação de Relator(a)",
+    "codSituacao": 907,
+    "despacho": "Devolvida pelo Relator sem Manifestação.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347041/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Criação, Fundo Nacional de financiamento de Pesquisas e Ações destinadas às Pessoas com Deficiência (FNPCD), financiamento, pesquisa, atuação, política pública, relacionamento, direitos, pessoa com deficiência. _Gestão, realização, Conselho Nacional dos Direitos da Pessoa com Deficiência (Conade), fonte de recursos. _Pessoa física, pessoa jurídica, dedução, Imposto sobre a Renda da Pessoa Física (IRPF), Imposto de Renda das Pessoas Jurídicas (IRPJ), doação, Fundo Nacional de financiamento de Pesquisas e Ações destinadas às Pessoas com Deficiência (FNPCD).",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2232631",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347041"
+   }
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812/historico",
+ "requisitado_em_utc": "2026-10-26T23:45:20+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "Edmilson Rodrigues ",
+    "nomeEleitoral": "EDMILSON RODRIGUES ",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2019-02-01T11:45",
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+   },
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "Edmilson Rodrigues ",
+    "nomeEleitoral": "EDMILSON RODRIGUES ",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2021-01-01T00:00",
+    "situacao": "VACANCIA",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Saída - Afastamento definitivo - Renúncia"
+   },
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "Edmilson Rodrigues ",
+    "nomeEleitoral": "EDMILSON RODRIGUES ",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2023-02-01T00:00",
+    "situacao": null,
+    "condicaoEleitoral": null,
+    "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+   },
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "EDMILSON RODRIGUES",
+    "nomeEleitoral": "EDMILSON RODRIGUES",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2015-02-01T10:00",
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+   },
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "EDMILSON RODRIGUES",
+    "nomeEleitoral": "EDMILSON RODRIGUES",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2019-01-31T23:59",
+    "situacao": "FIM_MANDATO",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Saída - Afastamento definitivo - Término da Legislatura"
+   },
+   {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "EDMILSON RODRIGUES",
+    "nomeEleitoral": "EDMILSON RODRIGUES",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "dataHora": "2023-02-01T00:00",
+    "situacao": null,
+    "condicaoEleitoral": null,
+    "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812/historico"
+   }
+  ]
+ }
+}

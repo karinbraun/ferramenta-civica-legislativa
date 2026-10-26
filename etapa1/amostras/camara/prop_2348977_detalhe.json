@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977",
+ "requisitado_em_utc": "2026-10-26T23:39:16+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2348977,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 583,
+   "ano": 2023,
+   "ementa": "Dispõe sobre o direito de toda mulher a ter acompanhante, pessoa de sua livre escolha, durante o trabalho de parto, parto, pós-parto imediato, consultas, exames, cirurgias ou qualquer outro procedimento de saúde, nos estabelecimentos públicos e privados de saúde.",
+   "dataApresentacao": "2023-02-16T15:53",
+   "uriOrgaoNumerador": null,
+   "statusProposicao": {
+    "dataHora": "2023-03-07T00:00",
+    "sequencia": 16,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Arquivamento",
+    "codTipoTramitacao": "502",
+    "descricaoSituacao": "Aguardando Encaminhamento",
+    "codSituacao": 910,
+    "despacho": "Declarado prejudicado em face da aprovação em Plenário do Substitutivo ao Projeto de Lei nº 81, de 2022, adotado pela relatora da Comissão de Saúde (Sessão Deliberativa Extraordinária de 7/3/2023 - 13h55 - 15ª Sessão).",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Garantia, acompanhante de paciente, mulher, período, trabalho de parto, parto, puerpério, Consulta médica, Exame médico, cirurgia, procedimento médico, rede pública de saúde, rede particular de saúde.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2332392",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2236012",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977"
+   }
+  ]
+ }
+}

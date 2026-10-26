@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392",
+ "requisitado_em_utc": "2026-10-26T23:39:29+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2348392,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 461,
+   "ano": 2023,
+   "ementa": "Altera as Leis nºs 13.756, de 12 de dezembro de 2018, e 13.675, de 11 de junho de 2018, para estabelecer diretrizes e metas sobre o recebimento dos recursos do Fundo Nacional de Segurança Pública (FNSP) para ações de enfrentamento da violência contra a mulher",
+   "dataApresentacao": "2023-02-13T09:07",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870",
+   "statusProposicao": {
+    "dataHora": "2026-09-08T13:57",
+    "sequencia": 64,
+    "siglaOrgao": "CCJC",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204540",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Recebimento",
+    "codTipoTramitacao": "500",
+    "descricaoSituacao": "Aguardando Designação de Relator(a)",
+    "codSituacao": 907,
+    "despacho": "Recebimento pelo(a) CCJC.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Anulada"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei Federal, Ministério da Justiça e Segurança Pública, bloqueio, recursos, procedência, Fundo Nacional de Segurança Pública (FNSP), ente federado, ausência, diminuição, índice de violência, violência contra a mulher. _Alteração, Lei Federal, União, articulação, estado (ente federado), Distrito federal (Brasil), município, realização, avaliação, implementação, Plano Nacional de Segurança Pública e Defesa Social (PNSP), Plano estadual de combate à violência contra a mulher, finalidade, verificação, cumprimento, meta, recomendação, gestor, política pública.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2234762",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392"
+   }
+  ]
+ }
+}

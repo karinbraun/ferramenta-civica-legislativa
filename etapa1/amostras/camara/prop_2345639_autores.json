@@ -1,0 +1,31 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/autores",
+ "requisitado_em_utc": "2026-10-26T23:38:53+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+    "nome": "Delegado Bruno Lima",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 2,
+    "proponente": 1
+   },
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160161",
+    "nome": "Marcelo Queiroz",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 1,
+    "proponente": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/autores"
+   }
+  ]
+ }
+}

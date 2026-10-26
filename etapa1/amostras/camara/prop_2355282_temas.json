@@ -1,0 +1,25 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282/temas",
+ "requisitado_em_utc": "2026-10-26T23:40:13+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 35,
+    "tema": "Arte, Cultura e Religião",
+    "relevancia": 0
+   },
+   {
+    "codTema": 70,
+    "tema": "Finanças Públicas e Orçamento",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282/temas"
+   }
+  ]
+ }
+}

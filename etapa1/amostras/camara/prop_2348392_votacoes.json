@@ -1,0 +1,54 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/votacoes",
+ "requisitado_em_utc": "2026-10-26T23:39:33+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": "2348392-61",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2348392-61",
+    "data": "2026-09-02",
+    "dataHoraRegistro": "2026-09-02T10:06:27",
+    "siglaOrgao": "CFT",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/82907",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovado o Parecer.",
+    "aprovacao": 1
+   },
+   {
+    "id": "2348392-39",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2348392-39",
+    "data": "2023-12-12",
+    "dataHoraRegistro": "2023-12-12T15:31:42",
+    "siglaOrgao": "CSPCCO",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/70724",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovado o Parecer.",
+    "aprovacao": 1
+   },
+   {
+    "id": "2348392-26",
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2348392-26",
+    "data": "2023-09-13",
+    "dataHoraRegistro": "2023-09-13T13:54:50",
+    "siglaOrgao": "CMULHER",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870",
+    "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/69628",
+    "proposicaoObjeto": null,
+    "uriProposicaoObjeto": null,
+    "descricao": "Aprovado o Parecer.",
+    "aprovacao": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/votacoes"
+   }
+  ]
+ }
+}

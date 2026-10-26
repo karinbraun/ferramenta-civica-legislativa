@@ -1,0 +1,30 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935/temas",
+ "requisitado_em_utc": "2026-10-26T23:39:46+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 57,
+    "tema": "Defesa e Segurança",
+    "relevancia": 0
+   },
+   {
+    "codTema": 43,
+    "tema": "Direito Penal e Processual Penal",
+    "relevancia": 0
+   },
+   {
+    "codTema": 46,
+    "tema": "Educação",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935/temas"
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1279451-26/votos",
+ "requisitado_em_utc": "2026-10-26T23:42:48+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1279451-26/votos"
+   }
+  ]
+ }
+}

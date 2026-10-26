@@ -1,0 +1,14 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631/votacoes",
+ "requisitado_em_utc": "2026-10-26T23:39:28+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631/votacoes"
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/204483/historico",
+ "requisitado_em_utc": "2026-10-26T23:44:58+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 204483,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204483",
+    "nome": "Vilson da Fetaemg ",
+    "nomeEleitoral": "VILSON DA FETAEMG ",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204483.jpg",
+    "dataHora": "2019-02-01T11:45",
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+   },
+   {
+    "id": 204483,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204483",
+    "nome": "Vilson da Fetaemg ",
+    "nomeEleitoral": "VILSON DA FETAEMG ",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204483.jpg",
+    "dataHora": "2023-01-31T23:59",
+    "situacao": "FIM_MANDATO",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Saída - Afastamento definitivo - Término da Legislatura"
+   },
+   {
+    "id": 204483,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204483",
+    "nome": "Vilson da Fetaemg ",
+    "nomeEleitoral": "VILSON DA FETAEMG ",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204483.jpg",
+    "dataHora": "2023-02-01T00:00",
+    "situacao": null,
+    "condicaoEleitoral": null,
+    "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204483/historico"
+   }
+  ]
+ }
+}

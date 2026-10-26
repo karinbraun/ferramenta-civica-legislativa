@@ -1,0 +1,127 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385/historico",
+ "requisitado_em_utc": "2026-10-26T23:45:17+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2019-02-01T11:45",
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2020-07-01T16:27",
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Alteração de partido"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2022-04-27T19:00",
+    "situacao": "VACANCIA",
+    "condicaoEleitoral": "NAO_ELEITO",
+    "descricaoStatus": "DIVERSO - Decisão da Mesa - Perda de Mandato por Recontagem de Votos"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2022-06-03T16:31",
+    "situacao": "CONVOCADO",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "DIVERSO - Decisão da Mesa - Convocado para reassunção como titular por recontagem de votos"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2022-06-03T16:50",
+    "situacao": "CONVOCADO",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Entrada - Reassunção / DIVERSO - Convocação Eleito ou Suplente"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2022-06-14T12:00",
+    "situacao": "VACANCIA",
+    "condicaoEleitoral": "NAO_ELEITO",
+    "descricaoStatus": "DIVERSO - Decisão da Mesa - Perda de Mandato por Recontagem de Votos"
+   },
+   {
+    "id": 204385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385",
+    "nome": "Valdevan Noventa ",
+    "nomeEleitoral": "VALDEVAN NOVENTA ",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 56,
+    "email": null,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+    "dataHora": "2023-02-01T00:00",
+    "situacao": null,
+    "condicaoEleitoral": null,
+    "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204385/historico"
+   }
+  ]
+ }
+}

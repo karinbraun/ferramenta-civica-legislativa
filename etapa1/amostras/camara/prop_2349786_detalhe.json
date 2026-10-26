@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786",
+ "requisitado_em_utc": "2026-10-26T23:40:02+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2349786,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 783,
+   "ano": 2023,
+   "ementa": "Altera a Lei nº 9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, sobre pagamento da dívida representada por Títulos da Dívida Agrária e dá outras providências.",
+   "dataApresentacao": "2023-03-01T20:15",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001",
+   "statusProposicao": {
+    "dataHora": "2026-07-13T15:55",
+    "sequencia": 41,
+    "siglaOrgao": "CAPADR",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/178954",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Parecer do(a) Relator(a)",
+    "codTipoTramitacao": "322",
+    "descricaoSituacao": "Pronta para Pauta",
+    "codSituacao": 924,
+    "despacho": "Parecer do Relator, Dep. Lucio Mosquini (PL-RO), pela aprovação, com substitutivo.",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162095",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei do ITR e Pagamento das Dívidas por Títulos da Dívida Agrária, critério, definição, Gleba, atualização, base de cálculo, Imposto sobre a Propriedade Territorial Rural (ITR), imóvel rural, produtor rural.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2238878",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786"
+   }
+  ]
+ }
+}

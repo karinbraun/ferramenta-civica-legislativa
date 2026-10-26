@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935",
+ "requisitado_em_utc": "2026-10-26T23:39:45+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2348935,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 572,
+   "ano": 2023,
+   "ementa": "Altera a Lei nº 11.530, de 24 de outubro de 2007 e dá outras providências.",
+   "dataApresentacao": "2023-02-16T11:19",
+   "uriOrgaoNumerador": null,
+   "statusProposicao": {
+    "dataHora": "2023-04-28T00:00",
+    "sequencia": 14,
+    "siglaOrgao": "CCP",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+    "uriUltimoRelator": null,
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Publicação de Proposição",
+    "codTipoTramitacao": "604",
+    "descricaoSituacao": "Aguardando Designação de Relator(a)",
+    "codSituacao": 907,
+    "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 29/04/2023 PAG 278",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei do Programa Nacional de Segurança Pública com Cidadania, inclusão, Agente socioeducativo, Guarda municipal, Policial federal, Policial rodoviário federal, Programa Nacional de Segurança Pública com Cidadania (Pronasci), Bolsa-Formação, Educação e formação profissional, diretrizes.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2235857",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935"
+   }
+  ]
+ }
+}

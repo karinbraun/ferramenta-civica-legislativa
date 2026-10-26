@@ -1,0 +1,25 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/temas",
+ "requisitado_em_utc": "2026-10-26T23:38:53+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 48,
+    "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+    "relevancia": 0
+   },
+   {
+    "codTema": 56,
+    "tema": "Saúde",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345639/temas"
+   }
+  ]
+ }
+}

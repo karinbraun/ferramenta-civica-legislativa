@@ -1,0 +1,23 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434/autores",
+ "requisitado_em_utc": "2026-10-26T23:40:09+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+    "nome": "Celso Sabino",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 1,
+    "proponente": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434/autores"
+   }
+  ]
+ }
+}

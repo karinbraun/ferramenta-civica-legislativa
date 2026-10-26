@@ -1,0 +1,14 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/146708-57/votos",
+ "requisitado_em_utc": "2026-10-26T23:41:06+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/146708-57/votos"
+   }
+  ]
+ }
+}

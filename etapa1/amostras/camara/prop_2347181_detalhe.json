@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347181",
+ "requisitado_em_utc": "2026-10-26T23:39:05+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2347181,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347181",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 333,
+   "ano": 2023,
+   "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para prever a prioridade de atendimento psicossocial às mães que se dedicam integralmente ao cuidado de filhos com transtorno do espectro autista.",
+   "dataApresentacao": "2023-02-07T14:33",
+   "uriOrgaoNumerador": null,
+   "statusProposicao": {
+    "dataHora": "2023-05-17T00:00",
+    "sequencia": 16,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Arquivamento",
+    "codTipoTramitacao": "502",
+    "descricaoSituacao": "Aguardando Encaminhamento",
+    "codSituacao": 910,
+    "despacho": "Declarado prejudicado em face da aprovação em Plenário da Subemenda Substitutiva Global ao Projeto de Lei nº 3.630, de 2021, adotada pelo relator da Comissão de Defesa dos Direitos das Pessoas com Deficiência (Sessão Deliberativa Extraordinária de 17/5/2023 - 13h55 - 77ª Sessão).",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347181/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Lei Berenice Piana, Atendimento preferencial, Assistência psicossocial, mãe, Pessoa com transtorno do espectro autista, Sistema Único de Saúde (SUS).",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329114",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2233301",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347181"
+   }
+  ]
+ }
+}

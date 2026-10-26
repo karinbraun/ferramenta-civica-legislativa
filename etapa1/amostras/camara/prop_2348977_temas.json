@@ -1,0 +1,25 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977/temas",
+ "requisitado_em_utc": "2026-10-26T23:39:17+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "codTema": 44,
+    "tema": "Direitos Humanos e Minorias",
+    "relevancia": 0
+   },
+   {
+    "codTema": 56,
+    "tema": "Saúde",
+    "relevancia": 0
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977/temas"
+   }
+  ]
+ }
+}

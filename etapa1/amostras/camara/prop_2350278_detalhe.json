@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350278",
+ "requisitado_em_utc": "2026-10-26T23:39:35+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2350278,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350278",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 912,
+   "ano": 2023,
+   "ementa": "Acrescenta §2º ao art. 322 do Decreto-Lei nº 3.689, de 3 de outubro de 1941, renumerando-se o atual parágrafo único, para prever a competência da autoridade judicial para arbitrar fiança nos casos de lesão corporal contra mulher vítima de violência doméstica.",
+   "dataApresentacao": "2023-03-07T13:14",
+   "uriOrgaoNumerador": null,
+   "statusProposicao": {
+    "dataHora": "2023-06-06T20:26",
+    "sequencia": 14,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Especial",
+    "descricaoTramitacao": "Notificação de Apensação",
+    "codTipoTramitacao": "504",
+    "descricaoSituacao": "Tramitando em Conjunto",
+    "codSituacao": 925,
+    "despacho": "Apense-se a este(a) o(a) PL-2253/2023.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350278/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Código de Processo Penal, competência, Autoridade judiciária, fiança, acusado, lesão corporal, mulher, violência doméstica.",
+   "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123764",
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2240125",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350278"
+   }
+  ]
+ }
+}

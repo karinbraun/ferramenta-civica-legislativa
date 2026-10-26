@@ -1,0 +1,1027 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=43",
+ "requisitado_em_utc": "2026-10-26T23:39:23+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 2345625,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345625",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 3,
+    "ano": 2023,
+    "ementa": "Cria o Protocolo Não é Não de atendimento à mulher vítima de violência sexual ou assédio em discotecas ou estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro estabelecimento de grande circulação de pessoas.   NOVA EMENTA: Cria o protocolo \"Não é Não\", para prevenção ao constrangimento e à violência contra a mulher e para proteção à vítima; institui o selo \"Não é Não - Mulheres Seguras\"; e altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte).",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345627,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345627",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 4,
+    "ano": 2023,
+    "ementa": "Estabelece protocolo de segurança para as mulheres em casas de festas, discotecas, boates e bares, cria o Selo Não é Não – Mulheres Seguras e dá outras providências.",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345643,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345643",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 12,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o Protocolo de Segurança para prevenção e identificação da prática de atos que atentem contra a liberdade sexual da mulher em locais de lazer e outros estabelecimentos destinados ao entretenimento.",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345646",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 14,
+    "ano": 2023,
+    "ementa": "Cria o Protocolo de Apoio às Pessoas Vítimas de Violência Sexual em Eventos e Estabelecimentos Comerciais.",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345669,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345669",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 27,
+    "ano": 2023,
+    "ementa": "Altera o Código Penal para tornar automática a perda da função pública do agente público condenado por corrupção passiva.",
+    "dataApresentacao": "2023-02-02T09:02"
+   },
+   {
+    "id": 2345712,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345712",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 47,
+    "ano": 2023,
+    "ementa": "Acrescenta §2º e §3º ao art. 156 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) para estabelecer a obrigatoriedade de o Ministério Público buscar a verdade dos fatos também a favor do indiciado ou acusado.",
+    "dataApresentacao": "2023-02-02T09:09"
+   },
+   {
+    "id": 2345731,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345731",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 57,
+    "ano": 2023,
+    "ementa": "Altera o Código Penal para incluir entre as causas de aumento de pena a retirada de preservativo sem o consentimento da parceira ou do parceiro.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2345734,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345734",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 59,
+    "ano": 2023,
+    "ementa": "Inclui os §§ 1°, 2° e 3° no art. 13 da Lei nº 7.210, de 11 de julho de 1984 – Lei de Execuções Penais, para estabelecer os produtos de higiene como itens obrigatórios nos estabelecimentos prisionais.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2346764,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346764",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 97,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o compartilhamento de informações entre órgãos de investigação.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2346770,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346770",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 100,
+    "ano": 2023,
+    "ementa": "Institui o Protocolo Não Se Calem que obriga espaços públicos e privados de lazer a implementarem medidas de proteção de mulheres em situação de risco ou violência sexual nas dependências de seus estabelecimentos em todo território nacional.",
+    "dataApresentacao": "2023-02-02T09:11"
+   },
+   {
+    "id": 2346823,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346823",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 128,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 14.192, de 4 de agosto de 2021, e a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral) para garantir que todas as mulheres tenham direito à proteção contra a violência política de gênero, sem qualquer distinção.",
+    "dataApresentacao": "2023-02-02T09:13"
+   },
+   {
+    "id": 2346842,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346842",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 138,
+    "ano": 2023,
+    "ementa": "Inclui alínea c no inciso I do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para acrescentar a perda de cargo, emprego ou função pública como resultado da condenação no delito que especifica.",
+    "dataApresentacao": "2023-02-02T09:13"
+   },
+   {
+    "id": 2346847,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346847",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 142,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.716, de 5 de janeiro de 1989, para tipificar a fabricação, comercialização, distribuição ou veiculação de símbolos, emblemas, ornamentos, distintivos ou propaganda, para fins de divulgação do nazismo ou do fascismo.",
+    "dataApresentacao": "2023-02-02T09:14"
+   },
+   {
+    "id": 2346850,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346850",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 145,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a criminalização de manifestações nazistas e neonazistas e dá outras providências.",
+    "dataApresentacao": "2023-02-02T09:15"
+   },
+   {
+    "id": 2346885,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346885",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 165,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a nulidade da nomeação ou contratação, para determinados cargos e empregos públicos, de pessoa condenada por crime sexual contra criança ou adolescente.",
+    "dataApresentacao": "2023-02-02T09:45"
+   },
+   {
+    "id": 2346907,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346907",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 176,
+    "ano": 2023,
+    "ementa": "Fixa a determinação para a proibição de utilização de veículos movidos à tração animal e à exploração animal para esse fim; altera a Lei nº 9.605, de 12 de fevereiro de 1998, para criminalizar tal conduta e dá outras providências.",
+    "dataApresentacao": "2023-02-02T10:40"
+   },
+   {
+    "id": 2346908,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346908",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 177,
+    "ano": 2023,
+    "ementa": "Altera as Leis nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para tornar hediondo o crime de maus-tratos aos animais e permitir a prisão temporária do indiciado.",
+    "dataApresentacao": "2023-02-02T10:40"
+   },
+   {
+    "id": 2346909,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346909",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 178,
+    "ano": 2023,
+    "ementa": "Altera as Leis nº 9.605, de 12 de fevereiro de 1998, nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para tipificar o crime de zooerastia, torná-lo hediondo e permitir a prisão temporária do indiciado.",
+    "dataApresentacao": "2023-02-02T10:40"
+   },
+   {
+    "id": 2346910,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346910",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 179,
+    "ano": 2023,
+    "ementa": "Reconhece a família multiespécie como entidade familiar e dá outras providências.",
+    "dataApresentacao": "2023-02-02T10:40"
+   },
+   {
+    "id": 2346912,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346912",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 181,
+    "ano": 2023,
+    "ementa": "Altera as Leis nº 9.605, de 12 de fevereiro de 1998, nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para estabelecer a pena de reclusão a quem forçar animais silvestres, domésticos ou domesticados, nativos ou exóticos, a agredirem-se com vistas ao entretenimento humano, tornar hedionda essa conduta e permitir a prisão temporária do indiciado.",
+    "dataApresentacao": "2023-02-02T10:41"
+   },
+   {
+    "id": 2346913,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346913",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 182,
+    "ano": 2023,
+    "ementa": "Altera a Lei n.º 9.605, de 12 de fevereiro de 1998, para criar o tipo penal de tráfico de animais silvestres e dar outras providências.",
+    "dataApresentacao": "2023-02-02T10:41"
+   },
+   {
+    "id": 2346915,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346915",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 184,
+    "ano": 2023,
+    "ementa": "Criminaliza condutas praticadas contra cães e gatos, e dá outras providências.",
+    "dataApresentacao": "2023-02-02T10:41"
+   },
+   {
+    "id": 2346928,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346928",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 190,
+    "ano": 2023,
+    "ementa": "Tipifica o crime de violência obstétrica.",
+    "dataApresentacao": "2023-02-02T11:39"
+   },
+   {
+    "id": 2346931,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346931",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 192,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para criminalizar condutas de pessoas que instigam, incentivam, influenciam ou permitem criança ou adolescente a mudar seu gênero biológico, bem como a de prestar auxílio a quem a pratique.",
+    "dataApresentacao": "2023-02-02T11:42"
+   },
+   {
+    "id": 2346942,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346942",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 197,
+    "ano": 2023,
+    "ementa": "Altera o Código Penal para incluir causa de aumento de pena do qualquer profissional que, em decorrência do exercício de suas funções, comete crime contra a liberdade sexual ou crime sexual contra vulnerável",
+    "dataApresentacao": "2023-02-02T11:42"
+   },
+   {
+    "id": 2346954,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346954",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 207,
+    "ano": 2023,
+    "ementa": "Tipifica os crimes contra a inviolabilidade da intimidade e da vida privada.",
+    "dataApresentacao": "2023-02-02T12:48"
+   },
+   {
+    "id": 2346956,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346956",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 209,
+    "ano": 2023,
+    "ementa": "Altera o art. 1º, caput, da Lei nº 8.072, de 1990, para incluir no rol de crimes hediondos os crimes de peculato, emprego irregular de verbas ou rendas públicas, concussão, corrupção passiva, prevaricação, tráfico de influência e corrupção ativa.",
+    "dataApresentacao": "2023-02-02T13:16"
+   },
+   {
+    "id": 2346963,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346963",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 215,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº. 2.848, de 7 de dezembro de 1940 - Código Penal, para tornar homicídio qualificado o crime praticado contra mais de um membro da mesma família (familicídio), entre outras disposições.",
+    "dataApresentacao": "2023-02-02T13:43"
+   },
+   {
+    "id": 2347025,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347025",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 228,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal para considerar como estupro o ato de constranger alguém a ter conjunção carnal em caso de aproveitamento de sua vulnerabilidade ou ausência de sentido que o impeça de consentir expressamente.",
+    "dataApresentacao": "2023-02-02T15:38"
+   },
+   {
+    "id": 2347056,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347056",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 258,
+    "ano": 2023,
+    "ementa": "Dispõe sobre medidas de segurança a serem adotadas por administradores de bares, casas de shows, restaurantes e estabelecimentos similares, visando à proteção das mulheres, inclusive transexuais, em suas dependências, e dá outras providências.",
+    "dataApresentacao": "2023-02-03T11:28"
+   },
+   {
+    "id": 2347058,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347058",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 260,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais) para impor ao autor da infração os custos materiais do resgate de animais, e dá outras providências.",
+    "dataApresentacao": "2023-02-03T11:28"
+   },
+   {
+    "id": 2347063,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347063",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 265,
+    "ano": 2023,
+    "ementa": "Institui a obrigação de reparar danos resultantes de prática de crimes contra o Estado Democrático de Direito.",
+    "dataApresentacao": "2023-02-03T14:13"
+   },
+   {
+    "id": 2347096,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347096",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 291,
+    "ano": 2023,
+    "ementa": "“Estabelece, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, restrições aplicáveis aos atos de nomeação para cargos em comissão e de designação para funções de confiança, bem como para inscrições em concursos públicos destinados ao provimento dos cargos que discrimina, contratação de empregado por empresa e dá outras providências.”",
+    "dataApresentacao": "2023-02-06T14:48"
+   },
+   {
+    "id": 2347102,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347102",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 294,
+    "ano": 2023,
+    "ementa": "Esta Lei altera a redação do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para acabar com a redução de metade dos prazos prescricionais em relação ao menor de vinte e um anos.",
+    "dataApresentacao": "2023-02-06T15:51"
+   },
+   {
+    "id": 2347113,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347113",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 300,
+    "ano": 2023,
+    "ementa": "Altera o Art. 32 da Lei 9.605, de 12 de fevereiro de 1998.",
+    "dataApresentacao": "2023-02-06T17:28"
+   },
+   {
+    "id": 2347135,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347135",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 311,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para dispor sobre o monitoramento eletrônico como meio de fiscalizar o cumprimento das medidas protetivas de urgência.",
+    "dataApresentacao": "2023-02-07T10:21"
+   },
+   {
+    "id": 2347150,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347150",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 321,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941, para dispor sobre a possibilidade de realização da audiência de custódia por videoconferência.",
+    "dataApresentacao": "2023-02-07T11:11"
+   },
+   {
+    "id": 2347178,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347178",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 331,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para instituir o programa de teleorientação em questões de gênero direcionada à população masculina.",
+    "dataApresentacao": "2023-02-07T14:33"
+   },
+   {
+    "id": 2347212,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347212",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 348,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências, para aumentar a pena nos casos em que o produto nocivo à saúde humana e ao meio ambiente for o metal pesado Mercúrio (Hg), produto ou substância nuclear ou radioativa.",
+    "dataApresentacao": "2023-02-07T17:06"
+   },
+   {
+    "id": 2347213,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347213",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 349,
+    "ano": 2023,
+    "ementa": "Tipifica como crime a venda ou qualquer outra ação que decorra do comércio ilegal de produtos ou medicamentos que possuam efeito abortivo e dá outras disposições.",
+    "dataApresentacao": "2023-02-07T17:39"
+   },
+   {
+    "id": 2348266,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348266",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 397,
+    "ano": 2023,
+    "ementa": "Institui o Programa \"Voo para a Liberdade\", com o objetivo de que sejam adotadas ações para coibir o tráfico de pessoas em aeroportos e aeronaves.",
+    "dataApresentacao": "2023-02-09T09:49"
+   },
+   {
+    "id": 2348304,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348304",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 419,
+    "ano": 2023,
+    "ementa": "Modifica os arts. 65 e 115 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para alterar circunstância atenuante e veda a redução do prazo de prescrição para os crimes que envolvam violência sexual contra a mulher, quando o agente for, na data do fato, menor de 21 (vinte e um) anos e, na data da sentença, maior de 70 (setenta) anos de idade.",
+    "dataApresentacao": "2023-02-09T14:24"
+   },
+   {
+    "id": 2348305,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348305",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 420,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o protocolo de auxílio a mulheres em situação de risco ou violência sexual nas dependências de estabelecimentos comerciais de lazer em todo território nacional.",
+    "dataApresentacao": "2023-02-09T14:25"
+   },
+   {
+    "id": 2348306,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348306",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 421,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), a fim de aumentar o prazo para a vítima de violência doméstica oferecer representação criminal.",
+    "dataApresentacao": "2023-02-09T14:27"
+   },
+   {
+    "id": 2348308,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348308",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 422,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a violência obstétrica, e sobre o dever dos diversos Poderes dos entes da Federação de promover políticas públicas integradas para a sua prevenção e repressão, alterando a Lei nº 11.340, de 7 de agosto de 2006.",
+    "dataApresentacao": "2023-02-09T14:31"
+   },
+   {
+    "id": 2348348,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348348",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 440,
+    "ano": 2023,
+    "ementa": "Altera o Art. 5º da Lei 12.030, de 17 de setembro de 2009.",
+    "dataApresentacao": "2023-02-09T18:39"
+   },
+   {
+    "id": 2348356,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348356",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 446,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.716, de 5 de janeiro de 1989, que define resultantes de preconceito de raça ou cor.",
+    "dataApresentacao": "2023-02-10T14:52"
+   },
+   {
+    "id": 2348603,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348603",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 469,
+    "ano": 2023,
+    "ementa": "Altera os incisos V e VI, do art. 51 da Lei 9.099/95, realizando alteração do prazo para habilitação do espólio ou sucessores nos autos dos processos em trâmite no âmbito dos juizados especiais cíveis e criminais.",
+    "dataApresentacao": "2023-02-13T13:51"
+   },
+   {
+    "id": 2348610,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348610",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 471,
+    "ano": 2023,
+    "ementa": "Altera o inciso II do art. 226, do Decreto-lei nº 2.848, de 07 de dezembro de 1940 - Código Penal, para majorar a causa de aumento de pena nos crimes contra a liberdade sexual e aqueles envolvendo violência doméstica ou familiar contra a mulher.",
+    "dataApresentacao": "2023-02-13T15:03"
+   },
+   {
+    "id": 2348611,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348611",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 472,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para impedir a prestação de alimentos ou a partilha de bens adquiridos na constância do casamento ou da união estável, em favor do cônjuge ou companheiro agressor.",
+    "dataApresentacao": "2023-02-13T15:05"
+   },
+   {
+    "id": 2348617,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348617",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 478,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.960, de 21 de dezembro de 1989, para permitir a prisão temporária do indiciado pelos crimes previstos na Lei nº 7.716, de 5 de janeiro de 1989.",
+    "dataApresentacao": "2023-02-13T16:26"
+   },
+   {
+    "id": 2348636,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348636",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 487,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 - Código Penal, para dispor sobre a extorsão de pessoa jurídica.",
+    "dataApresentacao": "2023-02-13T18:51"
+   },
+   {
+    "id": 2348653,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348653",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 492,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o confisco e a destinação de bens utilizados nos crimes contra o Estado Democrático de Direito e dá outras providências.",
+    "dataApresentacao": "2023-02-14T11:18"
+   },
+   {
+    "id": 2348774,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348774",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 514,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 2.848 de 07 de dezembro de 1940 - Código Penal, para aumentar a pena de crime de “Registro não autorizado de intimidade sexual” (art. 216-B) e segregar as condutas de “Divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia” (art. 218-C), com a majoração das respectivas penas",
+    "dataApresentacao": "2023-02-14T19:41"
+   },
+   {
+    "id": 2348788,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348788",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 518,
+    "ano": 2023,
+    "ementa": "Estabelece isenção de pagamento de pedágio em rodovias federais para idosos acima de 70 anos e deficientes físicos, visual, mental severa, profunda, ou autistas.",
+    "dataApresentacao": "2023-02-14T20:34"
+   },
+   {
+    "id": 2348796,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348796",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 523,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a obrigatoriedade de comunicação, por serviços públicos ou privados de saúde, ao Conselho Tutelar ou à autoridade policial, de indícios de castigo físico, tratamento cruel ou degradante e maus-tratos contra a criança ou adolescente e dá outras providências.",
+    "dataApresentacao": "2023-02-14T21:58"
+   },
+   {
+    "id": 2348848,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348848",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 538,
+    "ano": 2023,
+    "ementa": "Insere nova causa de aumento de pena na lesão corporal cometida no âmbito de violência doméstica ou por razões da condição do sexo feminino, quando praticada na presença física ou virtual de descendente ou de ascendente da vítima.",
+    "dataApresentacao": "2023-02-15T12:57"
+   },
+   {
+    "id": 2348857,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348857",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 539,
+    "ano": 2023,
+    "ementa": "Acrescenta art. 43-A à Lei nº 11.340, de 07 de agosto de 2006, para vedar aos condenados por crimes praticados com violência contra a mulher a participação em concursos públicos e inabilitá-los para o exercício de funções de confiança e cargos em comissão na Administração Pública.",
+    "dataApresentacao": "2023-02-15T13:36"
+   },
+   {
+    "id": 2348868,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348868",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 541,
+    "ano": 2023,
+    "ementa": "Acresce parágrafo único ao art.123 e acrescenta o art. 123-A ao Decreto-Lei nº 2.848, de 07 de dezembro de 1940 - Código Penal Brasileiro, e dá outras providências.",
+    "dataApresentacao": "2023-02-15T14:39"
+   },
+   {
+    "id": 2348909,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348909",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 565,
+    "ano": 2023,
+    "ementa": "Altera Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, para ampliar a pena do crime de maus-tratos de animais.",
+    "dataApresentacao": "2023-02-15T18:34"
+   },
+   {
+    "id": 2348935,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 572,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.530, de 24 de outubro de 2007 e dá outras providências.",
+    "dataApresentacao": "2023-02-16T11:19"
+   },
+   {
+    "id": 2348959,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348959",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 576,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei 2.848, de 1940 (Código Penal), para criar o tipo penal de corrupção privada.",
+    "dataApresentacao": "2023-02-16T12:30"
+   },
+   {
+    "id": 2349080,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349080",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 617,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para aumentar as penas aos profissionais que possuem o dever legal de proteger a fauna e a flora e pratiquem as condutas descritas no Capitulo V, Seção I e II.",
+    "dataApresentacao": "2023-02-23T09:43"
+   },
+   {
+    "id": 2349099,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349099",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 624,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o financiamento e a instalação de sistema de energia fotovoltaica para consumidores de baixa renda beneficiários da tarifa social.  NOVA EMENTA: Institui o Programa Renda Básica Energética (Rebe); e altera as Leis nºs 10.438, de 26 de abril de 2002, 14.182, de 12 de julho de 2021, e 14.300, de 6 de janeiro de 2022.",
+    "dataApresentacao": "2023-02-23T11:31"
+   },
+   {
+    "id": 2349285,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349285",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 651,
+    "ano": 2023,
+    "ementa": "Altera os arts. 155 e 157 do Decreto-Lei nº 2.848, de 7 dezembro de 1940 (Código Penal), para dispor sobre os crimes de furto, furto qualificado e de roubo praticados durante calamidade pública ou de emergência social.",
+    "dataApresentacao": "2023-02-24T15:34"
+   },
+   {
+    "id": 2349291,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349291",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 652,
+    "ano": 2023,
+    "ementa": "Acrescenta o § 4º–A e incisos I, II, III e IV no art. 33 da Lei nº 11.343, de 23 de agosto de 2006, que institui o Sistema Nacional de Políticas Públicas sobre Drogas.",
+    "dataApresentacao": "2023-02-24T15:44"
+   },
+   {
+    "id": 2349294,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349294",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 654,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para acrescentar causa de aumento de pena para crimes cometidos contra o patrimônio na vigência do estado de calamidade pública.",
+    "dataApresentacao": "2023-02-24T16:17"
+   },
+   {
+    "id": 2349305,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349305",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 657,
+    "ano": 2023,
+    "ementa": "Acrescenta parágrafos aos arts. 121, 157 e 158 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, estipulando que no homicídio doloso, no feminicídio, no latrocínio e na extorsão mediante sequestro de que resulte a morte, praticados mediante mais de uma ação, as penas privativas de liberdade serão aplicadas cumulativamente, ainda que cometidos em continuação decorrente das condições de tempo, lugar, maneira de execução e outras semelhantes.",
+    "dataApresentacao": "2023-02-24T17:55"
+   },
+   {
+    "id": 2349346,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349346",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 677,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-lei nº 2.848, de 7 de dezembro de 1940 -  Código Penal, para tipificar o crime de perigo de aventura, por meio da prática de escalada, espeleoturismo, alpinismo, arvorismo, mergulho, descida em corredeiras, ou quaisquer atividades de aventura ou de risco, em grupo acima de quatro pessoas, sem capacitação técnica ou sem equipamentos de segurança adequados.",
+    "dataApresentacao": "2023-02-27T11:52"
+   },
+   {
+    "id": 2349362,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349362",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 681,
+    "ano": 2023,
+    "ementa": "Altera a redação de dispositivos da Lei nº 10.671, de 15 de maio de 2003, Estatuto de Defesa do Torcedor, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, Código Penal, e da Lei nº 8.072, de 25 de julho de 1990, Lei dos Crimes Hediondos, para penalizar integrantes de clubes e torcidas organizadas que praticarem tumultos, conflitos coletivos ou atos de vandalismo em estádios ou logradouros públicos, e dá outras providências.",
+    "dataApresentacao": "2023-02-27T14:34"
+   },
+   {
+    "id": 2349368,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349368",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 682,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 para tornar crime à sujeição de criança e adolescente ao tratamento com a utilização de bloqueadores hormonais, bem como, cirurgias de redesignação sexual na rede de saúde pública e privada.",
+    "dataApresentacao": "2023-02-27T15:58"
+   },
+   {
+    "id": 2349428,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349428",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 700,
+    "ano": 2023,
+    "ementa": "Altera o artigo 146-C, da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) para permitir que os operadores do Sistema de Segurança Pública realizem o encaminhamento à Unidade Prisional dos custodiados que violarem as regras do monitoramento eletrônico e para permitir que os Centros de Atendimento de Ocorrências Policiais e as Autoridades Policiais tenham acesso às informações do sistema de gerenciamento do monitoramento eletrônico de custodiados.",
+    "dataApresentacao": "2023-02-28T12:42"
+   },
+   {
+    "id": 2349429,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349429",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 701,
+    "ano": 2023,
+    "ementa": "Estabelece diretrizes para capacitação de profissionais de segurança pública em matérias relativas à violência contra mulher no ambiente virtual.",
+    "dataApresentacao": "2023-02-28T12:48"
+   },
+   {
+    "id": 2349447,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349447",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 702,
+    "ano": 2023,
+    "ementa": "Acrescenta o art. 394-B ao Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para dar prioridade de tramitação nos crimes de redução a condição análoga à de escravo.",
+    "dataApresentacao": "2023-02-28T13:51"
+   },
+   {
+    "id": 2349493,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349493",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 709,
+    "ano": 2023,
+    "ementa": "Dispõe sobre impedimentos aplicados aos ocupantes e invasores de propriedades em todo território nacional.  NOVA EMENTA: Altera a Lei nº 8.629, de 25 de fevereiro de 1993, para dispor sobre impedimentos aplicados aos ocupantes e invasores de propriedades em todo o território nacional.",
+    "dataApresentacao": "2023-02-28T15:31"
+   },
+   {
+    "id": 2349503,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349503",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 712,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a proibição de comercialização de animais domésticos e silvestres pela internet.",
+    "dataApresentacao": "2023-02-28T15:49"
+   },
+   {
+    "id": 2349506,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349506",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 714,
+    "ano": 2023,
+    "ementa": "Altera o artigo 310, do Decreto-Lei nº 3.689, de 3 de outubro de 1941, (Código de Processo Penal) para tornar obrigatória a decretação de prisão preventiva na audiência de custódia em casos de crimes hediondos, roubo, associação criminosa qualificada e quando for configurada reincidência criminal.",
+    "dataApresentacao": "2023-02-28T16:10"
+   },
+   {
+    "id": 2349549,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349549",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 734,
+    "ano": 2023,
+    "ementa": "Altera a Lei 8.072, de 25 de julho de 1990 para tornar crime hediondo reduzir alguém à condição de trabalho análogo à de escravo.",
+    "dataApresentacao": "2023-02-28T19:06"
+   },
+   {
+    "id": 2349562,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349562",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 738,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o emprego de antecedentes socioeducativos para fins de reincidência, alterando o Decreto-Lei nº 2.848, de 3 de dezembro de 1940 (Código Penal).",
+    "dataApresentacao": "2023-02-28T19:37"
+   },
+   {
+    "id": 2349622,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349622",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 741,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 3.689, de 03 de outubro de 1941, Código de Processo Penal, para revogar a obrigatoriedade de realização de audiência de custódia.",
+    "dataApresentacao": "2023-02-28T20:41"
+   },
+   {
+    "id": 2349650,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349650",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 750,
+    "ano": 2023,
+    "ementa": "Altera o Decreto Lei n.º 2.848, de 07 de dezembro de 1940 – Código Penal, para majorar as penas dos crimes de furto, roubo ou receptação de quaisquer equipamentos ou instalações de serviços públicos essenciais.",
+    "dataApresentacao": "2023-03-01T12:14"
+   },
+   {
+    "id": 2349653,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349653",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 752,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.605 de 12 de fevereiro de 1998, para aumentar as penas dos Crimes contra a Fauna e dá outras providências.",
+    "dataApresentacao": "2023-03-01T12:31"
+   },
+   {
+    "id": 2349660,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349660",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 755,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o Combate ao Tráfico Ilícito de Pessoas, por meio da disponibilização de informações, para os passageiros dos meios de transportes (ônibus, barcos, aviões etc.), e o treinamento do pessoal de apoio das companhias transportadoras que, partindo do Brasil, em direção a outros países, possam estar conduzindo pessoas vítimas de tráfico humano e sexual.",
+    "dataApresentacao": "2023-03-01T13:32"
+   },
+   {
+    "id": 2349671,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349671",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 758,
+    "ano": 2023,
+    "ementa": "Institui o Programa Nacional de Prevenção e Combate à Violência Sexual.",
+    "dataApresentacao": "2023-03-01T15:03"
+   },
+   {
+    "id": 2349723,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349723",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 767,
+    "ano": 2023,
+    "ementa": "Acrescenta parágrafo único ao art.215-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, a fim de prever a conduta de importunação verbal.",
+    "dataApresentacao": "2023-03-01T16:42"
+   },
+   {
+    "id": 2349725,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349725",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 768,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis, da União, das autarquias e das fundações públicas federais, para vedar a nomeação para os cargos efetivos e em comissão no âmbito da Administração Pública Direta e Indireta, de pessoas que tenham sido condenadas pelos crimes previstos nas Leis nº  11.340/06, nº  8.069/90, nº  12.015/09, nº 10.741 e nº 8.072/90.",
+    "dataApresentacao": "2023-03-01T16:52"
+   },
+   {
+    "id": 2349726,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349726",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 769,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a obrigatoriedade de bares, restaurantes, casas noturnas e de eventos adotarem medidas de auxílio a mulheres que se sintam em situação de risco.",
+    "dataApresentacao": "2023-03-01T17:09"
+   },
+   {
+    "id": 2349771,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349771",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 781,
+    "ano": 2023,
+    "ementa": "Altera dispositivos da Lei nº 9.472, de 16 de julho de 1997, Lei Geral de Telecomunicações - LGT, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, Código Penal, e do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para instituir o Programa “Meu cantinho da Aprovação”, cujo objetivo é disponibilizar cabines de estudo gratuitas para estudantes.",
+    "dataApresentacao": "2023-03-01T19:28"
+   },
+   {
+    "id": 2349834,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349834",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 796,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal para inserir a causa de aumento de pena no art. 157, §2°, inciso VIII e altera a redação do paragrafo único do art. 147.",
+    "dataApresentacao": "2023-03-02T13:35"
+   },
+   {
+    "id": 2349845,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349845",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 802,
+    "ano": 2023,
+    "ementa": "Institui o Fundo Nacional de Recuperação de Ativos e Combate à Corrupção – FNRACC, e disciplina a destinação dos recursos arrecadados.",
+    "dataApresentacao": "2023-03-02T15:30"
+   },
+   {
+    "id": 2349861,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349861",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 813,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para conferir prioridade à realização exame de corpo de delito em crime contra a fauna.",
+    "dataApresentacao": "2023-03-02T16:41"
+   },
+   {
+    "id": 2349867,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349867",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 818,
+    "ano": 2023,
+    "ementa": "Cria qualificadora para o crime de ameaça quando cometido no âmbito de violência doméstica e familiar contra a mulher, e cria causa de aumento de pena para o crime de violência psicológica contra a mulher para o caso em que o delito é cometido por meio da rede mundial de computadores.",
+    "dataApresentacao": "2023-03-02T16:52"
+   },
+   {
+    "id": 2349874,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349874",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 821,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 3.689, de 03 de outubro de 1941 (Código de Processo Penal), para incluir nova hipótese de decretação da prisão preventiva.",
+    "dataApresentacao": "2023-03-02T17:11"
+   },
+   {
+    "id": 2349880,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349880",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 825,
+    "ano": 2023,
+    "ementa": "Obriga o Médico-veterinário a notificar os órgãos policiais competentes a ocorrência de maus-tratos a animal.",
+    "dataApresentacao": "2023-03-02T17:30"
+   },
+   {
+    "id": 2349896,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349896",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 831,
+    "ano": 2023,
+    "ementa": "Altera o § 2º do art. 327 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para que as autoridades que menciona tenham pena aumentada de um terço, quando praticarem crimes contra a Administração Pública.",
+    "dataApresentacao": "2023-03-02T18:06"
+   },
+   {
+    "id": 2349897,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349897",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 832,
+    "ano": 2023,
+    "ementa": "Altera o art. 2º da Lei nº 13.260, de 16 de março de 2016, para caracterizar como ato de terrorismo a invasão armada de terras particulares, terrenos, lotes, casa ou imóvel rural ,com intensão de ser o futuro proprietário, praticada com violência ou grave ameaça, mediante concurso de mais de duas pessoas.",
+    "dataApresentacao": "2023-03-02T18:07"
+   },
+   {
+    "id": 2349910,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349910",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 842,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-lei 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para proibir que o inquérito seja  presidido por autoridade judiciária.",
+    "dataApresentacao": "2023-03-02T18:22"
+   },
+   {
+    "id": 2349911,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349911",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 843,
+    "ano": 2023,
+    "ementa": "Estabelece que, nos casos de crimes cometidos nas dependências do Supremo Tribunal Federal, de tribunal superior, ou contra qualquer de seus membros, o presidente do respectivo tribunal deverá requisitar a instauração de inquérito à autoridade competente, sendo vedada a sua instauração de ofício.",
+    "dataApresentacao": "2023-03-02T18:24"
+   },
+   {
+    "id": 2349999,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349999",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 860,
+    "ano": 2023,
+    "ementa": "Modifica o Código Penal para ressalvar os prefeitos que deixem de recolher contribuição previdenciária para adimplemento de despesas obrigatórias de caráter continuado.",
+    "dataApresentacao": "2023-03-03T13:15"
+   },
+   {
+    "id": 2350001,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350001",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 862,
+    "ano": 2023,
+    "ementa": "Modifica o Código Penal para ressalvar os prefeitos que deixem de recolher contribuição previdenciária para adimplemento de despesas obrigatórias de caráter continuado.",
+    "dataApresentacao": "2023-03-03T13:19"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=43"
+   },
+   {
+    "rel": "next",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=43&pagina=2&itens=100"
+   },
+   {
+    "rel": "first",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=43&pagina=1&itens=100"
+   },
+   {
+    "rel": "last",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=43&pagina=32&itens=100"
+   }
+  ]
+ }
+}

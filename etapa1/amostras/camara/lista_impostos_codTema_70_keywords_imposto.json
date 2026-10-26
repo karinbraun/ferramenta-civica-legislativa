@@ -1,0 +1,1027 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=70&keywords=imposto",
+ "requisitado_em_utc": "2026-10-26T23:39:51+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 2345658,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345658",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 20,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para reduzir para um ano o prazo mínimo de renovação da isenção de IPI para aquisição de táxi.",
+    "dataApresentacao": "2023-02-02T09:01"
+   },
+   {
+    "id": 2345661,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345661",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 22,
+    "ano": 2023,
+    "ementa": "Inclui as despesas com profissionais de educação física entre as deduções autorizadas para fins de base de cálculo do imposto de renda de pessoa física.",
+    "dataApresentacao": "2023-02-02T09:01"
+   },
+   {
+    "id": 2345690,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345690",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 36,
+    "ano": 2023,
+    "ementa": "Altera o inciso XIV do art. 6º, da Lei nº 7.713, de 22 de dezembro de 1998, para determinar a concessão de isenção tributária ao contribuinte, portador de doença prevista no inciso, não se lhe exigindo a demonstração da contemporaneidade dos sintomas da doença nem da recidiva da enfermidade.",
+    "dataApresentacao": "2023-02-02T09:08"
+   },
+   {
+    "id": 2345744,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345744",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 68,
+    "ano": 2023,
+    "ementa": "Eleva a tributação aplicável às bebidas processadas adicionadas de açúcar, edulcorantes e aromatizantes a fim de estimular seu consumo consciente.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2346829,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346829",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 131,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a Isenção do Imposto sobre Produtos Industrializados – IPI sobre motocicletas de fabricação nacional, equipadas com motor de potência não superior a 250 (duzentos e cinquenta) cilindradas, alterando a Lei n.º 8.989 de 24 de fevereiro de 1995.",
+    "dataApresentacao": "2023-02-02T09:13"
+   },
+   {
+    "id": 2346833,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346833",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 133,
+    "ano": 2023,
+    "ementa": "Institui a política de incentivo a contratação de trabalhadores no primeiro emprego.",
+    "dataApresentacao": "2023-02-02T09:13"
+   },
+   {
+    "id": 2346841,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346841",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 137,
+    "ano": 2023,
+    "ementa": "Dispõe sobre isenção do Imposto sobre Produtos Industrializados incidente sobre os automóveis de passageiros de fabricação nacional do tipo veículo híbrido elétrico (hybrid electric vehicle - HEV), veículo híbrido elétrico plug-in (plug-in hybrid electric vehicle - PHEV), veículo elétrico a bateria (battery electric vehicle - BEV) ou veículo elétrico a célula de combustível (full-cell electric vehicle - FCEV).",
+    "dataApresentacao": "2023-02-02T09:13"
+   },
+   {
+    "id": 2347023,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347023",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 226,
+    "ano": 2023,
+    "ementa": "Altera as Leis n os 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física, 7.713, de 22 de dezembro de 1988 e 9.250, de 26 de dezembro de 1995.",
+    "dataApresentacao": "2023-02-02T15:24"
+   },
+   {
+    "id": 2347041,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347041",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 244,
+    "ano": 2023,
+    "ementa": "Institui o Fundo Nacional destinado a financiar e apoiar pesquisas e ações destinados às pessoas com deficiência.",
+    "dataApresentacao": "2023-02-02T17:55"
+   },
+   {
+    "id": 2347042,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347042",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 245,
+    "ano": 2023,
+    "ementa": "Altera a legislação do IRPF para permitir a dedução da contribuição patronal paga à Previdência Social pelo empregador doméstico.",
+    "dataApresentacao": "2023-02-02T17:55"
+   },
+   {
+    "id": 2347043,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347043",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 246,
+    "ano": 2023,
+    "ementa": "Altera a legislação do IRPF para permitir a dedução das despesas com médicos, clínicas e hospitais veterinários.",
+    "dataApresentacao": "2023-02-02T17:55"
+   },
+   {
+    "id": 2347092,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347092",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 287,
+    "ano": 2023,
+    "ementa": "Autoriza a pessoa física ou jurídica a realizar doações, de modo facultativo, para os fundos Municipais, Estaduais e Nacional do Animal doméstico diretamente em sua Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física ou Jurídica, e dá outras providências",
+    "dataApresentacao": "2023-02-06T14:02"
+   },
+   {
+    "id": 2347094,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347094",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 289,
+    "ano": 2023,
+    "ementa": "Concede isenção do Imposto sobre Produtos Industrializados (IPI) sobre os instrumentos e aparelhos médico-hospitalares de fabricação estrangeira, sem similares nacionais, quando adquiridos por hospitais, clínicas e consultórios, públicos ou privados",
+    "dataApresentacao": "2023-02-06T14:02"
+   },
+   {
+    "id": 2347095,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347095",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 290,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a possibilidade de dedução do imposto de renda (IR) de pessoas físicas e jurídicas a fundos controlados por Conselhos Municipais, Estaduais e Nacional da pessoa com deficiência, e dá outras providências",
+    "dataApresentacao": "2023-02-06T14:02"
+   },
+   {
+    "id": 2347160,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347160",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 325,
+    "ano": 2023,
+    "ementa": "Prevê a isenção na compra de veículos do tipo motocicleta do Imposto sobre Produtos Industrializados - IPI e do Imposto sobre Operações Financeiras - IOF, quando utilizados para as atividades de motofrete e mototaxista.",
+    "dataApresentacao": "2023-02-07T12:18"
+   },
+   {
+    "id": 2347198,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347198",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 338,
+    "ano": 2023,
+    "ementa": "Altera o art. 8° da Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução, da base de cálculo do imposto de renda das pessoas físicas, do dispêndio com a doação de próteses para pessoas carentes, com deficiência física.",
+    "dataApresentacao": "2023-02-07T15:54"
+   },
+   {
+    "id": 2347200,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347200",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 340,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a dedução de gastos veterinários da base de cálculo do imposto de renda da pessoa física; e altera a Lei nº 9.250, de 1995..",
+    "dataApresentacao": "2023-02-07T15:54"
+   },
+   {
+    "id": 2348312,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348312",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 425,
+    "ano": 2023,
+    "ementa": "Isenta do Imposto sobre Produtos Industrializados - IPI e da Contribuição para o Financiamento da Seguridade Social – COFINS os alimentos para o controle do diabetes.",
+    "dataApresentacao": "2023-02-09T15:03"
+   },
+   {
+    "id": 2348750,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348750",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 504,
+    "ano": 2023,
+    "ementa": "Reajusta os valores da tabela progressiva mensal, da parcela isenta de pensão, aposentadoria, reserva remunerada e reforma de maiores de 65 anos, das deduções por dependente e com despesas com instrução, e do valor máximo do desconto simplificado do Imposto sobre a Renda da Pessoa Física, determina o reajuste desses valores anualmente pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), cria o regime especial de tributação familiar (splitting familiar), institui a incidência de imposto de renda exclusivamente na fonte sobre lucros e dividendos pagos ou creditados a pessoas físicas ou jurídicas, domiciliadas no País ou no exterior, e extingue a tributação favorecida sobre juros pagos ou creditados a titular, sócios ou acionistas, a título de remuneração do capital próprio.",
+    "dataApresentacao": "2023-02-14T17:26"
+   },
+   {
+    "id": 2348813,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348813",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 528,
+    "ano": 2023,
+    "ementa": "Acresce o inciso IV ao parágrafo 2º do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, o inciso IX ao art. 12 da Lei nº 9.250, de 26 de dezembro de 1995, e modifica o art. 22 da Lei nº 9.532, de 10 de dezembro de 1997, para permitir a dedução de Imposto de Renda de pessoas físicas e jurídicas que efetuarem doações aos órgãos de segurança pública previstos no art. 144 da Constituição Federal, diretamente ou por intermédio de Fundo de Segurança Pública, nacional, estadual ou municipal; às instituições públicas de saúde, diretamente ou por intermédio de Fundo de Saúde, nacional, estadual ou municipal; bem como às instituições públicas de educação, diretamente ou por intermédio do Fundo Nacional de Desenvolvimento da Educação (FNDE), de Fundo Estadual ou de Fundo Municipal de Educação.",
+    "dataApresentacao": "2023-02-15T10:23"
+   },
+   {
+    "id": 2348896,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348896",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 559,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para prever a atualização monetária do limite estabelecido na concessão de isenção relativa ao Imposto sobre Produtos Industrializados incidente na aquisição de automóveis por pessoa com deficiência.",
+    "dataApresentacao": "2023-02-15T18:00"
+   },
+   {
+    "id": 2349201,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349201",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 639,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro \nde 1995, para conceder isenção do \nImposto sobre Produtos Industrializados \n(IPI) na aquisição de motocicletas, \nmotonetas ou motos elétricas acima de\n 4kW de potência e velocidade final \nsuperior a 50km/h, equipada com motor\n de até duzentas e cinquenta celindradas,\n adquiridas por mulheres, para prestação \nde serviço de transporte autônomo de \npassageiros e de transporte de cargas.",
+    "dataApresentacao": "2023-02-24T10:00"
+   },
+   {
+    "id": 2349203,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349203",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 641,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 4.502, de 30 de novembro de 1964, a Lei nº 8.383, de 30 de dezembro de 1991, a Lei nº 10.865 de 30 de abril de 2004 e o Decreto-Lei nº 37, de 18 de novembro de 1966, para incluir nas hipóteses de isenção do IPI, PIS/PASEP, COFINS e de importações nas operações de crédito de aquisição de veículos automotores nacionais e/ou importados, para os Servidores Públicos da Segurança Pública, e dá outras providências.",
+    "dataApresentacao": "2023-02-24T10:56"
+   },
+   {
+    "id": 2349302,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349302",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 655,
+    "ano": 2023,
+    "ementa": "Concede benefícios ao agricultor familiar, pescador profissional e famílias de baixa renda para o uso das tecnologias da comunicação e informação nos termos que especifica.",
+    "dataApresentacao": "2023-02-24T17:23"
+   },
+   {
+    "id": 2349325,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349325",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 669,
+    "ano": 2023,
+    "ementa": "Dispõe sobre incentivo fiscal do Imposto de Renda da Pessoa Física (IRPF) para estimulo a` aquisição de casa própria pelo contribuinte, desde que exclusivamente destinada para moradia.",
+    "dataApresentacao": "2023-02-27T09:50"
+   },
+   {
+    "id": 2349390,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349390",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 686,
+    "ano": 2023,
+    "ementa": "Institui o projeto “Empregue os Raros”, acrescendo o parágrafo 3º ao art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, para prever hipótese de dedução do imposto de renda de pessoa jurídica que contrate dez por cento ou mais de empregados acometidos com doenças raras",
+    "dataApresentacao": "2023-02-28T09:24"
+   },
+   {
+    "id": 2349413,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349413",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 694,
+    "ano": 2023,
+    "ementa": "Dispõe sobre incentivos ao agroturismo, altera a Lei n. 7.713, de 22 de dezembro de 1988, e dá outras providências.",
+    "dataApresentacao": "2023-02-28T11:48"
+   },
+   {
+    "id": 2349419,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349419",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 696,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a criação da Área de Livre Comércio de Costa Marques, no Estado de Rondônia.",
+    "dataApresentacao": "2023-02-28T11:55"
+   },
+   {
+    "id": 2349515,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349515",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 717,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, que altera a legislação do imposto de renda e dá outras providências.",
+    "dataApresentacao": "2023-02-28T16:37"
+   },
+   {
+    "id": 2349521,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349521",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 722,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do imposto de renda ao benefício especial de que trata a Lei nº 12.618, de 30 de abril de 2012, percebido pelos portadores de doenças graves.",
+    "dataApresentacao": "2023-02-28T17:06"
+   },
+   {
+    "id": 2349722,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349722",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 766,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de armas de fogo para mulheres vítimas de violência doméstica ou que desempenhem atividade em período noturno.",
+    "dataApresentacao": "2023-03-01T16:07"
+   },
+   {
+    "id": 2349786,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349786",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 783,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, sobre pagamento da dívida representada por Títulos da Dívida Agrária e dá outras providências.",
+    "dataApresentacao": "2023-03-01T20:15"
+   },
+   {
+    "id": 2349792,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349792",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 784,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 1.435, de 16 de dezembro de 1975, e a Lei nº 9.532, de 10 de dezembro de 1997.",
+    "dataApresentacao": "2023-03-01T21:33"
+   },
+   {
+    "id": 2349842,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349842",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 798,
+    "ano": 2023,
+    "ementa": "Acrescenta artigo à Lei nº 6.321, de 14 de abril de 1976, para permitir a dedução de valores gastos com programas de alimentação do trabalhador por pessoas jurídicas tributadas na sistemática do lucro presumido e pelo Simples Nacional.",
+    "dataApresentacao": "2023-03-02T15:12"
+   },
+   {
+    "id": 2349869,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349869",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 819,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1996, para incluir as pessoas com deficiência visual monocular entre os beneficiários da isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis.",
+    "dataApresentacao": "2023-03-02T17:02"
+   },
+   {
+    "id": 2349956,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349956",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 854,
+    "ano": 2023,
+    "ementa": "Institui isenção de Imposto Territorial Rural - ITR para imóvel localizado em área que esteja sob declaração de estado de emergência ou calamidade pública, bem como do Imposto sobre a Renda das Pessoas Físicas - IRPF de habitantes que recebem até 4 (quatro) salários mínimos.",
+    "dataApresentacao": "2023-03-03T11:06"
+   },
+   {
+    "id": 2350005,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350005",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 865,
+    "ano": 2023,
+    "ementa": "Altera o art.4º da Lei 12.715 para tornar indefinido o prazo que permite a continuidade dos programas Pronon- Programa Nacional de Apoio à Atenção Oncológica e do programa Pronas/PCD- Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (Pronas/PCD).",
+    "dataApresentacao": "2023-03-03T13:50"
+   },
+   {
+    "id": 2350089,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350089",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 881,
+    "ano": 2023,
+    "ementa": "Define incentivos fiscais destinados aos projetos sociais e cultura, e altera a Lei nº 8.313, de 23 de dezembro de 1991, Lei de Incentivo à Cultura (Lei Rouanet), a fim de destinar parte dos valores aportados para projetos culturais para o financiamento de projetos de valorização e apoio às Comunidades Tradicionais e Indígenas.",
+    "dataApresentacao": "2023-03-06T10:58"
+   },
+   {
+    "id": 2350328,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350328",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 931,
+    "ano": 2023,
+    "ementa": "Acrescenta o inciso XXIV ao art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, para conceder a isenção do Imposto de Renda para as pessoas com deficiência auditiva severa ou profunda.",
+    "dataApresentacao": "2023-03-07T15:52"
+   },
+   {
+    "id": 2350425,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350425",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 955,
+    "ano": 2023,
+    "ementa": "Altera a lei nº 7.713, de 22 de dezembro de 1988.",
+    "dataApresentacao": "2023-03-07T19:56"
+   },
+   {
+    "id": 2350450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350450",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 969,
+    "ano": 2023,
+    "ementa": "Modifica a redação do Art. 4º, inciso II, da Lei  nº 9.250/95, que altera a legislação do imposto de renda das pessoas físicas, para garantir o direito à dedução dos valores recebidos a título de pensão alimentícia.",
+    "dataApresentacao": "2023-03-08T09:13"
+   },
+   {
+    "id": 2350537,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350537",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1001,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para autorizar a dedução de despesas com medicamentos para efeito da apuração da base de cálculo do Imposto sobre a Renda da Pessoa Física.",
+    "dataApresentacao": "2023-03-08T15:22"
+   },
+   {
+    "id": 2350618,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350618",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1021,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para alterar a legislação do Imposto de Renda das pessoas físicas e dá outras providências.",
+    "dataApresentacao": "2023-03-08T19:19"
+   },
+   {
+    "id": 2350882,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350882",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1038,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.134, de 27 de dezembro de 1990, para estimular as políticas públicas de inclusão das pessoas com deficiências.",
+    "dataApresentacao": "2023-03-09T12:27"
+   },
+   {
+    "id": 2350884,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350884",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1039,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.383, de 30 de dezembro de 1991, para estimular as políticas públicas de inclusão das pessoas com deficiências.",
+    "dataApresentacao": "2023-03-09T12:30"
+   },
+   {
+    "id": 2351125,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351125",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1062,
+    "ano": 2023,
+    "ementa": "Modifica o art. 1º da Lei nº 11.482, de 31 de maio de 2007, de modo a atualizar a tabela de incidências do IRPF e a determinar a sua correção anual automática.",
+    "dataApresentacao": "2023-03-10T16:14"
+   },
+   {
+    "id": 2351203,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351203",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1088,
+    "ano": 2023,
+    "ementa": "Altera o art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, e a Lei nº 9.250, de 26 de dezembro de 1955, para anuir à dedução de doações e despesas à causa animal, no imposto de renda de pessoas físicas e jurídicas.",
+    "dataApresentacao": "2023-03-13T16:20"
+   },
+   {
+    "id": 2351210,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351210",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1094,
+    "ano": 2023,
+    "ementa": "Institui crédito presumido do Imposto sobre Produtos Industrializados (IPI), da Contribuição para o Financiamento da Seguridade Social (Cofins) e da Contribuição para o PIS/Pasep na aquisição de resíduos sólidos utilizados como matérias-primas ou produtos intermediários na fabricação de produtos pelos estabelecimentos industriais.",
+    "dataApresentacao": "2023-03-13T16:40"
+   },
+   {
+    "id": 2351289,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351289",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1114,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250/95 para possibilitar a renúncia fiscal, total ou parcial, pelos estados e pelo Distrito Federal, do produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza,\nincidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações aos seus agentes públicos que exerçam funções que envolvam trabalho noturno e/ou periculosidade e/ou insalubridade.",
+    "dataApresentacao": "2023-03-14T14:29"
+   },
+   {
+    "id": 2351290,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351290",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1115,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250/95 para prever a destinação para a promoção, a prevenção e o atendimento à saúde dos policiais e bombeiros militares do produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, aos referidos militares estaduais",
+    "dataApresentacao": "2023-03-14T14:33"
+   },
+   {
+    "id": 2351298,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351298",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1121,
+    "ano": 2023,
+    "ementa": "Acrescenta o art. 1º-A à Lei nº 8.989, de 24 de fevereiro de 1995, para isentar do Imposto sobre Produtos Industrializados aquisição de cadeiras de rodas, artigos de aparelhos ortopédicos e demais equipamentos, quando adquiridos por pessoa com deficiência de mobilidade de locomoção transitória por longo prazo ou definitiva de baixa renda, e também por instituições religiosas, associações, fundações, organizações da\nSociedade Civil de Interesse Público, sem fins lucrativos, com intuito de realizar a doação ou empréstimo dos equipamentos e reduz a zero as alíquotas do Pis/Pasep e Cofins das vendas a pessoas com deficiência física.",
+    "dataApresentacao": "2023-03-14T15:35"
+   },
+   {
+    "id": 2351299,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351299",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1122,
+    "ano": 2023,
+    "ementa": "O projeto dispõe sobre a concessão de incentivos fiscais no tocante a isenção do IPI, PIS/PASEP e COFINS, para a fabricação, produção e comercialização dos produtos decorrentes da fórmula infantil padrão, das fórmulas infantis semi-elementares, parcialmente e extensamente hidrolisadas, e fórmulas destinadas à alimentação de bebês e recém-nascidos com menos de 12 meses de idade.",
+    "dataApresentacao": "2023-03-14T15:35"
+   },
+   {
+    "id": 2351336,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351336",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1135,
+    "ano": 2023,
+    "ementa": "Modifica a Lei nº 7.713, de 22 de\ndezembro de 1988, que altera a\nlegislação do imposto de renda e\ndá outras providências, para\nisentar do imposto de renda das\npessoas físicas os rendimentos e\nproventos de qualquer natureza\npercebidos pelos portadores das\ndoenças especificadas em lei.",
+    "dataApresentacao": "2023-03-14T18:02"
+   },
+   {
+    "id": 2351389,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351389",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1154,
+    "ano": 2023,
+    "ementa": "Altera a Lei 13.146, de 6 de julho de 2015 – Estatuto da Pessoa com Deficiência – para isentar do IPI as cadeiras de rodas motorizadas e peças e componentes para sua fabricação.",
+    "dataApresentacao": "2023-03-15T09:46"
+   },
+   {
+    "id": 2351434,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1165,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução da base de cálculo do Imposto de Renda das Pessoas Físicas dos pagamentos efetuados com a aquisição, o treinamento, a alimentação, a acomodação e despesas veterinárias de cão-guia.",
+    "dataApresentacao": "2023-03-15T15:25"
+   },
+   {
+    "id": 2351571,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351571",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1187,
+    "ano": 2023,
+    "ementa": "Institui o Programa Nacional de Incentivo ao Desenvolvimento de Projetos Inovadores de Saúde - PNIP-SAÚDE.",
+    "dataApresentacao": "2023-03-16T09:22"
+   },
+   {
+    "id": 2351829,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351829",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1218,
+    "ano": 2023,
+    "ementa": "Altera o inciso XIV do Art. 6º da Lei nº 7.713 de 22 de dezembro de 1998 que altera a legislação do imposto de renda e dá outras providências.",
+    "dataApresentacao": "2023-03-17T16:28"
+   },
+   {
+    "id": 2351871,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351871",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1231,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 10.865, de 30 de abril de 2004, para reduzir a zero as alíquotas da Contribuição para o Financiamento da Seguridade Social – COFINS e da Contribuição para o PIS/PASEP incidentes sobre a importação e a venda de bicicletas, suas partes, peças e acessórios, e as isenta do Imposto sobre Produtos Industrializados – IPI.",
+    "dataApresentacao": "2023-03-20T10:19"
+   },
+   {
+    "id": 2351872,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351872",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1232,
+    "ano": 2023,
+    "ementa": "Concede isenção do Imposto sobre Produtos Industrializados (IPI), do Imposto de Importação (II) e redução a zero das alíquotas da Contribuição para o Financiamento da Seguridade Social (COFINS) e da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/PASEP) sobre os consoles e máquinas de jogos de vídeo e sobre os jogos eletrônicos.",
+    "dataApresentacao": "2023-03-20T10:21"
+   },
+   {
+    "id": 2352181,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2352181",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1274,
+    "ano": 2023,
+    "ementa": "Dispõe sobre isenção do Imposto sobre Produtos Industrializados na aquisição de veículos automóveis para transporte de mercadorias por transportador autônomo de cargas.",
+    "dataApresentacao": "2023-03-21T15:22"
+   },
+   {
+    "id": 2352286,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2352286",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1290,
+    "ano": 2023,
+    "ementa": "Institui o Fundo Nacional dos Direitos da Pessoa com Deficiência e autoriza deduzir do imposto de renda devido pelas pessoas físicas e jurídicas as doações efetuadas.",
+    "dataApresentacao": "2023-03-21T17:47"
+   },
+   {
+    "id": 2352352,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2352352",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1300,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.713, de 1988, para incluir a fibromialgia e as doenças crônicas e autoimunes graves no rol de doenças para as quais há a previsão de isenção do imposto de renda sobre os proventos de aposentadoria ou reforma.",
+    "dataApresentacao": "2023-03-21T19:33"
+   },
+   {
+    "id": 2352433,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2352433",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1314,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, e a Lei nº 9.249, de 26 de dezembro de 1995, para permitir a dedução no Imposto de Renda das Pessoas Físicas (IRPF) e no Imposto de Renda das Pessoas Jurídicas (IRPJ) de doações a entidades da Defesa Civil em localidades atingidas por catástrofes naturais, com calamidade pública decretada.",
+    "dataApresentacao": "2023-03-22T10:46"
+   },
+   {
+    "id": 2352479,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2352479",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1327,
+    "ano": 2023,
+    "ementa": "Dispõe sobre incentivos fiscais para projetos e atividades desenvolvidos por entidades filantrópicas e dá outras providências.",
+    "dataApresentacao": "2023-03-22T15:21"
+   },
+   {
+    "id": 2353013,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2353013",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1363,
+    "ano": 2023,
+    "ementa": "Institui o Programa Conecta Rural, com o objetivo de conceder descontos de 50% (cinquenta por cento) nos impostos federais, incidentes na aquisição de produtos e serviços de conexão de internet em áreas rurais.",
+    "dataApresentacao": "2023-03-23T11:50"
+   },
+   {
+    "id": 2353573,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2353573",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1427,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 5.172, de 25 de outubro de 1966, que dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário aplicáveis à União, Estados e Municípios, para estabelecer a base de cálculo sobre o imposto de transmissão causa mortis e doação de imóveis rurais como sendo o valor declarado para pagamento do Imposto sobre a Propriedade Rural, e dá outras providências.",
+    "dataApresentacao": "2023-03-27T14:37"
+   },
+   {
+    "id": 2353645,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2353645",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1442,
+    "ano": 2023,
+    "ementa": "Altera o art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, para incluir a doença de Alzheimer entre as doenças contempladas com a isenção do Imposto de Renda das Pessoas Físicas (IRPF).",
+    "dataApresentacao": "2023-03-27T18:21"
+   },
+   {
+    "id": 2354141,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354141",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1514,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para priorizar a restituição do imposto de renda para os profissionais da saúde.",
+    "dataApresentacao": "2023-03-29T15:10"
+   },
+   {
+    "id": 2354175,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354175",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1519,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995 para permitir que despesas de aquisição de medicamentos de uso contínuo, para consumo do contribuinte com renda mensal de até 5 (cinco) salários mínimos, sejam dedutíveis na declaração do imposto de renda de pessoas físicas.",
+    "dataApresentacao": "2023-03-29T16:47"
+   },
+   {
+    "id": 2354382,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354382",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1529,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para dispor sobre a dedução das despesas com alimentação animal e de tratamento médico-veterinário no Imposto de Renda da Pessoa Física e dá outras providências.",
+    "dataApresentacao": "2023-03-30T09:36"
+   },
+   {
+    "id": 2354422,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354422",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1543,
+    "ano": 2023,
+    "ementa": "Acrescenta § 3º-A ao art. 927 do Código de Processo Civil para estabelecer que alteração de jurisprudência que considerar inconstitucional decisão transitada em julgado que anteriormente reconhecia ser indevido tributo ou inexistente relação jurídico-tributária, deverá ter seus efeitos modulados para que o tributo somente passe a ser exigível em relação a fatos geradores ocorridos a partir do trânsito em julgado da decisão que promoveu a alteração e para conceder remissão dos créditos tributários relativos a tributos e contribuições federais e anistia às penalidades pecuniárias correspondentes cujos fatos geradores ocorreram até a data de publicação desta Lei em que tenha havido, até esta data, a mencionada alteração jurisprudencial.",
+    "dataApresentacao": "2023-03-30T12:50"
+   },
+   {
+    "id": 2354750,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354750",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1579,
+    "ano": 2023,
+    "ementa": "Acrescenta o inciso XXIV ao art. 6º da Lei 7.713 de 1988, dispõe sobre a isenção do IRPF para os profissionais do magistério.",
+    "dataApresentacao": "2023-04-03T11:13"
+   },
+   {
+    "id": 2354840,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354840",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1599,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para dispor sobre a isenção do Imposto de Renda para pessoas idosas com idade igual ou superior a 60 (sessenta) anos.",
+    "dataApresentacao": "2023-04-03T17:22"
+   },
+   {
+    "id": 2354950,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354950",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1609,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para incluir na isenção do Imposto sobre Produtos Industrializados - IPI, a aquisição de utilitários de fabricação nacional pelas pessoas com deficiência quando indispensáveis para o exercício da sua atividade econômica.",
+    "dataApresentacao": "2023-04-04T16:07"
+   },
+   {
+    "id": 2354976,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2354976",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1613,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução de despesas com medicamentos quimioterápicos e de uso contínuo de alto custo e tratamento oncológico de terapia celular com CartT cell, Terapia de Prótons (Próton Terapia), Terapia Gênica, Cyberknife Terapia, Fertilização in Vitro, Terapia Greenlight Laser,Robôs da Vinci, Mako e Rosa, Tomotherapy e Dispositivo Artemis da base de cálculo do imposto\nde renda da pessoa física (IRPF)",
+    "dataApresentacao": "2023-04-04T17:28"
+   },
+   {
+    "id": 2355019,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355019",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1623,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a revogação de isenção do imposto de importação dos bens contidos em remessas de valor até cem dólares norte-americanos, ou o equivalente em outras moedas, quando destinados a pessoas físicas.",
+    "dataApresentacao": "2023-04-05T11:04"
+   },
+   {
+    "id": 2355185,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355185",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1708,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a isenção do imposto sobre propriedade de veículo automotor e isenção do imposto de importação - IPI a motoristas de aplicativos, moto-taxistas e taxistas pelo período de 05 (cinco) anos.”",
+    "dataApresentacao": "2023-04-10T09:48"
+   },
+   {
+    "id": 2355282,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355282",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1730,
+    "ano": 2023,
+    "ementa": "Insere dispositivos na Lei nº 8.313, de 23 de dezembro de 1991 – Lei Rouanet, para possibilitar às pessoas físicas a opção de efetuar doações e patrocínios ao Fundo Nacional da Cultura e a projetos culturais para fins de dedução do Imposto de Renda naquele mesmo exercício.",
+    "dataApresentacao": "2023-04-10T15:38"
+   },
+   {
+    "id": 2355461,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355461",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1761,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a inclusão das receitas decorrentes do serviço de hotelaria e turismo explorado em regime de economia familiar na zona rural como atividade rural.",
+    "dataApresentacao": "2023-04-11T13:36"
+   },
+   {
+    "id": 2355544,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355544",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1775,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 13.315, de 20 de julho de 2016, para dispor que não se sujeitam à retenção na fonte do imposto sobre a renda as remessas efetuadas por pessoas físicas residentes no País a entidades internacionais sem fins lucrativos, diretamente ou por intermédio de suas representações no Brasil, para fins de ajuda humanitária.",
+    "dataApresentacao": "2023-04-11T17:23"
+   },
+   {
+    "id": 2355885,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355885",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1830,
+    "ano": 2023,
+    "ementa": "Estabelece a isenção de Impostos sobre Produtos Importados por Pessoas Físicas e Obrigatoriedade de Declarações Completas e Antecipadas da Importação.",
+    "dataApresentacao": "2023-04-12T17:37"
+   },
+   {
+    "id": 2355888,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355888",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1831,
+    "ano": 2023,
+    "ementa": "Altera a Lei n. 8.989, de 24 de fevereiro de 1995, para incluir os automóveis adquiridos por motoristas de aplicativo no rol de beneficiados na isenção do Imposto sobre Produtos Industrializados (IPI); e dá outras providências.",
+    "dataApresentacao": "2023-04-12T17:38"
+   },
+   {
+    "id": 2356094,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2356094",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1857,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei 37/1966, para dispor sobre as isenções do Imposto de Importação e a segurança de acesso a bens de consumo para uso pessoal",
+    "dataApresentacao": "2023-04-13T10:21"
+   },
+   {
+    "id": 2356522,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2356522",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1919,
+    "ano": 2023,
+    "ementa": "Altera a lei nº 9.250 de 26 de dezembro de 1995, que dispõe sobre o imposto de renda das pessoas físicas e dá outras providências.",
+    "dataApresentacao": "2023-04-17T11:03"
+   },
+   {
+    "id": 2356600,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2356600",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1938,
+    "ano": 2023,
+    "ementa": "Acrescenta a alinha k e o parágrafo 5º no artigo 8º da Lei n° 9.250, de 26 de dezembro de 1995, que altera a legislação do imposto de renda das pessoas físicas e dá outras providências.",
+    "dataApresentacao": "2023-04-17T15:06"
+   },
+   {
+    "id": 2356602,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2356602",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1939,
+    "ano": 2023,
+    "ementa": "Altera o art. 8º da Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução das despesas com a aquisição de medicamentos de uso contínuo para o tratamento do transtorno de espectro autista (TEA) da base de cálculo do Imposto de Renda da Pessoa Física – IRPF.",
+    "dataApresentacao": "2023-04-17T15:15"
+   },
+   {
+    "id": 2357617,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2357617",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2045,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a não incidência do imposto sobre a renda retido na fonte na transferência de quotas de fundos de investimento de titularidade do de cujus para o cônjuge meeiro ou sucessor a qualquer título.",
+    "dataApresentacao": "2023-04-20T09:34"
+   },
+   {
+    "id": 2357860,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2357860",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2093,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para conceder isenção do Imposto Sobre Produtos Industrializados – IPI aos automóveis que possuam sistema de tração nas quatro rodas adquiridos por motoristas profissionais e cooperativas de trabalho, independentemente da cilindrada e da origem do combustível veicular.",
+    "dataApresentacao": "2023-04-24T16:56"
+   },
+   {
+    "id": 2358531,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358531",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2159,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI - nas aquisições de insumos hospitalares pelas Santas Casas.",
+    "dataApresentacao": "2023-04-26T15:43"
+   },
+   {
+    "id": 2358587,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358587",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2168,
+    "ano": 2023,
+    "ementa": "Altera a alínea a do inciso III do art. 15 da Lei n° 9.249, de 26 de dezembro de 1995, para incluir os serviços de clínicas odontológicas na forma de determinação da base de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) prevista no caput do mesmo artigo, mediante a aplicação do percentual de 8% (oito por cento) sobre a receita bruta auferida mensalmente, e na forma de determinação da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL) prevista no inciso III do art. 20 da mesma Lei, mediante a aplicação do percentual de 12% (doze por cento).",
+    "dataApresentacao": "2023-04-26T17:31"
+   },
+   {
+    "id": 2358790,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358790",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2218,
+    "ano": 2023,
+    "ementa": "Altera dispositivos da Lei nº 9.250, de 26 de dezembro de 1995, que altera a legislação do imposto de renda das pessoas físicas, para garantir o direito à dedução dos valores das contribuições pagas a trabalhadores e trabalhadoras domésticas e dos valores referentes a gastos com educação dos trabalhadores e trabalhadoras domésticas e seus descendentes diretos pagos pelos empregadores.",
+    "dataApresentacao": "2023-04-27T14:18"
+   },
+   {
+    "id": 2358822,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358822",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2224,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o Imposto de Renda das Pessoas Físicas, dando nova redação ao inciso XIV do art. 6° da Lei n° 7.713, de 22 de dezembro de 1988.",
+    "dataApresentacao": "2023-04-27T15:51"
+   },
+   {
+    "id": 2358950,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358950",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2254,
+    "ano": 2023,
+    "ementa": "Altera a redação do § 7º do art. 1º da Lei n° 8.989, de 24 de fevereiro de 1995, para limitar a aquisição, com isenção do Imposto sobre Produtos Industrializados (IPI), feita por pessoas com deficiência, a veículo novo cujo preço de venda ao consumidor, incluídos os tributos incidentes, não seja superior a R$ 300.000,00 (trezentos mil reais).",
+    "dataApresentacao": "2023-04-28T14:57"
+   },
+   {
+    "id": 2359121,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359121",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2270,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para isentar as pessoas portadoras de fibromialgia, doenças crônicas e autoimunes graves, dentre outras doenças, do pagamento de imposto de renda.",
+    "dataApresentacao": "2023-05-02T10:05"
+   },
+   {
+    "id": 2359494,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359494",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2299,
+    "ano": 2023,
+    "ementa": "Concede isenção do Imposto de Importação (II), do Imposto sobre Produtos Industrializados (IPI), do Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (Cofins) para jogos eletrônicos construídos ou adaptados destinados à utilização por pessoa com deficiência.",
+    "dataApresentacao": "2023-05-02T19:23"
+   },
+   {
+    "id": 2359509,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359509",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2301,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para conceder isenção do Imposto sobre Produtos Industrializados – IPI para os automóveis adquiridos por motoristas que exerçam o transporte remunerado privado individual de passageiros e para as motocicletas adquiridas por pessoas físicas que prestem serviço de entrega de mercadorias por intermédio de empresa de plataforma digital.",
+    "dataApresentacao": "2023-05-02T19:35"
+   },
+   {
+    "id": 2359523,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359523",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2302,
+    "ano": 2023,
+    "ementa": "Acrescenta alínea ao inciso II do art. 8.º da Lei n.º 9.250, de 26 de dezembro de 1995, para incluir as despesas veterinárias nas deduções da base de cálculo do imposto de renda das pessoas físicas.",
+    "dataApresentacao": "2023-05-02T19:50"
+   },
+   {
+    "id": 2359647,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359647",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2312,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a dedução de gastos com esportes e cursos de idiomas da base de cálculo do imposto de renda da pessoa física; e altera a Lei nº 9.250, de 1995.",
+    "dataApresentacao": "2023-05-03T09:59"
+   },
+   {
+    "id": 2359751,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359751",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2324,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.989, de 1995, para conceder isenção de IPI na aquisição de veículo por condutores autônomos de transporte escolar.",
+    "dataApresentacao": "2023-05-03T15:27"
+   },
+   {
+    "id": 2359875,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359875",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 2343,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para tornar dedutíveis do imposto de renda das pessoas físicas as contribuições feitas aos fundos controlados pelos conselhos de direitos das pessoas com deficiência.",
+    "dataApresentacao": "2023-05-03T21:01"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=70&keywords=imposto"
+   },
+   {
+    "rel": "next",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=70&keywords=imposto&pagina=2&itens=100"
+   },
+   {
+    "rel": "first",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=70&keywords=imposto&pagina=1&itens=100"
+   },
+   {
+    "rel": "last",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=70&keywords=imposto&pagina=8&itens=100"
+   }
+  ]
+ }
+}

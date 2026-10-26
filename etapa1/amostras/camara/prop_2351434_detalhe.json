@@ -1,0 +1,51 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434",
+ "requisitado_em_utc": "2026-10-26T23:40:07+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": {
+   "id": 2351434,
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434",
+   "siglaTipo": "PL",
+   "codTipo": 139,
+   "numero": 1165,
+   "ano": 2023,
+   "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução da base de cálculo do Imposto de Renda das Pessoas Físicas dos pagamentos efetuados com a aquisição, o treinamento, a alimentação, a acomodação e despesas veterinárias de cão-guia.",
+   "dataApresentacao": "2023-03-15T15:25",
+   "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+   "statusProposicao": {
+    "dataHora": "2025-09-30T12:10",
+    "sequencia": 32,
+    "siglaOrgao": "CFT",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160161",
+    "regime": "Ordinário (Art. 151, III, RICD)",
+    "descricaoTramitacao": "Recebimento - Relator(a) (Sem Manifestação)",
+    "codTipoTramitacao": "507",
+    "descricaoSituacao": "Aguardando Designação de Relator(a)",
+    "codSituacao": 907,
+    "despacho": "Devolvida pelo Relator sem Manifestação.",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II"
+   },
+   "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434/autores",
+   "descricaoTipo": "Projeto de Lei",
+   "ementaDetalhada": "",
+   "keywords": "Alteração, Legislação Tributária Federal, dedução, base de cálculo, Imposto sobre a Renda da Pessoa Física (IRPF), aquisição, alimentação, acomodação, despesa veterinária, cão-guia.",
+   "uriPropPrincipal": null,
+   "uriPropAnterior": null,
+   "uriPropPosterior": null,
+   "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2243889",
+   "urnFinal": null,
+   "texto": null,
+   "justificativa": null
+  },
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2351434"
+   }
+  ]
+ }
+}

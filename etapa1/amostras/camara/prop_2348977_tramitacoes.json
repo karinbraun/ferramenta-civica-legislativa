@@ -1,0 +1,95 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977/tramitacoes",
+ "requisitado_em_utc": "2026-10-26T23:39:18+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "dataHora": "2023-02-16T15:53",
+    "sequencia": 1,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Apresentação de Proposição",
+    "codTipoTramitacao": "100",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Apresentação do Projeto de Lei n. 583/2023, pelo Deputado Fábio Macedo (PODE/MA), que \"Dispõe sobre o direito de toda mulher a ter acompanhante, pessoa de sua livre escolha, durante o trabalho de parto, parto, pós-parto imediato, consultas, exames, cirurgias ou qualquer outro procedimento de saúde, nos estabelecimentos públicos e privados de saúde\".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2236012",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-03T00:00",
+    "sequencia": 12,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Publicação de Documento",
+    "codTipoTramitacao": "611",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Publicação de documento",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2306256",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-03T17:04",
+    "sequencia": 8,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Despacho de Apensação",
+    "codTipoTramitacao": "129",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Apense-se à(ao) PL-2008/2022. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Urgência (Art. 155, RICD)",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2239440",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-06T00:00",
+    "sequencia": 15,
+    "siglaOrgao": "CCP",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Publicação de Proposição",
+    "codTipoTramitacao": "604",
+    "descricaoSituacao": "Arquivada",
+    "codSituacao": 923,
+    "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 07/03/2023 PAG 33",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2288194",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   },
+   {
+    "dataHora": "2023-03-07T00:00",
+    "sequencia": 16,
+    "siglaOrgao": "PLEN",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+    "uriUltimoRelator": null,
+    "regime": "Urgência (Art. 155, RICD)",
+    "descricaoTramitacao": "Arquivamento",
+    "codTipoTramitacao": "502",
+    "descricaoSituacao": "Aguardando Encaminhamento",
+    "codSituacao": 910,
+    "despacho": "Declarado prejudicado em face da aprovação em Plenário do Substitutivo ao Projeto de Lei nº 81, de 2022, adotado pela relatora da Comissão de Saúde (Sessão Deliberativa Extraordinária de 7/3/2023 - 13h55 - 15ª Sessão).",
+    "url": null,
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348977/tramitacoes"
+   }
+  ]
+ }
+}

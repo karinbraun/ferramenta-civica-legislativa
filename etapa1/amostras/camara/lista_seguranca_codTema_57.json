@@ -1,0 +1,1027 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=57",
+ "requisitado_em_utc": "2026-10-26T23:39:21+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "id": 2345631,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345631",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 6,
+    "ano": 2023,
+    "ementa": "Dá nova redação ao Parágrafo único do art. 13 da Lei nº 4.375, de 17 de agosto de 1964, “Lei do Serviço Militar”, para tornar facultativo o alistamento militar.",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345637,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345637",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 8,
+    "ano": 2023,
+    "ementa": "Veda o uso de equinos como arma e transporte em operações policiais.",
+    "dataApresentacao": "2023-02-02T09:00"
+   },
+   {
+    "id": 2345663,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345663",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 23,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, Estatuto do Desarmamento, para proibir o porte de arma dos agentes públicos que enumera quando do consumo de bebidas alcoólicas ou substâncias químicas ou entorpecentes.",
+    "dataApresentacao": "2023-02-02T09:01"
+   },
+   {
+    "id": 2345667,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345667",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 25,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 13.445, de 24 de maio de 2017, para determinar o impedimento de ingresso em território nacional de estrangeiros que publicamente atentem contra a democracia no Brasil.",
+    "dataApresentacao": "2023-02-02T09:02"
+   },
+   {
+    "id": 2345670,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345670",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 28,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o exercício de funções de magistério, administrativas e de monitoria, por militares das Forças Armadas, em apoio a instituições públicas de ensino dos três níveis da Federação.",
+    "dataApresentacao": "2023-02-02T09:02"
+   },
+   {
+    "id": 2345720,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345720",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 52,
+    "ano": 2023,
+    "ementa": "Altera o inciso VI do art. 8 da Lei nº 13.675, de 11 de junho de 2018, para dispor sobre a participação de instituições da sociedade civil na definição das políticas de segurança relativas ao Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher.",
+    "dataApresentacao": "2023-02-02T09:09"
+   },
+   {
+    "id": 2345734,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345734",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 59,
+    "ano": 2023,
+    "ementa": "Inclui os §§ 1°, 2° e 3° no art. 13 da Lei nº 7.210, de 11 de julho de 1984 – Lei de Execuções Penais, para estabelecer os produtos de higiene como itens obrigatórios nos estabelecimentos prisionais.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2345741,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345741",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 65,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 14.312, de 14 de março de 2022 para incluir os professores da rede pública de ensino entre os beneficiários do Programa Habite Seguro.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2346764,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346764",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 97,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o compartilhamento de informações entre órgãos de investigação.",
+    "dataApresentacao": "2023-02-02T09:10"
+   },
+   {
+    "id": 2346816,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346816",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 123,
+    "ano": 2023,
+    "ementa": "Altera o Artigo 359-M, do Decreto-Lei Nº 2.848, de 7 de dezembro de 1940 – Código Penal e dá outras providências.",
+    "dataApresentacao": "2023-02-02T09:12"
+   },
+   {
+    "id": 2346855,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346855",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 148,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a adoção de mecanismos para identificação de explosivos.",
+    "dataApresentacao": "2023-02-02T09:20"
+   },
+   {
+    "id": 2346866,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346866",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 156,
+    "ano": 2023,
+    "ementa": "Altera a lei nº 10.826, de 22 de dezembro de 2003, para garantir aos residentes de áreas rurais (como os seringueiros, os ribeirinhos, o trabalhador familiar no extrativismo da castanha e outros) o porte de armas de fogo e munições nas condições especificadas.",
+    "dataApresentacao": "2023-02-02T09:42"
+   },
+   {
+    "id": 2346867,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346867",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 157,
+    "ano": 2023,
+    "ementa": "Altera a lei nº 10.826, de 22 de dezembro de 2003, para garantir aos residentes em áreas rurais a renovação periódica não inferior 5 (cinco anos) do certificado de registro de arma de fogo com isenção de taxas.",
+    "dataApresentacao": "2023-02-02T09:42"
+   },
+   {
+    "id": 2346911,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346911",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 180,
+    "ano": 2023,
+    "ementa": "Fixa a determinação para comunicação de maus-tratos aos animais e dá outras providências.",
+    "dataApresentacao": "2023-02-02T10:40"
+   },
+   {
+    "id": 2346967,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346967",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 220,
+    "ano": 2023,
+    "ementa": "Proíbe a comercialização de fogos de artifício com estampido.",
+    "dataApresentacao": "2023-02-02T15:02"
+   },
+   {
+    "id": 2346969,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2346969",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 222,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para vedar o emprego de tropa hipomóvel no controle de distúrbios civis.",
+    "dataApresentacao": "2023-02-02T15:02"
+   },
+   {
+    "id": 2347038,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347038",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 241,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências.",
+    "dataApresentacao": "2023-02-02T17:27"
+   },
+   {
+    "id": 2347040,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347040",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 243,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o emprego de tecnologia de reconhecimento facial de crianças e adolescentes desaparecidos.",
+    "dataApresentacao": "2023-02-02T17:29"
+   },
+   {
+    "id": 2347044,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347044",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 247,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 667/1969,  que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências.",
+    "dataApresentacao": "2023-02-02T18:02"
+   },
+   {
+    "id": 2347045,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347045",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 248,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o Protocolo de Medidas de Segurança em Estabelecimentos de Lazer e similares, visando à proteção das mulheres em suas dependências",
+    "dataApresentacao": "2023-02-02T18:33"
+   },
+   {
+    "id": 2347046,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347046",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 249,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências.",
+    "dataApresentacao": "2023-02-02T18:48"
+   },
+   {
+    "id": 2347054,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347054",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 256,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a veiculação de propagandas de combate à violência contra a mulher e contra o abuso e a exploração sexual de crianças e adolescentes, nos shows que forem realizados.",
+    "dataApresentacao": "2023-02-03T11:28"
+   },
+   {
+    "id": 2347056,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347056",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 258,
+    "ano": 2023,
+    "ementa": "Dispõe sobre medidas de segurança a serem adotadas por administradores de bares, casas de shows, restaurantes e estabelecimentos similares, visando à proteção das mulheres, inclusive transexuais, em suas dependências, e dá outras providências.",
+    "dataApresentacao": "2023-02-03T11:28"
+   },
+   {
+    "id": 2347059,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347059",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 261,
+    "ano": 2023,
+    "ementa": "Altera a Lei 10.826, de 2003 (Estatuto do Desarmamento) para estabelecer critérios para o reconhecimento e exercício da atividade de caçador, colecionador e atirador",
+    "dataApresentacao": "2023-02-03T11:33"
+   },
+   {
+    "id": 2347065,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347065",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 266,
+    "ano": 2023,
+    "ementa": "Acrescenta o §3° ao art. 10 da Lei n° 10.826, de 22 de dezembro de 2003- Estatuto do Desarmamento, para tornar vinculado o porte de arma de fogo de uso permitido para os integrantes das entidades de desporto legalmente constituídas.",
+    "dataApresentacao": "2023-02-03T14:21"
+   },
+   {
+    "id": 2347073,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347073",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 273,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a disciplina do uso da força e do uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública em âmbito nacional e dá outras providências.",
+    "dataApresentacao": "2023-02-06T09:58"
+   },
+   {
+    "id": 2347077,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347077",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 277,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para vedar o emprego de tropa hipomóvel no controle de distúrbios civis.",
+    "dataApresentacao": "2023-02-06T11:39"
+   },
+   {
+    "id": 2347089,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347089",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 284,
+    "ano": 2023,
+    "ementa": "Dispõe sobre regras de segurança para os motoristas por aplicativos, e dá outras providências",
+    "dataApresentacao": "2023-02-06T14:01"
+   },
+   {
+    "id": 2347135,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347135",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 311,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para dispor sobre o monitoramento eletrônico como meio de fiscalizar o cumprimento das medidas protetivas de urgência.",
+    "dataApresentacao": "2023-02-07T10:21"
+   },
+   {
+    "id": 2347145,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347145",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 318,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 667/1969, \tque reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências, para prever o direito de assistência à saúde com ampla cobertura territorial aos policiais e bombeiros militares.",
+    "dataApresentacao": "2023-02-07T11:05"
+   },
+   {
+    "id": 2347156,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347156",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 323,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a obrigatoriedade dos bancos instalarem cofres para o armazenamento de armas e munições utilizadas pelas empresas de segurança, e dá outras providências.",
+    "dataApresentacao": "2023-02-07T11:54"
+   },
+   {
+    "id": 2347174,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347174",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 327,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o fornecimento de dados para os candidatos que concorrerão aos cargos de direção em condomínios, agremiações desportistas, entidades de classes, sindicatos e associações diversas e dá outras providências.",
+    "dataApresentacao": "2023-02-07T14:33"
+   },
+   {
+    "id": 2347201,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347201",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 341,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a comunicação compulsória às autoridades competentes, por parte dos condomínios residenciais, conjuntos habitacionais e congêneres sobre os casos de violência doméstica contra a mulher praticados em suas dependências comuns e privadas.",
+    "dataApresentacao": "2023-02-07T15:54"
+   },
+   {
+    "id": 2347242,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347242",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 360,
+    "ano": 2023,
+    "ementa": "Concede incentivo fiscal a pessoas físicas e jurídicas que colaborem com a segurança pública por meio de videovigilância.",
+    "dataApresentacao": "2023-02-07T20:45"
+   },
+   {
+    "id": 2347288,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347288",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 366,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o Protocolo Mulher Segura de atuação e de prevenção a ser adotado em ambientes de entretenimento, hospedagem, e de lazer - públicos e privados - onde ocorram situações configuradoras de violência sexual contra as mulheres, e dá outras providências.",
+    "dataApresentacao": "2023-02-08T13:30"
+   },
+   {
+    "id": 2347307,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347307",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 372,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências.",
+    "dataApresentacao": "2023-02-08T15:29"
+   },
+   {
+    "id": 2347312,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2347312",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 376,
+    "ano": 2023,
+    "ementa": "Dispõe sobre composição da Comissão Mista de Reavaliação de Informações.",
+    "dataApresentacao": "2023-02-08T15:42"
+   },
+   {
+    "id": 2348215,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348215",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 389,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a reorganização das Polícias Militares e Corpo de Bombeiros Militares dos Estados, dos territórios e do Distrito Federal, criando a carreira única e dá outras providências.",
+    "dataApresentacao": "2023-02-08T18:46"
+   },
+   {
+    "id": 2348356,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348356",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 446,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 7.716, de 5 de janeiro de 1989, que define resultantes de preconceito de raça ou cor.",
+    "dataApresentacao": "2023-02-10T14:52"
+   },
+   {
+    "id": 2348386,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348386",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 456,
+    "ano": 2023,
+    "ementa": "Altera a lei nº 10.826, de 22 de dezembro de 2003, com o objetivo de desburocratizar e facilitar o acesso dos cidadãos para a aquisição, o cadastro, o registro e a posse de armas de fogo e de munição.",
+    "dataApresentacao": "2023-02-11T11:03"
+   },
+   {
+    "id": 2348392,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 461,
+    "ano": 2023,
+    "ementa": "Altera as Leis nºs 13.756, de 12 de dezembro de 2018, e 13.675, de 11 de junho de 2018, para estabelecer diretrizes e metas sobre o recebimento dos recursos do Fundo Nacional de Segurança Pública (FNSP) para ações de enfrentamento da violência contra a mulher",
+    "dataApresentacao": "2023-02-13T09:07"
+   },
+   {
+    "id": 2348593,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348593",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 464,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a criação de Delegacias Especializadas em Crimes Rurais.",
+    "dataApresentacao": "2023-02-13T11:36"
+   },
+   {
+    "id": 2348594,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348594",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 465,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.883, de 07 de dezembro de 1999.",
+    "dataApresentacao": "2023-02-13T11:45"
+   },
+   {
+    "id": 2348752,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348752",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 506,
+    "ano": 2023,
+    "ementa": "Dispõe sobre o direito da mulher de designar um acompanhante, de sua livre escolha, nas consultas, exames e procedimentos médicos hospitalares, em estabelecimentos públicos e privados de saúde em todo o território nacional.",
+    "dataApresentacao": "2023-02-14T17:35"
+   },
+   {
+    "id": 2348785,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348785",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 517,
+    "ano": 2023,
+    "ementa": "Altera a Lei n. 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – Sinarm, define crimes e dá outras providências, para proibir o porte de arma de fogo em período eleitoral.",
+    "dataApresentacao": "2023-02-14T20:18"
+   },
+   {
+    "id": 2348796,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348796",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 523,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a obrigatoriedade de comunicação, por serviços públicos ou privados de saúde, ao Conselho Tutelar ou à autoridade policial, de indícios de castigo físico, tratamento cruel ou degradante e maus-tratos contra a criança ou adolescente e dá outras providências.",
+    "dataApresentacao": "2023-02-14T21:58"
+   },
+   {
+    "id": 2348820,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348820",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 530,
+    "ano": 2023,
+    "ementa": "Altera as Leis nº 11530, de 24 de outubro de 2007, e nº 4375, de 17 de agosto de 1964, para instituir o projeto policial/bombeiro-cidadão, e dá outras providências.",
+    "dataApresentacao": "2023-02-15T11:05"
+   },
+   {
+    "id": 2348889,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348889",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 553,
+    "ano": 2023,
+    "ementa": "Cria mecanismos para coibir a violência doméstica e familiar contra a mulher e dá outras providências, a fim de estabelecer a possibilidade de monitoração eletrônica do agressor e de utilização de sistema de alerta pela ofendida nas ocorrências de violência doméstica e familiar contra a mulher.",
+    "dataApresentacao": "2023-02-15T17:32"
+   },
+   {
+    "id": 2348894,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348894",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 557,
+    "ano": 2023,
+    "ementa": "Institui o Piso Salarial Nacional dos Policiais Civis dos Estados da Federação.",
+    "dataApresentacao": "2023-02-15T17:59"
+   },
+   {
+    "id": 2348895,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348895",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 558,
+    "ano": 2023,
+    "ementa": "DETERMINA QUE SEJA DISPONIBILIZADO EM SITES E APLICATIVOS DE ÓRGÃOS PÚBLICOS UM ÍCONE DESTINADO A REALIZAÇÃO DE DENÚNCIAS RELACIONADAS AOS CRIMES COMETIDOS CONTRA MULHERES.",
+    "dataApresentacao": "2023-02-15T17:59"
+   },
+   {
+    "id": 2348897,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348897",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 560,
+    "ano": 2023,
+    "ementa": "DISPÕE SOBRE A POLÍTICA DE PROTEÇÃO DAS MULHERES SURDAS, VÍTIMAS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR A SEREM ATENDIDAS NAS DELEGACIAS DA MULHER POR PROFISSIONAIS HABILITADOS EM LÍNGUA BRASILEIRA DE SINAIS (LIBRAS)",
+    "dataApresentacao": "2023-02-15T18:02"
+   },
+   {
+    "id": 2348898,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348898",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 561,
+    "ano": 2023,
+    "ementa": "Obriga a instalação de “Salas Lilás” em todas as Delegacias Especializadas no Atendimento à Mulher e Núcleos Regionais de Polícia Técnico-Cientifica (PRPTC) dos Estados",
+    "dataApresentacao": "2023-02-15T18:05"
+   },
+   {
+    "id": 2348935,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348935",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 572,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.530, de 24 de outubro de 2007 e dá outras providências.",
+    "dataApresentacao": "2023-02-16T11:19"
+   },
+   {
+    "id": 2349149,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349149",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 629,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a concessão de benefício assistencial para desabrigados decorrentes de calamidades públicas, denominado “SEGURO CALAMIDADE”, e dá outras providências",
+    "dataApresentacao": "2023-02-23T14:29"
+   },
+   {
+    "id": 2349172,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349172",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 634,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012, que institui a Política Nacional de Proteção e Defesa Civil – PNPDEC, para dispor sobre a instalação de sirenes de alerta sonoro em regiões com risco de alagamento e deslizamento.",
+    "dataApresentacao": "2023-02-23T16:28"
+   },
+   {
+    "id": 2349176,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349176",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 636,
+    "ano": 2023,
+    "ementa": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.   NOVA EMENTA: Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dar mais efetividade ao Plano de Contingência de Proteção e Defesa Civil.",
+    "dataApresentacao": "2023-02-23T16:52"
+   },
+   {
+    "id": 2349198,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349198",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 637,
+    "ano": 2023,
+    "ementa": "Estabelece que bares, restaurantes, discotecas, shows, casas noturnas e/ou assemelhadas adotem providências para auxiliar mulheres que se sintam em situação de risco.",
+    "dataApresentacao": "2023-02-24T09:54"
+   },
+   {
+    "id": 2349202,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349202",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 640,
+    "ano": 2023,
+    "ementa": "Modifica o art. 15-B e acrescenta o art. 15-C na Lei nº 12.340, de 1º de dezembro de 2010, e acresce o art. 266-A ao Decreto-Lei nº 2.848, de 07 de dezembro de 1940 - Código Penal Brasileiro, e dá outras providências.",
+    "dataApresentacao": "2023-02-24T10:19"
+   },
+   {
+    "id": 2349203,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349203",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 641,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 4.502, de 30 de novembro de 1964, a Lei nº 8.383, de 30 de dezembro de 1991, a Lei nº 10.865 de 30 de abril de 2004 e o Decreto-Lei nº 37, de 18 de novembro de 1966, para incluir nas hipóteses de isenção do IPI, PIS/PASEP, COFINS e de importações nas operações de crédito de aquisição de veículos automotores nacionais e/ou importados, para os Servidores Públicos da Segurança Pública, e dá outras providências.",
+    "dataApresentacao": "2023-02-24T10:56"
+   },
+   {
+    "id": 2349204,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349204",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 642,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 14.312, de 14 de março de 2022 que Institui o Programa Nacional de Apoio à Aquisição de Habitação para Profissionais da Segurança Pública (Programa Habite Seguro) e dá outras providências.",
+    "dataApresentacao": "2023-02-24T10:59"
+   },
+   {
+    "id": 2349346,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349346",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 677,
+    "ano": 2023,
+    "ementa": "Altera o Decreto-lei nº 2.848, de 7 de dezembro de 1940 -  Código Penal, para tipificar o crime de perigo de aventura, por meio da prática de escalada, espeleoturismo, alpinismo, arvorismo, mergulho, descida em corredeiras, ou quaisquer atividades de aventura ou de risco, em grupo acima de quatro pessoas, sem capacitação técnica ou sem equipamentos de segurança adequados.",
+    "dataApresentacao": "2023-02-27T11:52"
+   },
+   {
+    "id": 2349362,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349362",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 681,
+    "ano": 2023,
+    "ementa": "Altera a redação de dispositivos da Lei nº 10.671, de 15 de maio de 2003, Estatuto de Defesa do Torcedor, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, Código Penal, e da Lei nº 8.072, de 25 de julho de 1990, Lei dos Crimes Hediondos, para penalizar integrantes de clubes e torcidas organizadas que praticarem tumultos, conflitos coletivos ou atos de vandalismo em estádios ou logradouros públicos, e dá outras providências.",
+    "dataApresentacao": "2023-02-27T14:34"
+   },
+   {
+    "id": 2349386,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349386",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 684,
+    "ano": 2023,
+    "ementa": "Institui a Política Nacional para o Sistema Integrado de Informações de Violência Contra a Mulher, denominado Observatório da Violência contra a Mulher e dá outras providências.",
+    "dataApresentacao": "2023-02-27T17:58"
+   },
+   {
+    "id": 2349397,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349397",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 688,
+    "ano": 2023,
+    "ementa": "Dispõe sobre medidas de combate ao assédio sexual em bares e estabelecimentos de diversão.",
+    "dataApresentacao": "2023-02-28T09:58"
+   },
+   {
+    "id": 2349400,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349400",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 690,
+    "ano": 2023,
+    "ementa": "Acrescenta parágrafos à Lei nº 6.880, de 09 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares, para impedir o licenciamento ex officio do militar durante a realização do tratamento de saúde.",
+    "dataApresentacao": "2023-02-28T10:05"
+   },
+   {
+    "id": 2349428,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349428",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 700,
+    "ano": 2023,
+    "ementa": "Altera o artigo 146-C, da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) para permitir que os operadores do Sistema de Segurança Pública realizem o encaminhamento à Unidade Prisional dos custodiados que violarem as regras do monitoramento eletrônico e para permitir que os Centros de Atendimento de Ocorrências Policiais e as Autoridades Policiais tenham acesso às informações do sistema de gerenciamento do monitoramento eletrônico de custodiados.",
+    "dataApresentacao": "2023-02-28T12:42"
+   },
+   {
+    "id": 2349493,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349493",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 709,
+    "ano": 2023,
+    "ementa": "Dispõe sobre impedimentos aplicados aos ocupantes e invasores de propriedades em todo território nacional.  NOVA EMENTA: Altera a Lei nº 8.629, de 25 de fevereiro de 1993, para dispor sobre impedimentos aplicados aos ocupantes e invasores de propriedades em todo o território nacional.",
+    "dataApresentacao": "2023-02-28T15:31"
+   },
+   {
+    "id": 2349506,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349506",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 714,
+    "ano": 2023,
+    "ementa": "Altera o artigo 310, do Decreto-Lei nº 3.689, de 3 de outubro de 1941, (Código de Processo Penal) para tornar obrigatória a decretação de prisão preventiva na audiência de custódia em casos de crimes hediondos, roubo, associação criminosa qualificada e quando for configurada reincidência criminal.",
+    "dataApresentacao": "2023-02-28T16:10"
+   },
+   {
+    "id": 2349561,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349561",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 737,
+    "ano": 2023,
+    "ementa": "Altera o Título II da Lei Federal n. 8.080, de 19 de setembro de 1990, dá nova redação ao Capítulo VII e acrescenta o artigo 19-M para dispor sobre o direito de acompanhante em exames, consultas e procedimentos médicos às pacientes do sexo feminino e dá outras providências.",
+    "dataApresentacao": "2023-02-28T19:36"
+   },
+   {
+    "id": 2349640,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349640",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 745,
+    "ano": 2023,
+    "ementa": "Altera as Leis 8.137, de 27\nde dezembro de 1990 e 8.078, de\n11 de setembro de 1990, Código de\nDefesa do Consumidor, para dispor\nsobre a prática de preços abusivos\nem período de emergência social,\ncalamidade pública, pandemia e\nepidemia",
+    "dataApresentacao": "2023-03-01T11:15"
+   },
+   {
+    "id": 2349657,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349657",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 754,
+    "ano": 2023,
+    "ementa": "Altera a Lei 4.117, de 27 de agosto de 1962, que institui o Código Brasileiro de Telecomunicações, para dispor sobre a divulgação de canais de atendimento à mulher vítima de violência na “Voz do Brasil”.      NOVA EMENTA: Altera a Lei nº 4.117, de 27 de agosto de 1962 (Código Brasileiro de Telecomunicações), para dispor sobre a divulgação de canais de atendimento à mulher vítima de violência no programa A Voz do Brasil.",
+    "dataApresentacao": "2023-03-01T13:23"
+   },
+   {
+    "id": 2349722,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349722",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 766,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de armas de fogo para mulheres vítimas de violência doméstica ou que desempenhem atividade em período noturno.",
+    "dataApresentacao": "2023-03-01T16:07"
+   },
+   {
+    "id": 2349726,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349726",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 769,
+    "ano": 2023,
+    "ementa": "Dispõe sobre a obrigatoriedade de bares, restaurantes, casas noturnas e de eventos adotarem medidas de auxílio a mulheres que se sintam em situação de risco.",
+    "dataApresentacao": "2023-03-01T17:09"
+   },
+   {
+    "id": 2349804,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349804",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 787,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para instituir o Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos atingidos por Emergências Sociais.",
+    "dataApresentacao": "2023-03-02T10:00"
+   },
+   {
+    "id": 2349819,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349819",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 790,
+    "ano": 2023,
+    "ementa": "Acrescenta o art. 67-A da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre as relações de consumo para a subsistência praticada de forma enganosa ou abusiva em situação de riscos ou desastres.",
+    "dataApresentacao": "2023-03-02T11:25"
+   },
+   {
+    "id": 2349820,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349820",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 791,
+    "ano": 2023,
+    "ementa": "Estabelece procedimentos a serem adotados pela União em regime de colaboração com os Estados, Distrito Federal e Municípios em situação de riscos e desastres mediante o uso de Sistemas de Processamento de Dados e de Inteligência Artificial (IA), com objetivo na organização, solução e implementação integrada e da outras providências.",
+    "dataApresentacao": "2023-03-02T11:25"
+   },
+   {
+    "id": 2349881,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349881",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 826,
+    "ano": 2023,
+    "ementa": "Altera a Lei Complementar nº 97, de 1999, para atribuir às Forças Armada competência para supervisionar obras de programas residenciais financiados pela União.",
+    "dataApresentacao": "2023-03-02T17:32"
+   },
+   {
+    "id": 2349964,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2349964",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 857,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 12.340, de 1º de dezembro de 2010, disciplinando a transmissão obrigatória de mensagens de alerta pelas prestadoras de serviços de telecomunicações e de radiodifusão sonora em caso de risco de desastre ou situação de emergência.",
+    "dataApresentacao": "2023-03-03T11:49"
+   },
+   {
+    "id": 2350059,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350059",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 869,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para dispor sobre a aplicação das medidas protetivas de urgência por prazo indeterminado.",
+    "dataApresentacao": "2023-03-03T17:26"
+   },
+   {
+    "id": 2350188,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350188",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 895,
+    "ano": 2023,
+    "ementa": "Dispõe sobre sanções administrativas e restrições aplicadas aos ocupantes e invasores de propriedades rurais e urbanas em todo o território nacional.",
+    "dataApresentacao": "2023-03-06T17:04"
+   },
+   {
+    "id": 2350278,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350278",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 912,
+    "ano": 2023,
+    "ementa": "Acrescenta §2º ao art. 322 do Decreto-Lei nº 3.689, de 3 de outubro de 1941, renumerando-se o atual parágrafo único, para prever a competência da autoridade judicial para arbitrar fiança nos casos de lesão corporal contra mulher vítima de violência doméstica.",
+    "dataApresentacao": "2023-03-07T13:14"
+   },
+   {
+    "id": 2350291,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350291",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 918,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre o direito de garantia de proteção e de segurança de vítimas de violência doméstica e de seus animais de estimação e dá outras providências.",
+    "dataApresentacao": "2023-03-07T13:42"
+   },
+   {
+    "id": 2350305,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350305",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 921,
+    "ano": 2023,
+    "ementa": "Dispõe sobre medidas de enfrentamento ao assédio sexual em bares e outros estabelecimentos de diversão.",
+    "dataApresentacao": "2023-03-07T14:48"
+   },
+   {
+    "id": 2350315,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350315",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 923,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para assegurar gratuidade no sistema de transporte público à vítima de violência doméstica para receber atendimento psicológico, social e/ou jurídico.",
+    "dataApresentacao": "2023-03-07T15:08"
+   },
+   {
+    "id": 2350320,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350320",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 926,
+    "ano": 2023,
+    "ementa": "Dispõe sobre medidas para que os espaços públicos de lazer previnam agressões sexuais e saibam como agir em situações de violência, assédio ou discriminação contra mulheres e pessoas transgênero, que frequentam casas noturnas, bares, restaurantes, eventos públicos e afins.",
+    "dataApresentacao": "2023-03-07T15:28"
+   },
+   {
+    "id": 2350321,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350321",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 927,
+    "ano": 2023,
+    "ementa": "DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA NACIONAL DE SOCORRO EMERGENCIAL A EMPREENDEDORES ATINGIDOS POR TRAGÉDIAS CLIMÁTICAS E DÁ OUTRAS PROVIDÊNCIAS.",
+    "dataApresentacao": "2023-03-07T15:31"
+   },
+   {
+    "id": 2350415,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350415",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 951,
+    "ano": 2023,
+    "ementa": "Atribui presunção de efetiva necessidade para possuir e/ou portar armas de fogo de uso permitido por mulheres em situação de violência doméstica ou familiar ou situação de risco a integridade.",
+    "dataApresentacao": "2023-03-07T19:30"
+   },
+   {
+    "id": 2350419,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350419",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 952,
+    "ano": 2023,
+    "ementa": "Dispões sobre a criação do sistema de ALERTA RESGATE INFANTIL para a localização de crianças desaparecidas em todo o território nacional.",
+    "dataApresentacao": "2023-03-07T19:40"
+   },
+   {
+    "id": 2350435,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350435",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 959,
+    "ano": 2023,
+    "ementa": "Estabelece a atividade de Segurança Privada e Transporte de Valores como atividade de risco.",
+    "dataApresentacao": "2023-03-07T20:13"
+   },
+   {
+    "id": 2350451,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350451",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 970,
+    "ano": 2023,
+    "ementa": "Acrescenta § 5º ao art. 22 da Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para estabelecer a obrigatoriedade de acolhimento da medida referida no inciso II quando da aplicação de quaisquer das medidas previstas nas alíneas do inciso III, e dá outras providências.",
+    "dataApresentacao": "2023-03-08T09:22"
+   },
+   {
+    "id": 2350453,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350453",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 972,
+    "ano": 2023,
+    "ementa": "Altera dispositivo da Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição e sobre o Sistema Nacional de Armas - Sinarm e define crimes.",
+    "dataApresentacao": "2023-03-08T09:28"
+   },
+   {
+    "id": 2350460,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350460",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 977,
+    "ano": 2023,
+    "ementa": "Altera a Lei 10.826, de 22 de dezembro de 2003, para incluir dispositivo que autorize mulheres sob medida protetiva decretada por ordem judicial portem arma de fogo.",
+    "dataApresentacao": "2023-03-08T10:11"
+   },
+   {
+    "id": 2350468,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350468",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 979,
+    "ano": 2023,
+    "ementa": "Altera a Lei 13.105, de 16 de março de 2015, para conceder tramitação prioritária automática aos processos protocolados em qualquer juízo ou tribunal, cuja parte seja mulher vítima de violência física",
+    "dataApresentacao": "2023-03-08T11:00"
+   },
+   {
+    "id": 2350502,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350502",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 988,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 10.778, de 2003, para dispor sobre o acompanhamento psicossocial às mulheres vítimas de violência; e a altera a Lei nº 11.340, de 2006, Lei Maria da Penha, para ampliar as possibilidades de cuidado de seus dependentes a fim de proporcionar condições para obtenção de renda própria.",
+    "dataApresentacao": "2023-03-08T13:10"
+   },
+   {
+    "id": 2350532,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350532",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 998,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 9.455, de 7 de abril de 1997, que define os crimes de tortura e dá outras providências, a fim de prever a motivação do crime de tortura em razão de gênero, bem como criar o tipo penal de impedimento de realização de aborto legal.",
+    "dataApresentacao": "2023-03-08T14:51"
+   },
+   {
+    "id": 2350533,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350533",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 999,
+    "ano": 2023,
+    "ementa": "Institui o Protocolo Nacional de Segurança e Acolhimento às Vítimas de Violência Sexual em locais de entretenimento e lazer.",
+    "dataApresentacao": "2023-03-08T14:56"
+   },
+   {
+    "id": 2350543,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350543",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1005,
+    "ano": 2023,
+    "ementa": "Altera o Art. 19 da Lei 11.340, de 7 de agosto de 2006, ao acrescentar o § 4º, que estabelece que as  medidas protetivas serão despachadas pelo Juiz com prazo indeterminado.",
+    "dataApresentacao": "2023-03-08T16:05"
+   },
+   {
+    "id": 2350562,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350562",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1006,
+    "ano": 2023,
+    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre o monitoramento eletrônico como medida protetiva urgência e dá outras providências.",
+    "dataApresentacao": "2023-03-08T16:30"
+   },
+   {
+    "id": 2350563,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350563",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1007,
+    "ano": 2023,
+    "ementa": "Determina o atendimento médico-hospitalar, aos profissionais da Segurança Pública, em qualquer estabelecimento disponível nas proximidades da ocorrência, público ou privado, no caso de acidentes decorrentes do exercício da função pública ou em razão dela.",
+    "dataApresentacao": "2023-03-08T16:33"
+   },
+   {
+    "id": 2350567,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350567",
+    "siglaTipo": "PL",
+    "codTipo": 139,
+    "numero": 1008,
+    "ano": 2023,
+    "ementa": "Acrescenta o artigo 24-K ao Decreto-Lei nº 667/1969, para determinar o emprego de, no mínimo, 03 (três) militares por viatura, na realização de rondas, operações e patrulhamentos.",
+    "dataApresentacao": "2023-03-08T17:13"
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&itens=100&codTema=57"
+   },
+   {
+    "rel": "next",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=57&pagina=2&itens=100"
+   },
+   {
+    "rel": "first",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=57&pagina=1&itens=100"
+   },
+   {
+    "rel": "last",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2023-02-01&ordem=ASC&ordenarPor=id&codTema=57&pagina=29&itens=100"
+   }
+  ]
+ }
+}

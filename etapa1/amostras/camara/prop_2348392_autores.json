@@ -1,0 +1,23 @@
+{
+ "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/autores",
+ "requisitado_em_utc": "2026-10-26T23:39:31+00:00",
+ "status_http": 200,
+ "resposta": {
+  "dados": [
+   {
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220534",
+    "nome": "Fred Linhares",
+    "codTipo": 10000,
+    "tipo": "Deputado(a)",
+    "ordemAssinatura": 1,
+    "proponente": 1
+   }
+  ],
+  "links": [
+   {
+    "rel": "self",
+    "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2348392/autores"
+   }
+  ]
+ }
+}
