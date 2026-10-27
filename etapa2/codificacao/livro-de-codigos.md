@@ -1,6 +1,6 @@
 # Livro de códigos — Etapa 2
 
-Versão 1.3 (27/10/2026), depois do reteste de calibração. As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.4 (27/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
@@ -10,6 +10,7 @@ Versão 1.3 (27/10/2026), depois do reteste de calibração. As alterações fei
 - **Presença de um tema num programa:** pelo menos uma unidade programática sobre ele. Menção de passagem dentro de outra proposta, sem conteúdo próprio, não conta. Por exemplo, "destinar o petróleo à saúde e educação" conta para Energia, mas não para Saúde nem para Educação.
 - **Criação ou revogação de lei penal** (criminalizar, descriminalizar, mudar penas ou maioridade penal) vai para SEG.PENAL, mesmo quando a motivação é de outro tema. Exemplo: "Criminalização da misoginia".
 - **Objetivo explícito de preço:** quando uma proposta de outro tema (por exemplo, assistência ou abastecimento) declara de forma explícita o objetivo de reduzir ou controlar preços ao consumidor, a unidade recebe IMP.PRECO. O outro tema é registrado só como presença.
+- **Incentivo tributário setorial:** isenções ou regimes tributários para um setor ou atividade específica (startups, datacenters, venture capital, games) vão para o tema do setor (T62, T66 etc.). Medidas tributárias gerais, ou para todos os pequenos e novos negócios, vão para IMP.TRIB.
 - **Repetição:** um conteúdo repetido no mesmo programa é codificado de novo e marcado "(rep.)". Conta para a contagem, mas não altera a presença.
 - **Exclusão mútua:** cada unidade recebe **um** código principal, o do objeto central da proposta. Quando uma unidade cobre dois temas de forma substantiva, ela é dividida em duas unidades.
 - **Codificação fina** (verbatim e subcódigo) só nos 3 temas da hipótese: SEG, IMP e SAU. Nos demais temas, registra-se só a presença, com as páginas.
@@ -112,3 +113,4 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 - v1.1 (27/10/2026), durante a calibração com DC: regra da lista fragmentária; fronteira entre T40 (macroeconomia) e T66 (setores e empreendedorismo); atividade física como saúde vai para SAU.ESP. O programa do PCO, codificado em v1, não foi afetado por essas mudanças (verificado: não tem lista fragmentária nem unidades em T40/T66 ou T39 que mudem de código).
 - v1.2 (27/10/2026), durante a calibração com PCB: SEG.FED passa a incluir o paradigma e a arquitetura institucional; SAU.TEC passa a incluir pesquisa e produção (CEIS); regras de lei penal e de repetição. PCO e DC conferidos: nenhuma unidade muda de código.
 - v1.3 (27/10/2026), depois do reteste da rodada 1 (`reteste.md`): regra do objetivo explícito de preço.
+- v1.4 (27/10/2026), durante a codificação de PRTB/Marçal: regra do incentivo tributário setorial. Programas anteriores conferidos: nenhuma unidade muda de código.
