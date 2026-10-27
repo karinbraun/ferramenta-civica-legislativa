@@ -12,7 +12,7 @@
 | 8 | Zema (NOVO) | `programas/280002539826-zema-NOVO.md` | Concluído |
 | 9 | Samara (UP) | `programas/280002538811-samara-UP.md` | Concluído |
 | 10 | Leonardo Avalanche (PRTB) | `programas/280002554479-leonardo-avalanche-PRTB.md` | Concluído |
-| 11 | Flavio Bolsonaro (PL) | — | Pendente |
+| 11 | Flavio Bolsonaro (PL) | `programas/280002551544-flavio-bolsonaro-PL.md` | Concluído |
 | 12 | Lula (PT) | — | Pendente |
 | 13 | Escritor Augusto Cury (AVANTE) | — | Pendente |
 | 14 | Ronaldo Caiado (PSD) | — | Pendente |
