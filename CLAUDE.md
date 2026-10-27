@@ -32,7 +32,7 @@ O projeto começa como protótipo, testado com público misto (eleitores de dife
 
 - API de Dados Abertos da Câmara dos Deputados: proposições, autores, temas, tramitação, votações, orientações de bancada.
 - API de Dados Abertos do Senado Federal: estrutura diferente da Câmara; verificar cobertura de votações e autoria.
-- LexML e Portal da Legislação do Planalto: leis vigentes.
+- API de legislação do Senado Federal (`/legislacao`): coleta das leis federais (ementa, classificação, declarações de revogação). LexML e Portal da Legislação do Planalto: apenas como link para o usuário, porque recusam acesso automatizado (ver seção 8).
 - Políticas públicas: não há base unificada. Exige curadoria manual no protótipo.
 
 Limitações já identificadas: votações simbólicas não têm voto individual; o volume de leis desde 1988 é grande, por isso o protótipo cobre poucos temas; a regra de arquivamento (Regimento Interno da Câmara, art. 105) precisa ser confirmada na versão vigente, assim como a regra equivalente do Senado; a nova legislatura começa em fevereiro de 2027.
@@ -66,3 +66,4 @@ Estrutura baseada na classificação temática oficial da Câmara, com rótulos 
 - Repositório público no GitHub desde o início, com aviso de protótipo no README.
 - Votação simbólica (27/10/2026): mostrar só o resultado oficial, com aviso de que não há registro de voto individual nem de orientação de bancada. Motivo: a API da Câmara não registra orientação nas votações simbólicas (0 de 79 na amostra de novembro de 2025; ver `etapa1/relatorio-cobertura.md`, seção 2.1).
 - Votação secreta (27/10/2026): mostrar só o resultado oficial, com o aviso "votação secreta: os votos individuais não são públicos" e o fundamento legal. Motivo: no Senado, o voto individual em votação secreta aparece apenas como "Votou" (ver `etapa1/relatorio-cobertura.md`, seção 5.2).
+- Fonte de leis (27/10/2026): coleta pela API de legislação do Senado; LexML e Planalto apenas como link. Motivo: o LexML exibe desafio anti-robô e o Planalto encerra conexões automatizadas (ver `etapa1/relatorio-cobertura.md`, seção 8.1).

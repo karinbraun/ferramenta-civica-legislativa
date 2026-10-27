@@ -1,10 +1,33 @@
 # Relatório de cobertura das fontes — Etapa 1
 
-Status: parcial. Esta versão cobre a **API da Câmara dos Deputados** (Parte I), a **API do Senado Federal** (Parte II), as **fontes de legislação federal** (Parte III) e os **regimentos** (Parte IV). A Parte IV está incompleta: o texto vigente dos regimentos depende de dois domínios ainda não liberados neste ambiente (seção 9).
+Status: concluído, com exceção da Parte IV (texto vigente dos regimentos). Ela depende de liberar os domínios `normas.leg.br` e `www2.camara.leg.br` neste ambiente (seção 9).
 
 Convenções deste relatório:
-- **Observado**: o que está nas respostas da API salvas em `etapa1/amostras/camara/`. Cada arquivo traz a URL, a data/hora da requisição e a resposta bruta.
+- **Observado**: o que está nas respostas salvas em `etapa1/amostras/`. Cada arquivo traz a URL, a data/hora da requisição e a resposta bruta.
 - **Inferência**: interpretação minha, ainda não confirmada em documentação oficial ou por um segundo teste.
+
+## Síntese geral da Etapa 1
+
+| Funcionalidade do briefing | Câmara | Senado | Legislação | Conclusão |
+|---|---|---|---|---|
+| 1–2. Itens por tema, com ementa oficial e link | Sustentado | Sustentado | Sustentado (API do Senado) | Viável. O vínculo ao tema exige curadoria (ver abaixo). |
+| Temas oficiais como base | Parcial: 32 temas, sem "impostos" | Parcial: 179 classes, com "Tributos" | Parcial: classificação incompleta | Não há correspondência oficial entre as casas. Tabela própria na Etapa 2. |
+| Situação oficial da tramitação | Sustentado | Sustentado | — | Viável. |
+| 3. Autoria com partido e UF na data | Parcial: calculado pelo histórico | Sustentado | — | Viável, com validação de casos de troca de partido. |
+| 4. Votos nominais por parlamentar e partido | Sustentado | Sustentado | — | Viável. O partido gravado é o da época. |
+| 4. Votação simbólica | Sem voto e sem orientação | Sem registro estruturado | — | Decidido: só o resultado, com aviso. |
+| 4. Votação secreta | — | Só presença | — | Decidido: só o resultado, com aviso e fundamento legal. |
+| "Leis vigentes" | — | — | Parcial: revogação no todo estruturada; tácita, parcial e STF não | Decisão de texto pendente ("sem registro de revogação"). |
+| 6. Nota de arquivamento | Parcial | Parcial | — | Exceções ligadas à autoria podem ser verificadas automaticamente; as ligadas a parecer, não. Texto vigente do regimento pendente. |
+| Políticas públicas | — | — | — | Curadoria manual, como previsto no briefing. Não testado nesta etapa. |
+| 5. Nota de competência | — | — | — | Conteúdo educativo próprio. Não depende das APIs. |
+
+Decisões tomadas na Etapa 1 (registradas em `CLAUDE.md`, seção 8): tratamento das votações simbólicas e secretas; API do Senado como fonte de coleta das leis, com LexML e Planalto apenas como link.
+
+Pendências que passam para as próximas etapas:
+- **Etapa 2:** tabela de correspondência entre temas da Câmara, classes do Senado e os 3 temas do protótipo; texto de interface para leis sem registro de revogação.
+- **Etapa 3:** validar o cálculo do partido da Câmara em trocas no meio da legislatura; usar a data da apresentação original no Senado; deduzir votações simbólicas no Senado; datas de efeito de revogações; carga incremental ano a ano.
+- **Bloqueio de ambiente:** texto vigente do RICD art. 105, do RISF art. 332 e do fundamento do voto secreto (seção 9).
 
 Execução: `python3 etapa1/scripts/sondagem_camara.py`, rodado em 26/10/2026. Foram 465 requisições, todas de leitura. O resumo está em `etapa1/amostras/camara/_resumo.json`.
 
@@ -259,6 +282,6 @@ Cruzamento preliminar das exceções desta edição com os campos da API da Câm
 
 ## 11. Pendências das Partes III e IV
 
-1. Validar a troca da fonte de coleta de leis: API do Senado no lugar de LexML e Planalto, que ficam como link (seção 8.3).
+1. ~~Validar a troca da fonte de coleta de leis (seção 8.3).~~ Decidido em 27/10/2026: coleta pela API do Senado; LexML e Planalto apenas como link.
 2. Validar o texto de interface "sem registro de revogação no acervo do Senado" no lugar de "vigente" (seção 8.2).
 3. Liberar `normas.leg.br` e `www2.camara.leg.br` e então confirmar o texto vigente do RICD art. 105, do RISF art. 332 e o fundamento do voto secreto (seção 9).
