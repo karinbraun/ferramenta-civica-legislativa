@@ -1,11 +1,12 @@
 # Livro de códigos — Etapa 2
 
-Versão 1 (27/10/2026), antes da calibração. As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.1 (27/10/2026), durante a calibração. As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
 - **Unidade de registro:** o trecho mínimo com sentido programático. Pode ser uma proposta (o que fazer) ou um diagnóstico (o que está errado e por quê). Em geral é um item de lista ou um período.
 - **Unidade de contexto:** a seção ou capítulo do programa, registrada junto com a página.
+- **Lista fragmentária:** quando os itens de uma lista não têm sentido isolado (por exemplo, "Inteligência sobre rotas e redes"), a unidade de registro é a subseção inteira: o título e os itens.
 - **Presença de um tema num programa:** pelo menos uma unidade programática sobre ele. Menção de passagem dentro de outra proposta, sem conteúdo próprio, não conta. Por exemplo, "destinar o petróleo à saúde e educação" conta para Energia, mas não para Saúde nem para Educação.
 - **Exclusão mútua:** cada unidade recebe **um** código principal, o do objeto central da proposta. Quando uma unidade cobre dois temas de forma substantiva, ela é dividida em duas unidades.
 - **Codificação fina** (verbatim e subcódigo) só nos 3 temas da hipótese: SEG, IMP e SAU. Nos demais temas, registra-se só a presença, com as páginas.
@@ -65,8 +66,8 @@ Código = T + código oficial da Câmara (Etapa 1, `/referencias/proposicoes/cod
 | T34-ADM | Administração Pública | Estrutura e gestão do Estado, servidores, reforma administrativa, eficiência, governo digital |
 | T35-CULT | Arte, Cultura e Religião | Cultura, patrimônio, liberdade religiosa |
 | T37-COM | Comunicações | Mídia, concessões, internet, telecomunicações, liberdade de expressão nos meios |
-| T39-ESP | Esporte e Lazer | Esporte, lazer |
-| T40-ECO | Economia | Crescimento, emprego macro, indústria, política monetária, privatizações, estatais |
+| T39-ESP | Esporte e Lazer | Esporte, lazer. Atividade física apresentada explicitamente como política de saúde vai para SAU.ESP |
+| T40-ECO | Economia | Macroeconomia: crescimento, política monetária e cambial, ambiente de negócios em geral, estatais e privatizações |
 | T41-CID | Cidades e Desenvolvimento Urbano | Moradia, saneamento, urbanismo, favelas |
 | T42-CIV | Direito Civil e Processual Civil | Família, contratos, propriedade (direito civil) |
 | T44-DH | Direitos Humanos e Minorias | Direitos de grupos (mulheres, população negra, LGBT, indígenas, pessoas com deficiência), combate a discriminação |
@@ -83,7 +84,7 @@ Código = T + código oficial da Câmara (Etapa 1, `/referencias/proposicoes/cod
 | T61-TRANS | Viação, Transporte e Mobilidade | Transporte, rodovias, mobilidade urbana |
 | T62-CTI | Ciência, Tecnologia e Inovação | Ciência, pesquisa, inteligência artificial, inovação |
 | T64-AGRO | Agricultura, Pecuária, Pesca e Extrativismo | Agropecuária, agricultura familiar, segurança alimentar (produção) |
-| T66-IND | Indústria, Comércio e Serviços | Política industrial setorial, comércio, empreendedorismo, pequenas empresas |
+| T66-IND | Indústria, Comércio e Serviços | Setores (indústria, comércio, serviços), política industrial, empreendedorismo, micro e pequenas empresas |
 | T67-CONS | Direito e Defesa do Consumidor | Consumidor |
 | T68-CONST | Direito Constitucional | Reformas constitucionais, sistema de governo, pacto federativo |
 | T70-FIN | Finanças Públicas e Orçamento | Gasto público, arcabouço fiscal, dívida pública, orçamento |
@@ -100,8 +101,9 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 
 | Código | Definição | Por que não cabe na grade | Primeiro exemplo |
 |---|---|---|---|
-| E-CORR | Combate à corrupção, transparência e privilégios da elite política (quando tratados como tema próprio) | A Câmara distribui o tema entre Administração Pública e Direito Penal | (a preencher) |
+| E-CORR | Combate à corrupção, integridade, transparência e privilégios da elite política (quando tratados como tema próprio) | A Câmara distribui o tema entre Administração Pública e Direito Penal | DC, p. 13, "6.3 Integridade e transparência" |
 
 ## Histórico
 
 - v1 (27/10/2026): versão inicial.
+- v1.1 (27/10/2026), durante a calibração com DC: regra da lista fragmentária; fronteira entre T40 (macroeconomia) e T66 (setores e empreendedorismo); atividade física como saúde vai para SAU.ESP. O programa do PCO, codificado em v1, não foi afetado por essas mudanças (verificado: não tem lista fragmentária nem unidades em T40/T66 ou T39 que mudem de código).
