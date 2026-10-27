@@ -1,6 +1,6 @@
 # Livro de códigos — Etapa 2
 
-Versão 1.1 (27/10/2026), durante a calibração. As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.2 (27/10/2026), durante a calibração. As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
@@ -8,6 +8,8 @@ Versão 1.1 (27/10/2026), durante a calibração. As alterações feitas depois 
 - **Unidade de contexto:** a seção ou capítulo do programa, registrada junto com a página.
 - **Lista fragmentária:** quando os itens de uma lista não têm sentido isolado (por exemplo, "Inteligência sobre rotas e redes"), a unidade de registro é a subseção inteira: o título e os itens.
 - **Presença de um tema num programa:** pelo menos uma unidade programática sobre ele. Menção de passagem dentro de outra proposta, sem conteúdo próprio, não conta. Por exemplo, "destinar o petróleo à saúde e educação" conta para Energia, mas não para Saúde nem para Educação.
+- **Criação ou revogação de lei penal** (criminalizar, descriminalizar, mudar penas ou maioridade penal) vai para SEG.PENAL, mesmo quando a motivação é de outro tema. Exemplo: "Criminalização da misoginia".
+- **Repetição:** um conteúdo repetido no mesmo programa é codificado de novo e marcado "(rep.)". Conta para a contagem, mas não altera a presença.
 - **Exclusão mútua:** cada unidade recebe **um** código principal, o do objeto central da proposta. Quando uma unidade cobre dois temas de forma substantiva, ela é dividida em duas unidades.
 - **Codificação fina** (verbatim e subcódigo) só nos 3 temas da hipótese: SEG, IMP e SAU. Nos demais temas, registra-se só a presença, com as páginas.
 - **Marcação:** [LITERAL] para texto do programa, [PARÁFRASE] para resumo meu, [INFERÊNCIA] para interpretação minha, [TRANSCRIÇÃO DE IMAGEM] para texto lido de página sem texto extraível.
@@ -26,7 +28,7 @@ Exclui: defesa nacional e Forças Armadas em função externa (vai para T57-DEF)
 | SEG.PENAL | Leis penais e processuais, penas, maioridade penal, sistema prisional, progressão de regime |
 | SEG.VIOL | Violência contra grupos específicos (mulheres, crianças, população negra, juventude) e violência policial |
 | SEG.ARMAS | Armas de fogo, porte, autodefesa |
-| SEG.FED | Competências e cooperação entre União, estados e municípios na segurança; sistemas nacionais e fundos |
+| SEG.FED | Arquitetura institucional e paradigma da política de segurança: competências entre União, estados e municípios, ministérios, sistemas e fundos nacionais, propostas de substituir o modelo de segurança |
 | SEG.PREV | Prevenção social do crime, inteligência, tecnologia de vigilância, ressocialização |
 | SEG.DIAG | Diagnóstico geral da segurança, sem proposta específica |
 
@@ -54,7 +56,7 @@ Exclui: saneamento (T41-CID), esporte como saúde (T39-ESP), salvo quando a prop
 | SAU.PROF | Profissionais de saúde: provimento, formação, salários |
 | SAU.PUBPRIV | Relação público-privado: privatização, parcerias, planos de saúde, compra de serviços |
 | SAU.ESP | Agendas específicas: saúde mental, doenças raras, câncer, saúde da mulher, medicamentos, vacinação |
-| SAU.TEC | Saúde digital, telessaúde, prontuário, tecnologia |
+| SAU.TEC | Tecnologia, pesquisa e produção em saúde: saúde digital, telessaúde, prontuário, avaliação e incorporação de tecnologias, complexo industrial da saúde (CEIS), institutos de pesquisa e produção |
 | SAU.DIAG | Diagnóstico geral da saúde, sem proposta específica |
 
 ## B. Demais temas da Câmara (só presença)
@@ -107,3 +109,4 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 
 - v1 (27/10/2026): versão inicial.
 - v1.1 (27/10/2026), durante a calibração com DC: regra da lista fragmentária; fronteira entre T40 (macroeconomia) e T66 (setores e empreendedorismo); atividade física como saúde vai para SAU.ESP. O programa do PCO, codificado em v1, não foi afetado por essas mudanças (verificado: não tem lista fragmentária nem unidades em T40/T66 ou T39 que mudem de código).
+- v1.2 (27/10/2026), durante a calibração com PCB: SEG.FED passa a incluir o paradigma e a arquitetura institucional; SAU.TEC passa a incluir pesquisa e produção (CEIS); regras de lei penal e de repetição. PCO e DC conferidos: nenhuma unidade muda de código.
