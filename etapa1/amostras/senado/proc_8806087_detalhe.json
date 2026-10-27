@@ -1,0 +1,385 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8806087",
+ "requisitado_em_utc": "2026-10-27T00:38:17+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8806087,
+  "codigoMateria": 167712,
+  "identificacao": "PL 1198/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "1198",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7602063,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, para determinar que a informação sobre o valor aproximado dos tributos seja prestada eletronicamente.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9919758,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-03-24",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  NOTA FISCAL ,  EMISSÃO ,  TECNOLOGIA DIGITAL ,  INCLUSÃO ,  INFORMAÇÕES ,  VALOR ,  TRIBUTOS ,  PERCENTAGEM ,  VALOR MONETARIO ,  AMBITO NACIONAL ,  AMBITO ESTADUAL ,  AMBITO MUNICIPAL ,  VENDA ,  CONSUMIDOR ,  MERCADORIA ,  SERVIÇO .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/b0dbbcb7-3cde-4651-9892-c6e9c462f0da",
+   "autoria": [
+    {
+     "autor": "Carlos Viana",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 5990,
+     "uf": "MG",
+     "siglaPartido": "PODE",
+     "partido": "Podemos",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Carlos Viana (PODEMOS/MG)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-03-24",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-04-14",
+  "classificacoes": [
+   {
+    "codigo": 33804940,
+    "descricao": "Tributos",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+   },
+   {
+    "codigo": 33805587,
+    "descricao": "Direito do Consumidor",
+    "descricaoHierarquia": "Jurídico / Direito do Consumidor"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Carlos Viana",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5990,
+    "uf": "MG",
+    "siglaPartido": "PODE",
+    "partido": "Podemos",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8806087,
+  "identificacaoProcessoInicial": "PL 1198/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "despachos": [
+   {
+    "id": 10196196,
+    "data": "2026-04-06",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 9026740,
+     "numero": 1,
+     "data": "2026-04-06",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 9027333,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 38,
+         "sigla": "CAE",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Econômicos"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 1956,
+         "sigla": "CTFC",
+         "casa": "SF",
+         "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 38,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CAE",
+    "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+    "idEnteControleAtual": 13530,
+    "siglaEnteControleAtual": "SACAE",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-03-24",
+      "fim": "2026-04-06",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2026-04-06",
+      "fim": "2026-04-14",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-04-14",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2232324,
+      "data": "2025-03-24 18:10:58",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 1198/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9919744,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF251259511704",
+        "descricao": "-",
+        "data": "2025-03-24T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/82b93387-1875-4815-af50-2f2adc7741e7"
+       },
+       {
+        "id": 9919758,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 1198/2025",
+        "descricao": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, para determinar que a informação sobre o valor aproximado dos tributos seja prestada eletronicamente.",
+        "data": "2025-03-24T18:10:46",
+        "autoria": "Senador Carlos Viana (PODEMOS/MG)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b0dbbcb7-3cde-4651-9892-c6e9c462f0da"
+       }
+      ]
+     },
+     {
+      "id": 2280607,
+      "data": "2026-04-06 18:33:20",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A presente matéria vai à CAE e, em seguida, à CTFC, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, podendo receber emendas perante a primeira a comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2280648,
+      "data": "2026-04-06 18:36:26",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 07/04/2026 a 13/04/2026. Perante a CAE."
+     },
+     {
+      "id": 2280887,
+      "data": "2026-04-07 10:28:56",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Matéria em prazo de recebimento de emendas (Art. 122, II, \"c\", do RISF)."
+     },
+     {
+      "id": 2281938,
+      "data": "2026-04-14 08:30:06",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Encerrado o prazo regimental, não foram apresentadas emendas. \r\n\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10196026,
+      "dataEnvio": "2026-04-06 17:21:04",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-04-06 18:33:17",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10196270,
+      "dataEnvio": "2026-04-06 18:59:10",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-04-07 10:28:51",
+      "enteDestino": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "colegiadoDestino": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+  "dthUltimaAtualizacao": "2026-05-27T17:05:47.968000"
+ }
+}

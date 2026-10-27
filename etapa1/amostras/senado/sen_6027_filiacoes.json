@@ -1,0 +1,32 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/6027/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:23+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:30:28",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "6027",
+    "Nome": "Mecias de Jesus",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "521",
+        "SiglaPartido": "REPUBLICANOS",
+        "NomePartido": "Republicanos"
+       },
+       "DataFiliacao": "2019-01-01"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

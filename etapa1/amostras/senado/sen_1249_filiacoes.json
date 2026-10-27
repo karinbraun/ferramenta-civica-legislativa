@@ -1,0 +1,86 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/1249/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:29+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:36:16",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "1249",
+    "Nome": "Kátia Abreu",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "418",
+        "SiglaPartido": "PP",
+        "NomePartido": "Progressistas"
+       },
+       "DataFiliacao": "2020-03-26"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "20",
+        "SiglaPartido": "PDT",
+        "NomePartido": "Partido Democrático Trabalhista"
+       },
+       "DataFiliacao": "2018-03-22",
+       "DataDesfiliacao": "2020-03-10"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "163",
+        "SiglaPartido": "S/Partido",
+        "NomePartido": "Sem Partido"
+       },
+       "DataFiliacao": "2017-12-08",
+       "DataDesfiliacao": "2018-03-21"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "33",
+        "SiglaPartido": "MDB",
+        "NomePartido": "Movimento Democrático Brasileiro"
+       },
+       "DataFiliacao": "2013-10-08",
+       "DataDesfiliacao": "2017-12-05"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "557",
+        "SiglaPartido": "PSD",
+        "NomePartido": "Partido Social Democrático"
+       },
+       "DataFiliacao": "2011-10-19",
+       "DataDesfiliacao": "2013-10-07"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "554",
+        "SiglaPartido": "DEM",
+        "NomePartido": "Democratas"
+       },
+       "DataFiliacao": "2007-08-02",
+       "DataDesfiliacao": "2011-10-18"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "22",
+        "SiglaPartido": "PFL",
+        "NomePartido": "Partido da Frente Liberal"
+       },
+       "DataFiliacao": "2000-04-04",
+       "DataDesfiliacao": "2007-08-01"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

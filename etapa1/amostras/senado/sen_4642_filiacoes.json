@@ -1,0 +1,68 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/4642/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:50+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:27:21",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "4642",
+    "Nome": "Efraim Filho",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "523",
+        "SiglaPartido": "PL",
+        "NomePartido": "Partido Liberal"
+       },
+       "DataFiliacao": "2026-03-30"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "582",
+        "SiglaPartido": "UNIÃO",
+        "NomePartido": "União Brasil"
+       },
+       "DataFiliacao": "2022-02-23",
+       "DataDesfiliacao": "2026-03-29"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "554",
+        "SiglaPartido": "DEM",
+        "NomePartido": "Democratas"
+       },
+       "DataFiliacao": "2007-08-03",
+       "DataDesfiliacao": "2022-02-23"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "163",
+        "SiglaPartido": "S/Partido",
+        "NomePartido": "Sem Partido"
+       },
+       "DataFiliacao": "2007-04-24",
+       "DataDesfiliacao": "2007-08-02"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "22",
+        "SiglaPartido": "PFL",
+        "NomePartido": "Partido da Frente Liberal"
+       },
+       "DataFiliacao": "2007-02-01",
+       "DataDesfiliacao": "2007-04-23"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

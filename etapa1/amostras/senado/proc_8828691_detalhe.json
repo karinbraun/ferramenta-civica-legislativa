@@ -1,0 +1,610 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8828691",
+ "requisitado_em_utc": "2026-10-27T00:37:48+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8828691,
+  "codigoMateria": 168536,
+  "identificacao": "PL 1557/2023",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "1557",
+  "ano": 2023,
+  "objetivo": "Revisora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7607499,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera os arts. 16 e 18 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever a utilização da telerreabilitação.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9949632,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-05-09",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  ESTATUTO DA PESSOA COM DEFICIENCIA ,  GARANTIA ,  PESSOA COM DEFICIENCIA ,  HABILITAÇÃO ,  REABILITAÇÃO ,  TRATAMENTO MEDICO ,  UTILIZAÇÃO ,  COMUNICAÇÕES ,  DISTANCIA ,  TELEMEDICINA .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/ba084a94-08d7-4140-aaef-5ca61389febc",
+   "autoria": [
+    {
+     "autor": "Câmara dos Deputados",
+     "siglaTipo": "CAMARA",
+     "descricaoTipo": "CAMARA",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "idEnte": 2,
+     "siglaEnte": "CD",
+     "casaEnte": "CD",
+     "ente": "Câmara dos Deputados"
+    }
+   ],
+   "resumoAutoria": "Câmara dos Deputados"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-05-12",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-05-07",
+  "classificacoes": [
+   {
+    "codigo": 33808942,
+    "descricao": "Saúde",
+    "descricaoHierarquia": "Política Social / Saúde"
+   },
+   {
+    "codigo": 33809423,
+    "descricao": "Pessoas com Deficiência",
+    "descricaoHierarquia": "Política Social / Proteção Social / Pessoas com Deficiência"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Dr. Daniel Soranz",
+    "sexo": "M",
+    "siglaTipo": "DEPUTADO",
+    "descricaoTipo": "DEPUTADO",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6501,
+    "siglaPartido": "PSD",
+    "partido": "Partido Social Democrático",
+    "siglaCargo": "DEPUTADO",
+    "cargo": "Deputado Federal",
+    "idEnte": 2,
+    "siglaEnte": "CD",
+    "casaEnte": "CD",
+    "ente": "Câmara dos Deputados"
+   }
+  ],
+  "idProcessoCasaInicial": 8828690,
+  "identificacaoProcessoInicial": "PL 1557/2023",
+  "siglaCasaIniciadora": "CD",
+  "comissaoMpv": "{}",
+  "outrosNumeros": [
+   {
+    "idOutroProcesso": 8828690,
+    "sigla": "PL",
+    "numero": "01557",
+    "ano": 2023,
+    "tramitando": "Sim",
+    "externaAoCongresso": "Não",
+    "casaIdentificadora": "CD",
+    "siglaEnteIdentificador": "CD",
+    "enteIdentificador": "Câmara dos Deputados"
+   }
+  ],
+  "despachos": [
+   {
+    "id": 10161677,
+    "data": "2026-02-24",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8995623,
+     "numero": 1,
+     "data": "2026-02-24",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8996962,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 834,
+         "sigla": "CDH",
+         "casa": "SF",
+         "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 40,
+         "sigla": "CAS",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Sociais"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 40,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CAS",
+    "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+    "idEnteControleAtual": 55313,
+    "siglaEnteControleAtual": "SACAS",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-05-12",
+      "fim": "2026-02-24",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 177,
+      "sigla": "MATDESP",
+      "descricao": "MATÉRIA DESPACHADA",
+      "inicio": "2026-02-24",
+      "fim": "2026-02-25",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-02-25",
+      "fim": "2026-02-28",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2026-02-28",
+      "fim": "2026-04-22",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-04-22",
+      "fim": "2026-04-30",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2026-04-30",
+      "fim": "2026-05-06",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 89,
+      "sigla": "APRVPAR",
+      "descricao": "APROVADO PARECER NA COMISSÃO",
+      "inicio": "2026-05-06",
+      "fim": "2026-05-07",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-05-07",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2238299,
+      "data": "2025-05-12 08:48:47",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 1557/2023, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9949632,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 1557/2023",
+        "descricao": "Altera os arts. 16 e 18 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever a utilização da telerreabilitação.",
+        "data": "2025-05-09T10:23:33",
+        "autoria": "Câmara dos Deputados",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ba084a94-08d7-4140-aaef-5ca61389febc"
+       },
+       {
+        "id": 9950400,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF257381384410",
+        "descricao": "-",
+        "data": "2025-05-12T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9735b732-8c58-4f82-b7be-a43e1ab656f5"
+       }
+      ]
+     },
+     {
+      "id": 2274364,
+      "data": "2026-02-24 18:07:54",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A presente matéria vai à CDH e à CAS.",
+      "idSituacaoIniciada": 177,
+      "siglaSituacaoIniciada": "MATDESP"
+     },
+     {
+      "id": 2274526,
+      "data": "2026-02-25 04:46:27",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Recebido na CDH. \r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2275157,
+      "data": "2026-02-28 09:09:57",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Distribuído à Senadora Mara Gabrilli, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2283277,
+      "data": "2026-04-22 16:57:34",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Recebido o relatório da Senadora Mara Gabrilli com voto favorável ao projeto.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10209646,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF264662398272",
+        "descricao": "Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 1557, de 2023, que Altera os arts. 16 e 18 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever a utilização da telerreabilitação.",
+        "data": "2026-04-22T16:57:28",
+        "autoria": "Senadora Mara Gabrilli (PSD/SP)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4da7ec26-5213-44a3-be16-1fe8057c68d6"
+       }
+      ]
+     },
+     {
+      "id": 2283957,
+      "data": "2026-04-30 16:51:58",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Matéria constante da Pauta da 29ª Reunião da Comissão de Direitos Humanos e Legislação Participativa, agendada para o dia 06/05/2026.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2284632,
+      "data": "2026-05-06 15:30:52",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Na 29ª Reunião extraordinária, realizada nesta data, a Comissão aprova o relatório, que passa a constituir o Parecer da CDH, favorável ao projeto.",
+      "idSituacaoIniciada": 89,
+      "siglaSituacaoIniciada": "APRVPAR",
+      "documentosAssociados": [
+       {
+        "id": 10215858,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 52/2026 - CDH",
+        "descricao": "Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 1557, de 2023, que Altera os arts. 16 e 18 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever a utilização da telerreabilitação.",
+        "data": "2026-05-06T00:00:00",
+        "autoria": "Comissão de Direitos Humanos e Legislação Participativa",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/30698431-659e-4b66-b183-dc44aa18ebe6"
+       }
+      ]
+     },
+     {
+      "id": 2284951,
+      "data": "2026-05-07 11:33:26",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Encerrada a relatoria da Senadora Mara Gabrilli por deliberação da matéria.\nÀ CAS para prosseguimento da tramitação."
+     },
+     {
+      "id": 2285002,
+      "data": "2026-05-07 14:24:18",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Matéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10160181,
+      "dataEnvio": "2026-02-23 19:52:49",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-02-24 17:42:17",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10161835,
+      "dataEnvio": "2026-02-24 18:41:07",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-02-25 04:46:23",
+      "enteDestino": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "colegiadoDestino": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "id": 10217553,
+      "dataEnvio": "2026-05-07 11:38:08",
+      "enteOrigem": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "dataRecebimento": "2026-05-07 14:24:14",
+      "enteDestino": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "colegiadoDestino": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+  "dthUltimaAtualizacao": "2026-05-13T18:15:32.645000"
+ }
+}

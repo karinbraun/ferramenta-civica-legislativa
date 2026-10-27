@@ -1,0 +1,605 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8823230",
+ "requisitado_em_utc": "2026-10-27T00:38:19+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8823230,
+  "codigoMateria": 168332,
+  "identificacao": "PL 1975/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "1975",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7606176,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para adequá-la às modificações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9942464,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-04-29",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  CRITERIOS ,  OBRIGATORIEDADE ,  DISCRIMINAÇÃO ,  DETALHAMENTO ,  INFORMAÇÃO ,  TRIBUTOS ,  NOTA FISCAL ,  DIREITO DO CONSUMIDOR ,  ADAPTAÇÃO ,  REFORMA TRIBUTARIA ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  Imposto Seletivo (IS) ,  AUSENCIA ,  MICROEMPREENDEDOR INDIVIDUAL ,  NORMAS ,  MICROEMPRESA ,  PEQUENA EMPRESA .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/92af3fa4-4e77-44d3-9d8a-0f925d81b5c8",
+   "autoria": [
+    {
+     "autor": "Jussara Lima",
+     "sexo": "F",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 6369,
+     "uf": "PI",
+     "siglaPartido": "PSD",
+     "partido": "Partido Social Democrático",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senadora",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senadora Jussara Lima (PSD/PI)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-04-29",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-03-26",
+  "classificacoes": [
+   {
+    "codigo": 33804940,
+    "descricao": "Tributos",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+   },
+   {
+    "codigo": 33805587,
+    "descricao": "Direito do Consumidor",
+    "descricaoHierarquia": "Jurídico / Direito do Consumidor"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Jussara Lima",
+    "sexo": "F",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6369,
+    "uf": "PI",
+    "siglaPartido": "PSD",
+    "partido": "Partido Social Democrático",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senadora",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8823230,
+  "identificacaoProcessoInicial": "PL 1975/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "despachos": [
+   {
+    "id": 9953788,
+    "data": "2025-05-19",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8831803,
+     "numero": 1,
+     "data": "2025-05-19",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8831823,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 38,
+         "sigla": "CAE",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Econômicos"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 1956,
+         "sigla": "CTFC",
+         "casa": "SF",
+         "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1956,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CTFC",
+    "nomeColegiadoControleAtual": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+    "idEnteControleAtual": 5225770,
+    "siglaEnteControleAtual": "SACTFC",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-04-29",
+      "fim": "2025-05-19",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-05-19",
+      "fim": "2025-05-20",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-05-20",
+      "fim": "2025-11-25",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-11-25",
+      "fim": "2026-03-12",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-03-12",
+      "fim": "2026-03-23",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2026-03-23",
+      "fim": "2026-03-24",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "idTipo": 89,
+      "sigla": "APRVPAR",
+      "descricao": "APROVADO PARECER NA COMISSÃO",
+      "inicio": "2026-03-24",
+      "fim": "2026-03-26",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-03-26",
+      "colegiado": {
+       "codigo": 1956,
+       "casa": "SF",
+       "sigla": "CTFC",
+       "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      },
+      "enteAdministrativo": {
+       "id": 5225770,
+       "casa": "SF",
+       "sigla": "SACTFC",
+       "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2236828,
+      "data": "2025-04-29 18:27:47",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 1975/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9942479,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF255948963620",
+        "descricao": "-",
+        "data": "2025-04-29T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/eaa28b70-6166-4cde-b3cf-954029298765"
+       },
+       {
+        "id": 9942464,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 1975/2025",
+        "descricao": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para adequá-la às modificações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
+        "data": "2025-04-29T18:27:22",
+        "autoria": "Senadora Jussara Lima (PSD/PI)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/92af3fa4-4e77-44d3-9d8a-0f925d81b5c8"
+       }
+      ]
+     },
+     {
+      "id": 2238922,
+      "data": "2025-05-19 12:20:09",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "À CAE e à CTFC, cabendo à última a decisão terminativa, nos termos do art. 91, I, do Regimento Interno, podendo receber emendas perante a primeira ou única comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2238925,
+      "data": "2025-05-19 12:23:47",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 20/05/2025 a 26/05/2025. Perante a CAE."
+     },
+     {
+      "id": 2238988,
+      "data": "2025-05-20 10:11:06",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Encerrado o prazo regimental, não foram apresentadas emendas.\r\n\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2265958,
+      "data": "2025-11-25 11:41:47",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Distribuído ao Senador Eduardo Braga, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2277364,
+      "data": "2026-03-12 11:19:07",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "O relator, senador Eduardo Braga, apresentou relatório favorável ao projeto.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10178097,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF252043479359",
+        "descricao": "Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei n° 1975, de 2025, da Senadora Jussara Lima, que Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para adequá-la às modificações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
+        "data": "2026-03-12T11:16:39",
+        "autoria": "Senador Eduardo Braga (MDB/AM)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b93ef5e4-2dbf-4f44-a279-245a9d2d330e"
+       }
+      ]
+     },
+     {
+      "id": 2279085,
+      "data": "2026-03-23 10:04:52",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Matéria constante da Pauta da 8ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 24/03/2026.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2279218,
+      "data": "2026-03-24 12:18:35",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Em reunião realizada nesta data, a comissão aprova o relatório do senador Eduardo Braga, que passa a constituir o parecer da CAE, favorável ao projeto. \r\n\r\nAnexado o parecer da comissão. \r\n\r\nA matéria vai à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor.",
+      "idSituacaoIniciada": 89,
+      "siglaSituacaoIniciada": "APRVPAR",
+      "documentosAssociados": [
+       {
+        "id": 10187205,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 9/2026 - CAE",
+        "descricao": "Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei n° 1975, de 2025, da Senadora Jussara Lima, que Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para adequá-la às modificações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
+        "data": "2026-03-24T00:00:00",
+        "autoria": "Comissão de Assuntos Econômicos",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/defe593d-381a-4461-9e8a-dd29b2d2815c"
+       }
+      ]
+     },
+     {
+      "id": 2279547,
+      "data": "2026-03-26 09:49:52",
+      "colegiado": {
+       "codigo": 1956,
+       "casa": "SF",
+       "sigla": "CTFC",
+       "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      },
+      "enteAdministrativo": {
+       "id": 5225770,
+       "casa": "SF",
+       "sigla": "SACTFC",
+       "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      },
+      "descricao": "Recebido na CTFC.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 9953766,
+      "dataEnvio": "2025-05-19 12:00:33",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-05-19 12:20:01",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 9953808,
+      "dataEnvio": "2025-05-19 12:32:34",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-05-20 10:04:23",
+      "enteDestino": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "colegiadoDestino": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      }
+     },
+     {
+      "id": 10187526,
+      "dataEnvio": "2026-03-24 16:50:42",
+      "enteOrigem": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "dataRecebimento": "2026-03-26 09:49:46",
+      "enteDestino": {
+       "id": 5225770,
+       "casa": "SF",
+       "sigla": "SACTFC",
+       "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      },
+      "colegiadoDestino": {
+       "codigo": 1956,
+       "casa": "SF",
+       "sigla": "CTFC",
+       "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+  "dthUltimaAtualizacao": "2026-03-27T12:45:04.049000"
+ }
+}

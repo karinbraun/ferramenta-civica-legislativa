@@ -1,0 +1,41 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/739/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:40+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:26:27",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "739",
+    "Nome": "Ciro Nogueira",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "418",
+        "SiglaPartido": "PP",
+        "NomePartido": "Progressistas"
+       },
+       "DataFiliacao": "2004-02-14"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "22",
+        "SiglaPartido": "PFL",
+        "NomePartido": "Partido da Frente Liberal"
+       },
+       "DataFiliacao": "1999-02-01",
+       "DataDesfiliacao": "2004-02-13"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

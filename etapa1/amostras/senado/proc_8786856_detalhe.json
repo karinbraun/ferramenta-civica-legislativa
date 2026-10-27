@@ -1,0 +1,169 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8786856",
+ "requisitado_em_utc": "2026-10-27T00:38:14+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8786856,
+  "codigoMateria": 167073,
+  "identificacao": "PL 124/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "124",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7597280,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Institui o regime especial de tributação para os municípios de Estreito, no Estado do Maranhão, e Aguiarnópolis no Estado do Tocantins, até a reconstrução total da ponte Juscelino Kubitschek.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9889380,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-02-01",
+   "indexacao": " CRIAÇÃO ,  LEI FEDERAL ,  REGIME JURIDICO ,  REGIME ESPECIAL ,  TRIBUTAÇÃO ,  TRIBUTOS ,  IMPOSTO DE RENDA ,  IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI) ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS) ,  PROGRAMA DE INTEGRAÇÃO SOCIAL E PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVIDOR PUBLICO (PIS-PASEP) ,  BENEFICIARIO ,  AMBITO ,  MUNICIPIOS ,  ESTREITO (MA) ,  AGUIARNOPOLIS (TO) ,  OBJETIVO ,  RECONSTRUÇÃO ,  PONTE ,  SITUAÇÃO ,  DESABAMENTO .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/0a075f61-82ff-4d60-925f-68a798e54d06",
+   "autoria": [
+    {
+     "autor": "Weverton",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 5411,
+     "uf": "MA",
+     "siglaPartido": "PDT",
+     "partido": "Partido Democrático Trabalhista",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Weverton (PDT/MA)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-02-03",
+  "situacaoAtual": "AGUARDANDO DESPACHO",
+  "siglaSituacaoAtual": "AGDESP",
+  "dataSituacaoAtual": "2025-02-03",
+  "classificacoes": [
+   {
+    "codigo": 33804940,
+    "descricao": "Tributos",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Weverton",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5411,
+    "uf": "MA",
+    "siglaPartido": "PDT",
+    "partido": "Partido Democrático Trabalhista",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8786856,
+  "identificacaoProcessoInicial": "PL 124/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1998,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "PLEN",
+    "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-02-03",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2226920,
+      "data": "2025-02-03 15:23:32",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 124/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9889380,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 124/2025",
+        "descricao": "Institui o regime especial de tributação para os municípios de Estreito, no Estado do Maranhão, e Aguiarnópolis no Estado do Tocantins, até a reconstrução total da ponte Juscelino Kubitschek.",
+        "data": "2025-02-01T07:23:55",
+        "autoria": "Senador Weverton (PDT/MA)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0a075f61-82ff-4d60-925f-68a798e54d06"
+       },
+       {
+        "id": 9890556,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF259778217094",
+        "descricao": "-",
+        "data": "2025-02-03T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a798220a-74d3-4e53-a4c5-62bcf4540657"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {}
+ }
+}

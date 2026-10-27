@@ -1,0 +1,705 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8786598",
+ "requisitado_em_utc": "2026-10-27T00:37:46+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8786598,
+  "codigoMateria": 167050,
+  "identificacao": "PL 87/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "87",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7596958,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9887040,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-01-09",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  CRITERIOS ,  LOCAL ,  ACESSO ,  PUBLICO ,  DIVULGAÇÃO ,  INFORMAÇÃO ,  CAMPANHA ,  PREVENÇÃO ,  DIAGNOSTICO ,  CANCER ,  HOMEM .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/93527498-3888-4bca-b293-5471bcf229e0",
+   "autoria": [
+    {
+     "autor": "Laércio Oliveira",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 4811,
+     "uf": "SE",
+     "siglaPartido": "PP",
+     "partido": "Progressistas",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Laércio Oliveira (PP/SE)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-02-03",
+  "situacaoAtual": "PRONTA PARA A PAUTA NA COMISSÃO",
+  "siglaSituacaoAtual": "PRONTPAUT",
+  "dataSituacaoAtual": "2026-06-16",
+  "classificacoes": [
+   {
+    "codigo": 33808942,
+    "descricao": "Saúde",
+    "descricaoHierarquia": "Política Social / Saúde"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Laércio Oliveira",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 4811,
+    "uf": "SE",
+    "siglaPartido": "PP",
+    "partido": "Progressistas",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8786598,
+  "identificacaoProcessoInicial": "PL 87/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "despachos": [
+   {
+    "id": 10056471,
+    "data": "2025-09-18",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8915352,
+     "numero": 1,
+     "data": "2025-09-18",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8915898,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 47,
+         "sigla": "CE",
+         "casa": "SF",
+         "nome": "Comissão de Educação e Cultura"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 40,
+         "sigla": "CAS",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Sociais"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 40,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CAS",
+    "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+    "idEnteControleAtual": 55313,
+    "siglaEnteControleAtual": "SACAS",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-02-03",
+      "fim": "2025-09-18",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-09-18",
+      "fim": "2025-09-26",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-09-26",
+      "fim": "2026-02-11",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2026-02-11",
+      "fim": "2026-03-10",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-03-10",
+      "fim": "2026-03-13",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2026-03-13",
+      "fim": "2026-03-17",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "idTipo": 89,
+      "sigla": "APRVPAR",
+      "descricao": "APROVADO PARECER NA COMISSÃO",
+      "inicio": "2026-03-17",
+      "fim": "2026-03-17",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-03-17",
+      "fim": "2026-04-15",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2026-04-15",
+      "fim": "2026-06-16",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-06-16",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2226854,
+      "data": "2025-02-03 12:26:17",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 87/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9887040,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 87/2025",
+        "descricao": "Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+        "data": "2025-01-09T13:44:36",
+        "autoria": "Senador Laércio Oliveira (PP/SE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/93527498-3888-4bca-b293-5471bcf229e0"
+       },
+       {
+        "id": 9890377,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF254337040202",
+        "descricao": "-",
+        "data": "2025-02-03T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/18e2c6f2-ee69-4414-8fb2-b8bdd7a0c0f3"
+       }
+      ]
+     },
+     {
+      "id": 2254736,
+      "data": "2025-09-18 15:29:30",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CE e à CAS, cabendo à última a decisão terminativa, nos termos do art. 91, I, do Regimento Interno, podendo receber emendas perante a primeira ou única comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254848,
+      "data": "2025-09-18 17:07:13",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 19/09/2025 a 25/09/2025. Perante a CE."
+     },
+     {
+      "id": 2256247,
+      "data": "2025-09-26 07:54:02",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Não foram oferecidas emendas no prazo regimental.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2273338,
+      "data": "2026-02-11 17:09:34",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Distribuído ao Senador Nelsinho Trad, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2276498,
+      "data": "2026-03-10 17:45:34",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Recebido o relatório do Senador Nelsinho Trad, com voto pela aprovação do projeto.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10174041,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF268187929574",
+        "descricao": "Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 87, de 2025, do Senador Laércio Oliveira, que Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+        "data": "2026-03-10T17:44:34",
+        "autoria": "Senador Nelsinho Trad (PSD/MS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/17ff4a6b-9d32-4981-88cc-85b44d5f4e24"
+       }
+      ]
+     },
+     {
+      "id": 2277740,
+      "data": "2026-03-13 12:47:50",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Matéria constante da Pauta da 6ª Reunião da Comissão de Educação e Cultura, agendada para o dia 17/03/2026.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2278016,
+      "data": "2026-03-17 11:35:39",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Em reunião realizada em 17/03/2026, a Comissão de Educação e Cultura aprova o Relatório, que passa a constituir o Parecer da CE, favorável ao Projeto.\r\nÀ CAS.",
+      "idSituacaoIniciada": 89,
+      "siglaSituacaoIniciada": "APRVPAR",
+      "documentosAssociados": [
+       {
+        "id": 10180650,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 14/2026 - CE",
+        "descricao": "Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 87, de 2025, do Senador Laércio Oliveira, que Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+        "data": "2026-03-17T00:00:00",
+        "autoria": "Comissão de Educação e Cultura",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2a47bed2-f3df-419e-9142-33b5a7335a79"
+       }
+      ]
+     },
+     {
+      "id": 2278108,
+      "data": "2026-03-17 15:53:36",
+      "colegiado": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      },
+      "enteAdministrativo": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "descricao": "Encerrada a relatoria do Senador Nelsinho Trad por deliberação da matéria."
+     },
+     {
+      "id": 2278202,
+      "data": "2026-03-17 17:36:29",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Matéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2282665,
+      "data": "2026-04-15 12:35:26",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Distribuído ao Senador Nelsinho Trad, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2291728,
+      "data": "2026-06-16 17:25:31",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Recebido o relatório do senador Nelsinho Trad, com voto pela aprovação do Projeto.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10247315,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF262115445783",
+        "descricao": "PARECER PL 87/2025 CAS",
+        "data": "2026-06-16T18:23:58",
+        "autoria": "Senador Nelsinho Trad (PSD/MS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/beb5da5c-8117-4e25-a06b-c1d9181325f1"
+       }
+      ]
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10056391,
+      "dataEnvio": "2025-09-18 15:02:33",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-09-18 15:26:03",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10057005,
+      "dataEnvio": "2025-09-18 17:38:39",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-09-18 17:49:10",
+      "enteDestino": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "colegiadoDestino": {
+       "codigo": 47,
+       "casa": "SF",
+       "sigla": "CE",
+       "nome": "Comissão de Educação e Cultura"
+      }
+     },
+     {
+      "id": 10181159,
+      "dataEnvio": "2026-03-17 16:12:26",
+      "enteOrigem": {
+       "id": 55316,
+       "casa": "SF",
+       "sigla": "SACE",
+       "nome": "Secretaria de Apoio à Comissão de Educação e Cultura"
+      },
+      "dataRecebimento": "2026-03-17 17:35:45",
+      "enteDestino": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "colegiadoDestino": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+  "dthUltimaAtualizacao": "2026-06-16T18:24:51.061000"
+ }
+}

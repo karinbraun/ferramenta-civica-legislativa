@@ -1,0 +1,68 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/5895/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:23+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:28:50",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "5895",
+    "Nome": "Jorge Kajuru",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "63",
+        "SiglaPartido": "PSB",
+        "NomePartido": "Partido Socialista Brasileiro"
+       },
+       "DataFiliacao": "2023-01-19"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "577",
+        "SiglaPartido": "PODE",
+        "NomePartido": "Podemos"
+       },
+       "DataFiliacao": "2021-04-15",
+       "DataDesfiliacao": "2023-01-18"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "41",
+        "SiglaPartido": "CIDADANIA",
+        "NomePartido": "CIDADANIA"
+       },
+       "DataFiliacao": "2019-09-17",
+       "DataDesfiliacao": "2021-04-14"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "579",
+        "SiglaPartido": "PATRIOTA",
+        "NomePartido": "Patriota"
+       },
+       "DataFiliacao": "2019-08-09",
+       "DataDesfiliacao": "2019-09-16"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "63",
+        "SiglaPartido": "PSB",
+        "NomePartido": "Partido Socialista Brasileiro"
+       },
+       "DataFiliacao": "2019-01-01",
+       "DataDesfiliacao": "2019-08-08"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

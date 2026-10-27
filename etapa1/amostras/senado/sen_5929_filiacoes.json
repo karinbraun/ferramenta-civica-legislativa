@@ -1,0 +1,41 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/5929/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:28+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:29:18",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "5929",
+    "Nome": "Juíza Selma",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "577",
+        "SiglaPartido": "PODE",
+        "NomePartido": "Podemos"
+       },
+       "DataFiliacao": "2019-09-17"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "85",
+        "SiglaPartido": "PSL",
+        "NomePartido": "Partido Social Liberal"
+       },
+       "DataFiliacao": "2019-01-01",
+       "DataDesfiliacao": "2019-09-16"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

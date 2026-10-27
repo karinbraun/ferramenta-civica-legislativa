@@ -1,0 +1,169 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8786826",
+ "requisitado_em_utc": "2026-10-27T00:38:00+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8786826,
+  "codigoMateria": 167070,
+  "identificacao": "PL 121/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "121",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7597234,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Dispõe sobre os crimes contra a humanidade de que trata o Estatuto de Roma do Tribunal Penal Internacional.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9889132,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-01-29",
+   "indexacao": " CRIAÇÃO ,  LEI FEDERAL ,  ESTATUTO ,  CORTE INTERNACIONAL DE JUSTIÇA ,  MATERIA PENAL ,  DEFINIÇÃO ,  CRIME ,  PENA .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/fa66ce1b-c76e-4d48-961c-73e5f36b8051",
+   "autoria": [
+    {
+     "autor": "Styvenson Valentim",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 5959,
+     "uf": "RN",
+     "siglaPartido": "PODE",
+     "partido": "Podemos",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Styvenson Valentim (PODEMOS/RN)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-02-03",
+  "situacaoAtual": "AGUARDANDO DESPACHO",
+  "siglaSituacaoAtual": "AGDESP",
+  "dataSituacaoAtual": "2025-02-03",
+  "classificacoes": [
+   {
+    "codigo": 33805617,
+    "descricao": "Direito Penal e Penitenciário",
+    "descricaoHierarquia": "Jurídico / Direito Penal e Penitenciário"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Styvenson Valentim",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5959,
+    "uf": "RN",
+    "siglaPartido": "PODE",
+    "partido": "Podemos",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8786826,
+  "identificacaoProcessoInicial": "PL 121/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1998,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "PLEN",
+    "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-02-03",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2226940,
+      "data": "2025-02-03 15:14:16",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 121/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9889132,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 121/2025",
+        "descricao": "Dispõe sobre os crimes contra a humanidade de que trata o Estatuto de Roma do Tribunal Penal Internacional.",
+        "data": "2025-01-29T15:10:11",
+        "autoria": "Senador Styvenson Valentim (PODEMOS/RN)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/fa66ce1b-c76e-4d48-961c-73e5f36b8051"
+       },
+       {
+        "id": 9890509,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF253820080928",
+        "descricao": "-",
+        "data": "2025-02-03T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/10ba42b0-e120-475e-8675-7b11d9f0f149"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {}
+ }
+}

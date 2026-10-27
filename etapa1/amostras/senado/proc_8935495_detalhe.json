@@ -1,0 +1,1382 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8935495",
+ "requisitado_em_utc": "2026-10-27T00:38:09+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8935495,
+  "codigoMateria": 171135,
+  "identificacao": "PL 2810/2025 (Substitutivo-CD)",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "2810",
+  "ano": 2025,
+  "objetivo": "Substitutivo",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7632196,
+   "idTipo": 10,
+   "siglaTipo": "NORMA_JURIDICA",
+   "tipo": "Norma Jurídica",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias."
+  },
+  "documento": {
+   "id": 10081579,
+   "siglaTipo": "EMENDA",
+   "tipo": "Emenda",
+   "dataApresentacao": "2025-10-21",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  ESTATUTO DA PESSOA COM DEFICIENCIA ,  GARANTIA ,  ASSISTENCIA PSICOLOGICA ,  VITIMA ,  CRIME CONTRA A DIGNIDADE SEXUAL ,  PESSOA COM DEFICIENCIA . ALTERAÇÃO ,  LEI FEDERAL ,  LEI DE EXECUÇÃO PENAL ,  INCLUSÃO ,  MONITORAMENTO ,  APARELHO ELETRONICO ,  CONDENADO ,  CRIME CONTRA A DIGNIDADE SEXUAL . SUBSTITUTIVO ,  CAMARA DOS DEPUTADOS ,  ALTERAÇÃO ,  DECRETO LEI FEDERAL ,  CODIGO PENAL ,  AGRAVAÇÃO PENAL ,  CRIME CONTRA A DIGNIDADE SEXUAL ,  ESTUPRO DE VULNERAVEL ,  CIRCUNSTANCIA QUALIFICADORA ,  LESÃO CORPORAL ,  MORTE ,  CORRUPÇÃO DE MENORES ,  PEDOFILIA ,  ABUSO SEXUAL ,  EXPLORAÇÃO SEXUAL ,  PROSTITUIÇÃO ,  CRIANÇA ,  ADOLESCENTE ,  PORNOGRAFIA ,  CRIAÇÃO ,  CRIME ,  DESCUMPRIMENTO ,  DECISÃO JUDICIAL ,  MEDIDA PROTETIVA . ALTERAÇÃO ,  DECRETO LEI FEDERAL ,  CODIGO DE PROCESSO PENAL ,  INCLUSÃO ,  URGENCIA ,  VITIMA ,  CRIME CONTRA A DIGNIDADE SEXUAL ,  SITUAÇÃO ,  VULNERABILIDADE ,  CRIANÇA ,  ADOLESCENTE ,  PESSOA COM DEFICIENCIA ,  PESSOA INCAPAZ ,  PESSOA IDOSA ,  POSSIBILIDADE ,  MEDIDA PROTETIVA ,  DECISÃO JUDICIAL ,  CRITERIOS ,  OBRIGAÇÃO ,  EMPRESA ,  INTERNET ,  MIDIA SOCIAL ,  RETIRADA ,  CONTEUDO ,  VIOLAÇÃO ,  DIREITOS . ALTERAÇÃO ,  LEI FEDERAL ,  ESTATUTO DA CRIANÇA E DO ADOLESCENTE ,  ATUAÇÃO ,  UNIÃO ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  ARTICULAÇÃO ,  ABRANGENCIA ,  ORGÃOS ,  SEGURANÇA PUBLICA ,  DIVULGAÇÃO ,  CAMPANHA ,  INSTRUMENTO ,  GARANTIA ,  DIREITOS HUMANOS ,  CRIANÇA ,  ADOLESCENTE ,  ACRESCIMO ,  MEDIDA ,  PROTEÇÃO ,  AUTORIDADE ,  REQUISIÇÃO ,  TRATAMENTO MEDICO ,  ASSISTENCIA PSICOLOGICA ,  ASSISTENCIA PSIQUIATRICA ,  HIPOTESE ,  CRIME CONTRA A DIGNIDADE SEXUAL .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/40cfc4e2-57c5-48eb-9e28-9e886f3a19bc",
+   "autoria": [
+    {
+     "autor": "Câmara dos Deputados",
+     "siglaTipo": "CAMARA",
+     "descricaoTipo": "CAMARA",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "idEnte": 2,
+     "siglaEnte": "CD",
+     "casaEnte": "CD",
+     "ente": "Câmara dos Deputados"
+    }
+   ],
+   "resumoAutoria": "Câmara dos Deputados"
+  },
+  "tramitando": "Não",
+  "dataInicioEfetivo": "2025-10-21",
+  "situacaoAtual": "TRANSFORMADA EM NORMA JURÍDICA",
+  "siglaSituacaoAtual": "TNJR",
+  "dataSituacaoAtual": "2025-12-08",
+  "classificacoes": [
+   {
+    "codigo": 33805422,
+    "descricao": "Processo Penal",
+    "descricaoHierarquia": "Jurídico / Processo / Processo Penal"
+   },
+   {
+    "codigo": 33805617,
+    "descricao": "Direito Penal e Penitenciário",
+    "descricaoHierarquia": "Jurídico / Direito Penal e Penitenciário"
+   },
+   {
+    "codigo": 33809393,
+    "descricao": "Crianças e Adolescentes",
+    "descricaoHierarquia": "Política Social / Proteção Social / Crianças e Adolescentes"
+   },
+   {
+    "codigo": 33809423,
+    "descricao": "Pessoas com Deficiência",
+    "descricaoHierarquia": "Política Social / Proteção Social / Pessoas com Deficiência"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Margareth Buzetti",
+    "sexo": "F",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6304,
+    "uf": "MT",
+    "siglaPartido": "PSD",
+    "partido": "Partido Social Democrático",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senadora",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8845459,
+  "identificacaoProcessoInicial": "PL 2810/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "outrosNumeros": [
+   {
+    "idOutroProcesso": 8845459,
+    "sigla": "PL",
+    "numero": "02810",
+    "ano": 2025,
+    "tramitando": "Não",
+    "externaAoCongresso": "Não",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "enteIdentificador": "Senado Federal"
+   },
+   {
+    "idOutroProcesso": 8869681,
+    "sigla": "PL",
+    "numero": "02810",
+    "ano": 2025,
+    "tramitando": "Sim",
+    "externaAoCongresso": "Não",
+    "casaIdentificadora": "CD",
+    "siglaEnteIdentificador": "CD",
+    "enteIdentificador": "Câmara dos Deputados"
+   }
+  ],
+  "processosRelacionados": [
+   {
+    "idOutroProcesso": 8952015,
+    "tipoRelacao": "REFERENCIA",
+    "sigla": "RQS",
+    "numero": "833",
+    "ano": 2025,
+    "tramitando": "Não",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "PLEN",
+    "enteIdentificador": "Plenário do Senado Federal"
+   }
+  ],
+  "despachos": [
+   {
+    "id": 10087088,
+    "data": "2025-10-28",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8939814,
+     "numero": 1,
+     "data": "2025-10-27",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8940209,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 834,
+         "sigla": "CDH",
+         "casa": "SF",
+         "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 34,
+         "sigla": "CCJ",
+         "casa": "SF",
+         "nome": "Comissão de Constituição, Justiça e Cidadania"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "idEnteControleAtual": 55299,
+    "siglaEnteControleAtual": "COARQ",
+    "nomeEnteControleAtual": "Coordenação de Arquivo",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-10-21",
+      "fim": "2025-10-28",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 177,
+      "sigla": "MATDESP",
+      "descricao": "MATÉRIA DESPACHADA",
+      "inicio": "2025-10-28",
+      "fim": "2025-10-28",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-10-28",
+      "fim": "2025-10-30",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-10-30",
+      "fim": "2025-10-30",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2025-10-30",
+      "fim": "2025-11-05",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 89,
+      "sigla": "APRVPAR",
+      "descricao": "APROVADO PARECER NA COMISSÃO",
+      "inicio": "2025-11-05",
+      "fim": "2025-11-05",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-11-05",
+      "fim": "2025-11-05",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-11-05",
+      "fim": "2025-11-11",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      }
+     },
+     {
+      "idTipo": 78,
+      "sigla": "INCLOD",
+      "descricao": "INCLUÍDA EM ORDEM DO DIA",
+      "inicio": "2025-11-11",
+      "fim": "2025-11-11",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 78,
+      "sigla": "INCLOD",
+      "descricao": "INCLUÍDA EM ORDEM DO DIA",
+      "inicio": "2025-11-11",
+      "fim": "2025-11-11",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 25,
+      "sigla": "APRVD",
+      "descricao": "APROVADA",
+      "inicio": "2025-11-11",
+      "fim": "2025-11-17",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 57,
+      "sigla": "RMSAN",
+      "descricao": "REMETIDA À SANÇÃO",
+      "inicio": "2025-11-17",
+      "fim": "2025-12-08",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55126,
+       "sigla": "PR",
+       "nome": "Presidência da República"
+      }
+     },
+     {
+      "idTipo": 64,
+      "sigla": "TNJR",
+      "descricao": "TRANSFORMADA EM NORMA JURÍDICA",
+      "inicio": "2025-12-08",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2259666,
+      "data": "2025-10-21 14:55:58",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado e encaminhado à publicação o texto da Câmara que alterou o Projeto de Lei nº 2810/2025",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 10082016,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF251157019793",
+        "descricao": "-",
+        "data": "2025-10-21T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/aa4fd7e1-56b7-48dc-94da-acf72720a5eb"
+       },
+       {
+        "id": 10081579,
+        "tipo": "Emenda",
+        "siglaTipo": "EMENDA",
+        "identificacao": "PL 2810/2025 (Substitutivo-CD) (Substitutivo-SF)",
+        "descricao": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias.",
+        "data": "2025-10-21T11:03:22",
+        "autoria": "Câmara dos Deputados",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/40cfc4e2-57c5-48eb-9e28-9e886f3a19bc"
+       }
+      ]
+     },
+     {
+      "id": 2260910,
+      "data": "2025-10-28 14:12:27",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à Comissão de Direitos Humanos e Legislação Participativa, seguindo, posteriormente, à Comissão de Constituição, Justiça e Cidadania.",
+      "idSituacaoIniciada": 177,
+      "siglaSituacaoIniciada": "MATDESP"
+     },
+     {
+      "id": 2260914,
+      "data": "2025-10-28 15:45:24",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Recebido na CDH. Aguardando designação de relator.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2261778,
+      "data": "2025-10-30 07:46:33",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Avocada a relatoria pela Presidente da Comissão, Senadora Damares Alves (art. 129 do RISF).",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2262088,
+      "data": "2025-10-30 19:03:10",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Matéria constante da Pauta da 76ª Reunião da Comissão de Direitos Humanos e Legislação Participativa, agendada para o dia 05/11/2025.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2262700,
+      "data": "2025-11-04 18:32:50",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Recebido o relatório da Senadora Damares Alves com voto favorável ao PL 2810/2025 (Substitutivo da Câmara dos Deputados - SCD) rejeitando as seguintes supressões feitas pelo SCD ao Projeto aprovado pelo Senado: do art. 300-A do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2.810, de 2025; do art. 350-C do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2.810, de 2025; do art. 350-D do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2810, de 2025; e do art. 119-A da Lei nº 7.210, de 1984, constante do art. 3º do PL nº 2.810, de 2025.",
+      "documentosAssociados": [
+       {
+        "id": 10096228,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF258787637803",
+        "descricao": "Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 2810, de 2025 (Substitutivo da Câmara dos Deputados), que Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias.",
+        "data": "2025-11-04T18:31:56",
+        "autoria": "Senadora Damares Alves (REPUBLICANOS/DF)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/323f2337-ea04-49c5-9874-5c3a683610e7"
+       }
+      ]
+     },
+     {
+      "id": 2262863,
+      "data": "2025-11-05 11:21:34",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Na 76ª reunião, extraordinária, realizada nesta data, a Senadora Damares Alves passa a presidência ao Senador Paulo Paim. Na sequência, a Comissão aprova o relatório, que passa a constituir o Parecer da CDH, favorável ao PL 2810/2025 (Substitutivo da Câmara dos Deputados - SCD) rejeitando as seguintes supressões feitas pelo SCD ao Projeto aprovado pelo Senado: do art. 300-A do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2.810, de 2025; do art. 350-C do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2.810, de 2025; do art. 350-D do Decreto-Lei nº 3.689, de 1941, constante do art. 2º do PL nº 2810, de 2025; e do art. 119-A da Lei nº 7.210, de 1984, constante do art. 3º do PL nº 2.810, de 2025.",
+      "idSituacaoIniciada": 89,
+      "siglaSituacaoIniciada": "APRVPAR",
+      "documentosAssociados": [
+       {
+        "id": 10097960,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 134-A/2025 - CDH",
+        "descricao": "Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 2810, de 2025 (Substitutivo da Câmara dos Deputados), que Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias.",
+        "data": "2025-11-05T00:00:00",
+        "autoria": "Comissão de Direitos Humanos e Legislação Participativa",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f0e65cf9-c86d-4dab-bd0e-b591dd0ced2d"
+       }
+      ]
+     },
+     {
+      "id": 2262920,
+      "data": "2025-11-05 14:00:12",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Encerrada a relatoria da Senadora Damares Alves por deliberação da matéria.\nÀ CCJ para prosseguimento da tramitação."
+     },
+     {
+      "id": 2262923,
+      "data": "2025-11-05 14:30:53",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "descricao": "Matéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2262902,
+      "data": "2025-11-05 15:01:16",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "descricao": "Distribuído ao Senador Alessandro Vieira, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2263021,
+      "data": "2025-11-05 16:45:07",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "descricao": "Devolvido à CDH, para ajuste no parecer."
+     },
+     {
+      "id": 2263071,
+      "data": "2025-11-05 17:16:43",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Restitui-se a matéria à CCJ para prosseguimento da tramitação."
+     },
+     {
+      "id": 2263082,
+      "data": "2025-11-05 17:25:50",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "descricao": "Recebido na Comissão. Encaminhado ao gabinete do Senador Alessandro Vieira, para emissão de relatório."
+     },
+     {
+      "id": 2263940,
+      "data": "2025-11-11 11:07:44",
+      "colegiado": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      },
+      "enteAdministrativo": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "descricao": "Encaminhado à Mesa do Senado Federal em razão de inclusão na Ordem do Dia da Sessão Deliberativa Ordinária de 11/11/2025."
+     },
+     {
+      "id": 2263959,
+      "data": "2025-11-11 12:22:06",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido, em 10/11/2025, o Requerimento nº 833, de 2025, de Líderes, solicitando urgência para a matéria.\r\n\r\nDesignado Relator de Plenário o Senador Alessandro Vieira.",
+      "documentosAssociados": [
+       {
+        "id": 10101205,
+        "tipo": "Requerimento",
+        "siglaTipo": "REQUERIMENTO",
+        "identificacao": "RQS 833/2025",
+        "descricao": "Requer urgência para o Projeto de Lei nº 2810/2025 (Substitutivo-CD), nos termos dos arts. 336, II, e 338, II, do Regimento Interno do Senado Federal.",
+        "data": "2025-11-10T17:44:56",
+        "autoria": "Líder do PSD Omar Aziz (PSD/AM), Líder do Bloco Parlamentar Democracia Efraim Filho (UNIÃO/PB), Líder do Bloco Parlamentar Pelo Brasil Weverton (PDT/MA), Líder do PL Carlos Portinho (PL/RJ), Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR), Líder do PP Tereza Cristina (PP/MS), Líder do Bloco Parlamentar Vanguarda Wellington Fagundes (PL/MT), Senador Alessandro Vieira (MDB/SE), Senador Hamilton Mourão (REPUBLICANOS/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b0c0b3ec-c008-4814-a233-dcf77abbbe3c"
+       }
+      ]
+     },
+     {
+      "id": 2263943,
+      "data": "2025-11-11 12:30:34",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encaminhado à publicação, em 10/11/2025, o Requerimento nº 833, de 2025, de autoria de líderes, que solicita urgência para o Projeto de Lei nº 2810, de 2025 (Substitutivo da Câmara dos Deputados), nos termos do art. 336, II, do Regimento Interno do Senado. \r\nSobredito requerimento será incluído em Ordem do Dia, oportunamente."
+     },
+     {
+      "id": 2263969,
+      "data": "2025-11-11 13:47:38",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 11/11/2025.\r\nDiscussão, em turno único.\r\n(Pendente de aprovação do Requerimento nº 833, de 2025, de autoria de líderes, que solicita urgência para a matéria, nos termos do art. 336, II, e 338, II, do Regimento Interno do Senado).",
+      "idSituacaoIniciada": 78,
+      "siglaSituacaoIniciada": "INCLOD"
+     },
+     {
+      "id": 2263993,
+      "data": "2025-11-11 14:50:29",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido o Relatório do Senador Alessandro Vieira.",
+      "documentosAssociados": [
+       {
+        "id": 10102049,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF254715496406",
+        "descricao": "Relatório ao PL 2810/2025",
+        "data": "2025-11-11T14:48:34",
+        "autoria": "Senador Alessandro Vieira (MDB/SE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/47c82312-5a35-4bb0-b0c8-13cca346b534"
+       }
+      ]
+     },
+     {
+      "id": 2264085,
+      "data": "2025-11-11 18:50:32",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "(Sessão Deliberativa Ordinária, realizada em 11/11/2025) \r\nAprovado o RQS nº 833/2025, de Líderes, solicitando urgência para a matéria. \r\nEncaminhado à publicação o Parecer nº 163, de 2025-PLEN/SF, proferido pelo Senador Alessandro Vieira, favorável ao substitutivo da Câmara dos Deputados, com as ressalvas e adequações redacionais que apresenta. \r\nEncerrada a discussão.\r\nAprovado o substitutivo da Câmara dos Deputados, com as ressalvas e adequações redacionais, nos termos do parecer de Plenário.\r\nEncaminhado à publicação o Parecer nº 164, de 2025-PLEN/SF, da Comissão Diretora, oferecendo a redação final. \r\nAprovada a redação final.  \r\nA matéria vai à sanção. \r\nSerá feita a devida comunicação à Câmara dos Deputados.",
+      "idSituacaoIniciada": 25,
+      "siglaSituacaoIniciada": "APRVD",
+      "documentosAssociados": [
+       {
+        "id": 10102802,
+        "tipo": "Parecer de redação",
+        "siglaTipo": "PARECER_REDACAO",
+        "identificacao": "P.S 164/2025 - PLEN",
+        "descricao": "Parecer nº 164, de 2025-PLEN/SF, da Comissão Diretora, oferecendo a redação final.",
+        "data": "2025-11-11T00:00:00",
+        "autoria": "Comissão Diretora do Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d6fcc3e7-7097-490f-95db-3001d020f487"
+       },
+       {
+        "id": 10102715,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 163/2025 - PLEN",
+        "descricao": "Parecer nº 163, de 2025-PLEN/SF",
+        "data": "2025-11-11T00:00:00",
+        "autoria": "Senador Alessandro Vieira (MDB/SE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e8cdf9a2-fd21-4b3d-923a-708bc28ed211"
+       }
+      ]
+     },
+     {
+      "id": 2264715,
+      "data": "2025-11-13 10:35:14",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "Anexado o texto revisado.",
+      "documentosAssociados": [
+       {
+        "id": 10106536,
+        "tipo": "Minuta",
+        "siglaTipo": "MINUTA",
+        "identificacao": "Minuta - SF259990972024",
+        "data": "2025-11-13T10:35:05",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c1e18a98-46e7-4466-8670-48193c7e67cc"
+       }
+      ]
+     },
+     {
+      "id": 2265007,
+      "data": "2025-11-17 08:06:31",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "Remetido Ofício SF nº 1102, de 14/11/2025, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem SF nº 267, de 2025, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 17/11/2025 às 08:06:31.",
+      "documentosAssociados": [
+       {
+        "id": 10105345,
+        "tipo": "Mensagem",
+        "siglaTipo": "MENSAGEM",
+        "identificacao": "MPSF 267/2025",
+        "descricao": "Encaminha à sanção o Projeto de Lei n° 2810, de 2025 - Substitutivo -CD.",
+        "data": "2025-11-12T00:00:00",
+        "autoria": "Presidente do Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9d8e6549-6142-4673-80a8-6549211515bc"
+       },
+       {
+        "id": 10105333,
+        "tipo": "Ofício",
+        "siglaTipo": "OFICIO",
+        "identificacao": "OFSF 1102/2025",
+        "descricao": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafo do Projeto de Lei n° 2810, de 2025 - Substitutivo-CD.",
+        "data": "2025-11-12T00:00:00",
+        "autoria": "Primeiro-Secretário do Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3c94fdcd-0440-433f-9770-f8c710b0a7e1"
+       },
+       {
+        "id": 10106539,
+        "tipo": "Emenda",
+        "siglaTipo": "EMENDA",
+        "identificacao": "Autógrafo - PL 2810/2025",
+        "descricao": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias.",
+        "data": "2025-11-13T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6e05ece2-fa7d-4ffc-8792-c070f5222dd1"
+       }
+      ]
+     },
+     {
+      "id": 2265035,
+      "data": "2025-11-17 10:39:56",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "Remetido Ofício SF n.º 1.103, de 14/11/25, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
+      "documentosAssociados": [
+       {
+        "id": 10105353,
+        "tipo": "Ofício",
+        "siglaTipo": "OFICIO",
+        "identificacao": "OFSF 1103/2025",
+        "descricao": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2810, de 2025-Substitutivo-CD.",
+        "data": "2025-11-12T00:00:00",
+        "autoria": "Primeiro-Secretário do Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d3dfb27b-976a-4758-8c09-8fb1bf641b6f"
+       }
+      ]
+     },
+     {
+      "id": 2268336,
+      "data": "2025-12-08 14:56:11",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "(PR) PRESIDÊNCIA DA REPÚBLICA.\r\nSANCIONADA. LEI 15280 DE 2025.\r\nDOU (Diário Oficial da União) - 08/12/2025 - Seção I - págs. 2 e 3.\r\nSancionada em 05/12/2025.",
+      "idSituacaoIniciada": 64,
+      "siglaSituacaoIniciada": "TNJR"
+     },
+     {
+      "id": 2268574,
+      "data": "2025-12-09 13:45:16",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encaminhada à publicação a Mensagem da Presidência da República nº 1.840, de 2025, na origem, que restitui o autógrafo do Projeto de Lei nº 2.810, de 2025 (Substitutivo-CD), sancionado e convertido na Lei nº 15.280, de 5 de dezembro de 2025.\r\nSerá feita a devida comunicação à Câmara dos Deputados."
+     },
+     {
+      "id": 2268744,
+      "data": "2025-12-09 18:40:29",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "Remetido Ofício SF nº 1.280, de 2025, ao Primeiro-Secretário da Câmara dos Deputados comunicando, para os devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.840, de 2025, na origem, restituindo autógrafos do Projeto de Lei n° 2.810, de 2025, sancionado e transformado na Lei nº 15.280, de 5 de dezembro de 2025.\r\nÀ COARQ.",
+      "documentosAssociados": [
+       {
+        "id": 10126893,
+        "tipo": "Ofício",
+        "siglaTipo": "OFICIO",
+        "identificacao": "OFSF 1280/2025",
+        "descricao": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 2810/2025.",
+        "data": "2025-12-09T00:00:00",
+        "autoria": "Primeiro-Secretário do Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/14be97ee-f8d3-40a3-a759-81726f88a88d"
+       }
+      ]
+     },
+     {
+      "id": 2268749,
+      "data": "2025-12-09 18:55:14",
+      "colegiado": {},
+      "enteAdministrativo": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "descricao": "Processo transferido para arquivamento intermediário na COARQ.",
+      "documentosAssociados": [
+       {
+        "id": 10127442,
+        "tipo": "Listagem ou relatório descritivo",
+        "siglaTipo": "LISTAGEM_RELATORIO",
+        "identificacao": "Listagem ou relatório descritivo - SF254580173514",
+        "descricao": "Relatório de eventos e documentos do processo PL 2810/2025 (Substitutivo-CD)",
+        "data": "2025-12-09T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6f3f4cf5-8af3-4451-8ed1-e0f4eff8f0e3"
+       }
+      ]
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10087080,
+      "dataEnvio": "2025-10-28 13:40:35",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-10-28 14:12:17",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10087297,
+      "dataEnvio": "2025-10-28 14:44:14",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-10-28 15:41:28",
+      "enteDestino": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "colegiadoDestino": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "id": 10097241,
+      "dataEnvio": "2025-11-05 14:02:11",
+      "enteOrigem": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "dataRecebimento": "2025-11-05 14:30:37",
+      "enteDestino": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "colegiadoDestino": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      }
+     },
+     {
+      "id": 10097943,
+      "dataEnvio": "2025-11-05 16:47:04",
+      "enteOrigem": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "dataRecebimento": "2025-11-05 16:48:00",
+      "enteDestino": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "colegiadoDestino": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "id": 10098039,
+      "dataEnvio": "2025-11-05 17:17:59",
+      "enteOrigem": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "dataRecebimento": "2025-11-05 17:25:46",
+      "enteDestino": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "colegiadoDestino": {
+       "codigo": 34,
+       "casa": "SF",
+       "sigla": "CCJ",
+       "nome": "Comissão de Constituição, Justiça e Cidadania"
+      }
+     },
+     {
+      "id": 10101705,
+      "dataEnvio": "2025-11-11 11:09:57",
+      "enteOrigem": {
+       "id": 13565,
+       "casa": "SF",
+       "sigla": "SACCJ",
+       "nome": "Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania"
+      },
+      "dataRecebimento": "2025-11-11 11:40:13",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10101866,
+      "dataEnvio": "2025-11-11 12:28:04",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-11-11 12:30:31",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10101905,
+      "dataEnvio": "2025-11-11 12:32:35",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-11-11 13:42:40",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10102655,
+      "dataEnvio": "2025-11-11 18:40:47",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-11-11 18:42:54",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10103004,
+      "dataEnvio": "2025-11-11 18:57:57",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-11-12 13:14:21",
+      "enteDestino": {
+       "id": 7359809,
+       "casa": "SF",
+       "sigla": "NRELE",
+       "nome": "Núcleo de Redação Legislativa"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10106553,
+      "dataEnvio": "2025-11-13 10:25:57",
+      "enteOrigem": {
+       "id": 7359809,
+       "casa": "SF",
+       "sigla": "NRELE",
+       "nome": "Núcleo de Redação Legislativa"
+      },
+      "dataRecebimento": "2025-11-13 10:31:40",
+      "enteDestino": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10125848,
+      "dataEnvio": "2025-12-09 08:21:16",
+      "enteOrigem": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "dataRecebimento": "2025-12-09 08:36:55",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10125860,
+      "dataEnvio": "2025-12-09 08:51:10",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-12-09 13:45:05",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10126757,
+      "dataEnvio": "2025-12-09 14:28:01",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-12-09 15:26:16",
+      "enteDestino": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10127446,
+      "dataEnvio": "2025-12-09 18:55:14",
+      "enteOrigem": {
+       "id": 55304,
+       "casa": "SF",
+       "sigla": "SEXPE",
+       "nome": "Secretaria de Expediente"
+      },
+      "dataRecebimento": "2025-12-09 18:55:16",
+      "enteDestino": {
+       "id": 55299,
+       "casa": "SF",
+       "sigla": "COARQ",
+       "nome": "Coordenação de Arquivo"
+      },
+      "colegiadoDestino": {}
+     }
+    ]
+   }
+  ],
+  "ordensDoDia": [
+   {
+    "codigoSessao": 520493,
+    "dataSessao": "2025-11-11T14:00:00",
+    "casaSessao": "SF",
+    "codigoSessaoLegislativa": 873,
+    "siglaTipoSessao": "DOR",
+    "numeroSessao": "166",
+    "tipoApreciacao": "Discussão, em turno único"
+   }
+  ],
+  "deliberacao": {
+   "data": "2025-11-11",
+   "siglaTipo": "APROVADA_NO_PLENARIO",
+   "tipoDeliberacao": "Aprovada pelo Plenário",
+   "idDestino": 3,
+   "siglaDestino": "SANCAO",
+   "destino": "À sanção"
+  },
+  "normaGerada": {
+   "codigo": 41808731,
+   "siglaTipo": "LEI-n",
+   "tipo": "Lei Numerada",
+   "numero": 15280,
+   "anoAssinatura": "2025",
+   "dataAssinatura": "2025-12-05",
+   "descricao": "Lei nº 15.280 de 05/12/2025",
+   "dataPublicacao": "2025-12-08",
+   "siglaVeiculoPublicacao": "DOU",
+   "veiculoPublicacao": "[Diário Oficial da União  de 08/12/2025] (p. 2, col. 2)"
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8810881",
+ "requisitado_em_utc": "2026-10-27T00:38:02+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8810881,
+  "codigoMateria": 167898,
+  "identificacao": "PL 1432/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "1432",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7603224,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Torna imprescritíveis e inafiançáveis os crimes de peculato, concussão, corrupção ativa, corrupção passiva e lavagem de dinheiro, bem como as ações civis de reparação de danos ao erário decorrentes dessas condutas.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9925975,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-04-02",
+   "indexacao": " IMPRESCRITIBILIDADE ,  AÇÃO JUDICIAL ,  REPARAÇÃO ,  DANOS ,  FAZENDA NACIONAL ,  HIPOTESE ,  ATO ILICITO ,  IMPROBIDADE ADMINISTRATIVA . ALTERAÇÃO ,  LEI FEDERAL ,  CODIGO PENAL ,  INCLUSÃO ,  IMPRESCRITIBILIDADE ,  AUSENCIA ,  FIANÇA ,  HIPOTESE ,  CRIME ,  PECULATO ,  CONCUSSÃO ,  CORRUPÇÃO ATIVA ,  CORRUPÇÃO PASSIVA . ALTERAÇÃO ,  LEI FEDERAL ,  LAVAGEM DE DINHEIRO ,  INCLUSÃO ,  IMPRESCRITIBILIDADE ,  AUSENCIA ,  FIANÇA .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/f55f08eb-0c62-43f9-8e2c-75e5b480b9d8",
+   "autoria": [
+    {
+     "autor": "Eduardo Girão",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 5976,
+     "uf": "CE",
+     "siglaPartido": "NOVO",
+     "partido": "Partido Novo",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Eduardo Girão (NOVO/CE)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-04-02",
+  "situacaoAtual": "AGUARDANDO DESPACHO",
+  "siglaSituacaoAtual": "AGDESP",
+  "dataSituacaoAtual": "2025-04-02",
+  "classificacoes": [
+   {
+    "codigo": 33686015,
+    "descricao": "Improbidade Administrativa",
+    "descricaoHierarquia": "Administração Pública / Agentes Públicos / Improbidade Administrativa"
+   },
+   {
+    "codigo": 33805617,
+    "descricao": "Direito Penal e Penitenciário",
+    "descricaoHierarquia": "Jurídico / Direito Penal e Penitenciário"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Eduardo Girão",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5976,
+    "uf": "CE",
+    "siglaPartido": "NOVO",
+    "partido": "Partido Novo",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8810881,
+  "identificacaoProcessoInicial": "PL 1432/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1998,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "PLEN",
+    "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-04-02",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2233402,
+      "data": "2025-04-02 15:02:18",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 1432/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9925925,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF250839689300",
+        "descricao": "-",
+        "data": "2025-04-02T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ee326bb1-11ce-40f5-a69c-cd5be7348055"
+       },
+       {
+        "id": 9925975,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 1432/2025",
+        "descricao": "Torna imprescritíveis e inafiançáveis os crimes de peculato, concussão, corrupção ativa, corrupção passiva e lavagem de dinheiro, bem como as ações civis de reparação de danos ao erário decorrentes dessas condutas.",
+        "data": "2025-04-02T15:02:04",
+        "autoria": "Senador Eduardo Girão (NOVO/CE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f55f08eb-0c62-43f9-8e2c-75e5b480b9d8"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {}
+ }
+}

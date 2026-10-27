@@ -1,0 +1,59 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/6008/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:00+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:28:01",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "6008",
+    "Nome": "Giordano",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "577",
+        "SiglaPartido": "PODE",
+        "NomePartido": "Podemos"
+       },
+       "DataFiliacao": "2026-03-10"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "163",
+        "SiglaPartido": "S/Partido",
+        "NomePartido": "Sem Partido"
+       },
+       "DataFiliacao": "2025-12-16",
+       "DataDesfiliacao": "2026-03-09"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "33",
+        "SiglaPartido": "MDB",
+        "NomePartido": "Movimento Democrático Brasileiro"
+       },
+       "DataFiliacao": "2021-08-16",
+       "DataDesfiliacao": "2025-12-15"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "85",
+        "SiglaPartido": "PSL",
+        "NomePartido": "Partido Social Liberal"
+       },
+       "DataFiliacao": "2021-03-26",
+       "DataDesfiliacao": "2021-08-16"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

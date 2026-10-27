@@ -1,0 +1,468 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8868971",
+ "requisitado_em_utc": "2026-10-27T00:38:07+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8868971,
+  "codigoMateria": 169663,
+  "identificacao": "PL 3545/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "3545",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7617363,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 14.541, de 3 de abril de 2023, para dispor que as Delegacias Especializadas de Atendimento à Mulher serão chefiadas, preferencialmente, por delegada de polícia civil.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 10002030,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-07-17",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  DELEGACIA ESPECIALIZADA DE ATENDIMENTO A MULHER (DEAM) ,  PREFERENCIA ,  CHEFIA ,  DELEGADO ,  MULHER .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/30fbf602-b9cf-44ad-8827-1e5df8899052",
+   "autoria": [
+    {
+     "autor": "Ivete da Silveira",
+     "sexo": "F",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 6010,
+     "uf": "SC",
+     "siglaPartido": "MDB",
+     "partido": "Movimento Democrático Brasileiro",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senadora",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senadora Ivete da Silveira (MDB/SC)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-07-17",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-08-12",
+  "classificacoes": [
+   {
+    "codigo": 33685789,
+    "descricao": "Administração Pública",
+    "descricaoHierarquia": "Administração Pública"
+   },
+   {
+    "codigo": 33809408,
+    "descricao": "Mulheres",
+    "descricaoHierarquia": "Política Social / Proteção Social / Mulheres"
+   },
+   {
+    "codigo": 33809619,
+    "descricao": "Segurança Pública",
+    "descricaoHierarquia": "Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Ivete da Silveira",
+    "sexo": "F",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6010,
+    "uf": "SC",
+    "siglaPartido": "MDB",
+    "partido": "Movimento Democrático Brasileiro",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senadora",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8868971,
+  "identificacaoProcessoInicial": "PL 3545/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "despachos": [
+   {
+    "id": 10056533,
+    "data": "2025-09-18",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8915352,
+     "numero": 1,
+     "data": "2025-09-18",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8916047,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 2429,
+         "sigla": "CSP",
+         "casa": "SF",
+         "nome": "Comissão de Segurança Pública"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 834,
+         "sigla": "CDH",
+         "casa": "SF",
+         "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 2429,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CSP",
+    "nomeColegiadoControleAtual": "Comissão de Segurança Pública",
+    "idEnteControleAtual": 7352369,
+    "siglaEnteControleAtual": "SACSP",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Segurança Pública",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-07-17",
+      "fim": "2025-09-18",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-09-18",
+      "fim": "2025-09-26",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-09-26",
+      "fim": "2025-11-14",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-11-14",
+      "fim": "2026-08-12",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-08-12",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2246646,
+      "data": "2025-07-17 12:11:03",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 3545/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 10002033,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF259428086615",
+        "descricao": "-",
+        "data": "2025-07-17T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f68e768a-0143-4905-9a50-779c4cccbc37"
+       },
+       {
+        "id": 10002030,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 3545/2025",
+        "descricao": "Altera a Lei nº 14.541, de 3 de abril de 2023, para dispor que as Delegacias Especializadas de Atendimento à Mulher serão chefiadas, preferencialmente, por delegada de polícia civil.",
+        "data": "2025-07-17T12:10:26",
+        "autoria": "Senadora Ivete da Silveira (MDB/SC)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/30fbf602-b9cf-44ad-8827-1e5df8899052"
+       }
+      ]
+     },
+     {
+      "id": 2254777,
+      "data": "2025-09-18 16:03:10",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CSP e posteriormente à CDH em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, podendo receber emendas perante a primeira comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254777,
+      "data": "2025-09-18 16:03:10",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CSP e posteriormente à CDH em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, podendo receber emendas perante a primeira comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254885,
+      "data": "2025-09-18 17:15:00",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 19/09/2025 a 25/09/2025. Perante a CSP."
+     },
+     {
+      "id": 2256236,
+      "data": "2025-09-26 05:59:54",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      },
+      "descricao": "Não foram oferecidas emendas no prazo regimental.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2264925,
+      "data": "2025-11-14 12:43:49",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      },
+      "descricao": "Distribuído à Senadora Ana Paula Lobato, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2306189,
+      "data": "2026-08-12 08:15:00",
+      "colegiado": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      },
+      "enteAdministrativo": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      },
+      "descricao": "Devolvido pela relatora, Senadora Ana Paula Lobato, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será redistribuída.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10056441,
+      "dataEnvio": "2025-09-18 15:02:38",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-09-18 15:26:03",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10057071,
+      "dataEnvio": "2025-09-18 18:02:52",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-09-18 18:40:47",
+      "enteDestino": {
+       "id": 7352369,
+       "casa": "SF",
+       "sigla": "SACSP",
+       "nome": "Secretaria de Apoio à Comissão de Segurança Pública"
+      },
+      "colegiadoDestino": {
+       "codigo": 2429,
+       "casa": "SF",
+       "sigla": "CSP",
+       "nome": "Comissão de Segurança Pública"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+  "dthUltimaAtualizacao": "2026-08-12T08:27:57.373000"
+ }
+}

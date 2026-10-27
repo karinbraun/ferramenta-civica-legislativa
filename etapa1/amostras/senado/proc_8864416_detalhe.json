@@ -1,0 +1,176 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8864416",
+ "requisitado_em_utc": "2026-10-27T00:38:21+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8864416,
+  "codigoMateria": 169602,
+  "identificacao": "PL 3414/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "3414",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7616222,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, para aumentar o valor máximo das remessas expressas de USD 3.000,00 para USD 5.000,00 e para isentar de tributos as remessas internacionais, com valor de até USD 50,00 (cinquenta dólares norte-americanos).",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9996555,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-07-15",
+   "indexacao": " ALTERAÇÃO ,  DECRETO LEI FEDERAL ,  ISENÇÃO FISCAL ,  FIXAÇÃO ,  PREÇO MINIMO ,  PRODUTO IMPORTADO ,  LIMITAÇÃO ,  INCIDENCIA ,  TRIBUTOS ,  IMPOSTO DE IMPORTAÇÃO ,  CRITERIOS ,  TRIBUTAÇÃO SIMPLIFICADA ,  REMESSA DE VALORES .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/192be53b-f6d4-4379-aa86-788fb69567de",
+   "autoria": [
+    {
+     "autor": "Mecias de Jesus",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 6027,
+     "uf": "RR",
+     "siglaPartido": "REPUBLICANOS",
+     "partido": "Republicanos",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Mecias de Jesus (REPUBLICANOS/RR)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-07-15",
+  "situacaoAtual": "AGUARDANDO DESPACHO",
+  "siglaSituacaoAtual": "AGDESP",
+  "dataSituacaoAtual": "2025-07-15",
+  "classificacoes": [
+   {
+    "codigo": 33804940,
+    "descricao": "Tributos",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+   },
+   {
+    "codigo": 33804955,
+    "descricao": "Desoneração Fiscal",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Mecias de Jesus",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6027,
+    "uf": "RR",
+    "siglaPartido": "REPUBLICANOS",
+    "partido": "Republicanos",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8864416,
+  "identificacaoProcessoInicial": "PL 3414/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1998,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "PLEN",
+    "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-07-15",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2245790,
+      "data": "2025-07-15 15:39:59",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 3414/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9996607,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF255717454652",
+        "descricao": "-",
+        "data": "2025-07-15T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/11a0e672-90d3-4433-8b97-fc80257d05e3"
+       },
+       {
+        "id": 9996555,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 3414/2025",
+        "descricao": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, para aumentar o valor máximo das remessas expressas de USD 3.000,00 para USD 5.000,00 e para isentar de tributos as remessas internacionais, com valor de até USD 50,00 (cinquenta dólares norte-americanos).",
+        "data": "2025-07-15T15:39:46",
+        "autoria": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/192be53b-f6d4-4379-aa86-788fb69567de"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+  "dthUltimaAtualizacao": "2026-08-05T15:55:46.573000"
+ }
+}

@@ -1,0 +1,2228 @@
+{
+ "executado_em_utc": "2026-10-27T00:37:39+00:00",
+ "assuntos": [
+  {
+   "id": 81,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Administrativo",
+   "dataInicio": "2009-11-25",
+   "dataFim": "2009-12-22"
+  },
+  {
+   "id": 101,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Administração pública: órgãos públicos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 102,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Licitação e contratos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 103,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Militares dos estados, DF e territórios",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 104,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Organização político-administrativa do Estado",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 105,
+   "assuntoGeral": "Administrativo",
+   "assuntoEspecifico": "Servidores públicos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 106,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Agricultura, pecuária e abastecimento",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 107,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Desenvolvimento regional",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 82,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Econômico",
+   "dataInicio": "2009-11-25",
+   "dataFim": "2009-12-22"
+  },
+  {
+   "id": 108,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Fiscalização e controle",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 109,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Indústria, comércio e serviço",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 111,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Minas e energia",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 113,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Pesca e aquicultura",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 110,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Planejamento e orçamento",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 114,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Política econômica e sistema financeiro",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 115,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Política fundiária e reforma agrária",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 116,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Política urbana",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 112,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Recursos hídricos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 117,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Tributação",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 118,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Turismo",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 119,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Viação e transportes",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 120,
+   "assuntoGeral": "Econômico",
+   "assuntoEspecifico": "Zona de processamento de exportação",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 121,
+   "assuntoGeral": "Honorífico",
+   "assuntoEspecifico": "Data comemorativa",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 122,
+   "assuntoGeral": "Honorífico",
+   "assuntoEspecifico": "Homenagem cívica",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 85,
+   "assuntoGeral": "Honorífico",
+   "assuntoEspecifico": "Honorífico",
+   "dataInicio": "2009-11-25",
+   "dataFim": "2009-12-22"
+  },
+  {
+   "id": 123,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Defesa do consumidor",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 124,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Defesa nacional e forças armadas",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 125,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito aeronáutico e direito espacial",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 126,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito civil e processual civil",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 127,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito comercial e econômico",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 131,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito dos estrangeiros",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 128,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito eleitoral e partidos políticos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 129,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito marítimo",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 130,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direito penal e processual penal",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 132,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Direitos políticos, nacionalidade e cidadania",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 83,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Jurídico",
+   "dataInicio": "2009-11-25",
+   "dataFim": "2009-12-22"
+  },
+  {
+   "id": 133,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Processo legislativo",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 134,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Relações internacionais",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 135,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Segurança pública",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 136,
+   "assuntoGeral": "Jurídico",
+   "assuntoEspecifico": "Trânsito",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 166,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Alteração da Lei Orçamentária Anual",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 164,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Alteração da Lei de Diretrizes Orçamentárias",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 165,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Alteração do Plano Plurianual",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 182,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Alteração do Plano Plurianual e da Lei de Diretrizes Orçamentárias",
+   "dataInicio": "2000-01-01"
+  },
+  {
+   "id": 168,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Crédito Especial",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 181,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Crédito Especial e Suplementar",
+   "dataInicio": "1990-01-01"
+  },
+  {
+   "id": 169,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Crédito Extraordinário",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 167,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Crédito Suplementar",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 163,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Projeto da Lei Orçamentária Anual",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 161,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Projeto de Lei de Diretrizes Orçamentárias",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 162,
+   "assuntoGeral": "Orçamentário",
+   "assuntoEspecifico": "Projeto de Lei do Plano Plurianual",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 137,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Arte e cultura",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 138,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Assistência social",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 139,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Ciência, tecnologia e informática",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 140,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Comunicações",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 142,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Desenvolvimento social e combate à fome",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 141,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Desporto e lazer",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 143,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Direitos humanos e minorias",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 144,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Educação",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 145,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Família, proteção a crianças, adolescentes, mulheres e idosos",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 146,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Meio ambiente",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 147,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Previdência social",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 149,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Saúde",
+   "dataInicio": "1900-01-01"
+  },
+  {
+   "id": 84,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Social",
+   "dataInicio": "2009-11-25",
+   "dataFim": "2009-12-22"
+  },
+  {
+   "id": 148,
+   "assuntoGeral": "Social",
+   "assuntoEspecifico": "Trabalho e emprego",
+   "dataInicio": "1900-01-01"
+  }
+ ],
+ "tipos_situacao": [
+  {
+   "id": 86,
+   "sigla": "AGDDO",
+   "descricao": "AGENDADA PARA ORDEM DO DIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 126,
+   "sigla": "AGDO (RQ)",
+   "descricao": "AGENDADO REQUERIMENTO PARA A ORDEM DO DIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352323,
+   "sigla": "AGAUDPUB",
+   "descricao": "AGUARDANDO AUDIÊNCIA PÚBLICA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 142,
+   "sigla": "AGCD",
+   "descricao": "AGUARDANDO DECISÃO DA CÂMARA DOS DEPUTADOS",
+   "dataInicio": "2007-01-01T00:00:00",
+   "dataFim": "2024-07-01T00:00:00"
+  },
+  {
+   "id": 16,
+   "sigla": "AGMESA",
+   "descricao": "AGUARDANDO DECISÃO DA MESA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 87,
+   "sigla": "AGDREL",
+   "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 10,
+   "sigla": "AGIND",
+   "descricao": "AGUARDANDO DESIGNAÇÃO MEMBROS COMISSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 175,
+   "sigla": "AGDESP",
+   "descricao": "AGUARDANDO DESPACHO",
+   "dataInicio": "2016-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 21,
+   "sigla": "AGUARD",
+   "descricao": "AGUARDANDO DESPACHO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 82,
+   "sigla": "AGDOC",
+   "descricao": "AGUARDANDO DOCUMENTAÇÃO COMPLEMENTAR SOLICITADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 5,
+   "sigla": "AGENT",
+   "descricao": "AGUARDANDO ELABORAÇÃO DE NOTA TÉCNICA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 7,
+   "sigla": "AGERV",
+   "descricao": "AGUARDANDO ELABORAÇÃO REDAÇÃO DO VENCIDO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 6,
+   "sigla": "AGERF",
+   "descricao": "AGUARDANDO ELABORAÇÃO REDAÇÃO FINAL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 95,
+   "sigla": "AGINCL(RQ)",
+   "descricao": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO",
+   "dataInicio": "2000-02-09T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 11,
+   "sigla": "AGINF",
+   "descricao": "AGUARDANDO INFORMAÇÕES",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 100,
+   "sigla": "AGINFCOMP",
+   "descricao": "AGUARDANDO INFORMAÇÕES COMPLEMENTARES",
+   "dataInicio": "2000-02-23T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 9,
+   "sigla": "AGINCO",
+   "descricao": "AGUARDANDO INSTALAÇÃO DA COMISSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 12,
+   "sigla": "AGINR",
+   "descricao": "AGUARDANDO INTERPOSIÇÃO DE RECURSO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 13,
+   "sigla": "AGLEIT",
+   "descricao": "AGUARDANDO LEITURA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 118,
+   "sigla": "AGLEIT(RQ)",
+   "descricao": "AGUARDANDO LEITURA DE REQUERIMENTO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 14,
+   "sigla": "AGLPAR",
+   "descricao": "AGUARDANDO LEITURA PARECER (ES)",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 106,
+   "sigla": "AGPAR",
+   "descricao": "AGUARDANDO PARECER (CN)",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 167,
+   "sigla": "AGPPDL",
+   "descricao": "AGUARDANDO PRAZO PARA ELABORAÇÃO DO PDL NA COMISSÃO MISTA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 168,
+   "sigla": "AGPPDLP",
+   "descricao": "AGUARDANDO PRAZO PARA ELABORAÇÃO DO PDL POR PARLAMENTAR",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 180,
+   "sigla": "AGPROV",
+   "descricao": "AGUARDANDO PROVIDÊNCIAS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 18,
+   "sigla": "AGPUB",
+   "descricao": "AGUARDANDO PUBLICAÇÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 20,
+   "sigla": "AGREMD",
+   "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7366366,
+   "sigla": "AGEMD_PRELIM",
+   "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS AO RELATÓRIO PRELIMINAR",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 88,
+   "sigla": "AGREMESA",
+   "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 121,
+   "sigla": "AGTSUP(DT)",
+   "descricao": "AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA",
+   "dataInicio": "2001-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 23,
+   "sigla": "ANXDA",
+   "descricao": "ANEXADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 24,
+   "sigla": "ANXDO",
+   "descricao": "ANEXADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 29,
+   "sigla": "ARQVO",
+   "descricao": "AO ARQUIVO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 146,
+   "sigla": "APRCD(DT)",
+   "descricao": "APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES",
+   "dataInicio": "2008-10-10T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 25,
+   "sigla": "APRVD",
+   "descricao": "APROVADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 145,
+   "sigla": "APMAR",
+   "descricao": "APROVADA \"AD REFERENDUM\" DA MESA",
+   "dataInicio": "2007-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7370365,
+   "sigla": "APROV_APRES_PLEN",
+   "descricao": "APROVADA A APRESENTAÇÃO PERANTE O PLENÁRIO DO SENADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 96,
+   "sigla": "APRVD(DT)",
+   "descricao": "APROVADA A MATÉRIA (DECISÃO TERMINATIVA)",
+   "dataInicio": "1988-10-05T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 124,
+   "sigla": "APRVD(MPV)",
+   "descricao": "APROVADA A MEDIDA PROVISÓRIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 166,
+   "sigla": "AMPVPREF",
+   "descricao": "APROVADA A MEDIDA PROVISÓRIA - PREFERÊNCIA SOBRE PLV",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 26,
+   "sigla": "APRVDP",
+   "descricao": "APROVADA PARCIALMENTE",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 132,
+   "sigla": "APRVD(ESF)",
+   "descricao": "APROVADA(S) EMENDA(S) DO SENADO FEDERAL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 159,
+   "sigla": "APAPM",
+   "descricao": "APROVADO O PARECER NA COMISSÃO - APROVAÇÃO PARCIAL DA MEDIDA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 161,
+   "sigla": "APTPLV",
+   "descricao": "APROVADO O PARECER NA COMISSÃO - NOS TERMOS DO PLV",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 163,
+   "sigla": "APPDL",
+   "descricao": "APROVADO O PARECER NA COMISSÃO - PELA APRESENTAÇÃO DE PDL",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 158,
+   "sigla": "APAM",
+   "descricao": "APROVADO O PARECER NA COMISSÃO - PELA APROVAÇÃO DA MEDIDA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 160,
+   "sigla": "APRMED",
+   "descricao": "APROVADO O PARECER NA COMISSÃO - PELA REJEIÇÃO DA MEDIDA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 122,
+   "sigla": "APRVD(PLV)",
+   "descricao": "APROVADO O PROJETO DE LEI DE CONVERSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 140,
+   "sigla": "APRVD(RQ)",
+   "descricao": "APROVADO O REQUERIMENTO",
+   "dataInicio": "2006-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 113,
+   "sigla": "APRVSUB",
+   "descricao": "APROVADO O SUBSTITUTIVO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 173,
+   "sigla": "APRPARAD",
+   "descricao": "APROVADO PARECER DE ADMISSIBILIDADE",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352396,
+   "sigla": "APRVPARCOMITE",
+   "descricao": "APROVADO PARECER DE COMITÊ",
+   "dataInicio": "2000-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 174,
+   "sigla": "APRPARPR",
+   "descricao": "APROVADO PARECER DE PRONÚNCIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 89,
+   "sigla": "APRVPAR",
+   "descricao": "APROVADO PARECER NA COMISSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 162,
+   "sigla": "APPREJM",
+   "descricao": "APROVADO PARECER NA COMISSÃO - PREJUDICIONALIDADE DA MEDID",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 119,
+   "sigla": "APRVPARCON",
+   "descricao": "APROVADO PARECER NO CONSELHO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 182,
+   "sigla": "APPARPREL",
+   "descricao": "APROVADO PARECER PRELIMINAR NA COMISSÃO",
+   "dataInicio": "2019-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 164,
+   "sigla": "APPLVA",
+   "descricao": "APROVADO PROJETO DE LEI DE CONVERSÃO COM ALTERAÇÕES",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 165,
+   "sigla": "APLVPREF",
+   "descricao": "APROVADO PROJETO DE LEI DE CONVERSÃO PREFERÊNCIA SOBRE MEDID",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 137,
+   "sigla": "ARQV",
+   "descricao": "ARQUIVADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 28,
+   "sigla": "ARQVD",
+   "descricao": "ARQUIVADA AO FINAL DA LEGISLATURA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7371638,
+   "sigla": "ARQV_CD",
+   "descricao": "ARQUIVADO NA CÂMARA DOS DEPUTADOS",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 156,
+   "sigla": "AORFI",
+   "descricao": "ATENDIMENDO DA ADEQUAÇÃO ORÇAMENTÁRIA E FINANCEIRA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 154,
+   "sigla": "APCONST",
+   "descricao": "ATENDIMENTO DOS PRESUPOSTOS CONSTITUCIONAIS",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 110,
+   "sigla": "AUDIÊNCIA",
+   "descricao": "AUDIÊNCIA PÚBLICA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "2021-03-09T00:00:00"
+  },
+  {
+   "id": 7352322,
+   "sigla": "AUDPUBCANCEL",
+   "descricao": "AUDIÊNCIA PÚBLICA CANCELADA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352321,
+   "sigla": "AUDPUBREALIZ",
+   "descricao": "AUDIÊNCIA PÚBLICA REALIZADA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 129,
+   "sigla": "CONCLUSO",
+   "descricao": "AUTOS ENCAMINHADOS À CONCLUSÃO",
+   "dataInicio": "2003-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 115,
+   "sigla": "AUTUAFIN",
+   "descricao": "AUTUAÇÃO FINALIZADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352327,
+   "sigla": "AVALCANCEL",
+   "descricao": "AVALIAÇÃO CANCELADA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352326,
+   "sigla": "AVALCONCL",
+   "descricao": "AVALIAÇÃO CONCLUÍDA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 34,
+   "sigla": "CONCL.",
+   "descricao": "COMISSÃO CONCLUIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 178,
+   "sigla": "INSTALADA",
+   "descricao": "COMISSÃO INSTALADA",
+   "dataInicio": "2015-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 32,
+   "sigla": "COMEXT",
+   "descricao": "COMISSÃO TEMPORÁRIA EXTINTA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 84,
+   "sigla": "SACM",
+   "descricao": "COMISSÕES MISTAS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 112,
+   "sigla": "COMPA",
+   "descricao": "COMPARECIMENTO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 107,
+   "sigla": "CONHECIDA",
+   "descricao": "CONHECIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 143,
+   "sigla": "CPIEXTINTA",
+   "descricao": "CPI EXTINTA FINAL DA LEGISLATURA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 109,
+   "sigla": "DEFERD",
+   "descricao": "DEFERIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 111,
+   "sigla": "DEPOIM",
+   "descricao": "DEPOIMENTO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 149,
+   "sigla": "DESARQLEG",
+   "descricao": "DESARQUIVADA - RISF ART 332 § 1º",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7351483,
+   "sigla": "DESIST_APRES",
+   "descricao": "DESISTÊNCIA DE APRESENTAÇÃO",
+   "dataInicio": "2020-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 39,
+   "sigla": "DEVOLV",
+   "descricao": "DEVOLVIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 179,
+   "sigla": "DEVOLVDJ",
+   "descricao": "DEVOLVIDO EM ATENDIMENTO A DECISAO JUDICIAL",
+   "dataInicio": "2016-12-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 104,
+   "sigla": "EXAME",
+   "descricao": "EM EXAME TÉCNICO PRELIMINAR",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 76,
+   "sigla": "URGCA",
+   "descricao": "EM REGIME DE URGÊNCIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 7366362,
+   "sigla": "MPV_ANTES_EMC32",
+   "descricao": "EM TRAMITAÇÃO ANTES DA EC 32",
+   "dataInicio": "1989-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7366363,
+   "sigla": "VET_ANTES_RCN_1",
+   "descricao": "EM TRAMITAÇÃO ANTES DA RESOLUÇÃO N° 1 DE 2013 DO CONGRESSO NACIONAL",
+   "dataInicio": "1989-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 74,
+   "sigla": "TRCOM",
+   "descricao": "EM TRAMITAÇÃO NAS COMISSÕES",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 7371639,
+   "sigla": "EMVIGOR-EC32",
+   "descricao": "EM VIGOR NOS TERMOS DA EMENDA CONSTITUCIONAL 32",
+   "dataInicio": "2001-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 169,
+   "sigla": "EPPDL",
+   "descricao": "ENCERRADO O PRAZO PARA ELABORAÇÃO DO PDL NA COMISSÃO MISTA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 170,
+   "sigla": "EPPDLP",
+   "descricao": "ENCERRADO O PRAZO PARA ELABORAÇÃO DO PDL POR PARLAMENTAR",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 153,
+   "sigla": "EPREM",
+   "descricao": "ENCERRADO O PRAZO PARA RECEBIMENTO DE EMENDAS",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7380792,
+   "sigla": "EPREMESA",
+   "descricao": "ENCERRADO O PRAZO PARA RECEBIMENTO DE EMENDAS PERANTE A MESA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 151,
+   "sigla": "FIXA",
+   "descricao": "FIXAÇÃO DE CALENDÁRIO",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 131,
+   "sigla": "HOMENAGEM",
+   "descricao": "HOMENAGEM REALIZADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7353445,
+   "sigla": "IMPUGNADA",
+   "descricao": "IMPUGNADA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 78,
+   "sigla": "INCLOD",
+   "descricao": "INCLUÍDA EM ORDEM DO DIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 138,
+   "sigla": "INPAUTA",
+   "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 127,
+   "sigla": "INCLOD(PAR",
+   "descricao": "INCLUÍDO PARECER EM ORDEM DO DIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 114,
+   "sigla": "INCLOD(RQ)",
+   "descricao": "INCLUÍDO REQUERIMENTO EM ORDEM DO DIA DA SESSÃO DELIBERATIVA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 108,
+   "sigla": "INDEFD",
+   "descricao": "INDEFERIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7359085,
+   "sigla": "INDENCAM",
+   "descricao": "INDICAÇÃO ENCAMINHADA",
+   "dataInicio": "2022-05-24T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 105,
+   "sigla": "INFNEG",
+   "descricao": "INFORMAÇÕES NEGADAS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 79,
+   "sigla": "INFREC",
+   "descricao": "INFORMAÇÕES RECEBIDAS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 116,
+   "sigla": "LICDEF",
+   "descricao": "LICENÇA PRÉVIA DEFERIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 117,
+   "sigla": "LICIND",
+   "descricao": "LICENÇA PRÉVIA INDEFERIDA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 91,
+   "sigla": "RELATOR",
+   "descricao": "MATÉRIA COM A RELATORIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 177,
+   "sigla": "MATDESP",
+   "descricao": "MATÉRIA DESPACHADA",
+   "dataInicio": "2016-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 148,
+   "sigla": "TRAMITA",
+   "descricao": "MATÉRIA EM TRAMITAÇÃO",
+   "dataInicio": "1971-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 147,
+   "sigla": "LEITURA",
+   "descricao": "MATÉRIA LIDA EM PLENÁRIO.",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 135,
+   "sigla": "RMCD(MPV)",
+   "descricao": "MEDIDA PROVISÓRIA ENVIADA À CÂMARA DOS DEPUTADOS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 41,
+   "sigla": "MESA",
+   "descricao": "MESA DIRETORA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 136,
+   "sigla": "INADMITIDA",
+   "descricao": "NÃO ADMISSÃO DOS PRESSUPOSTOS CONSTITUCIONAIS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 157,
+   "sigla": "NAORFI",
+   "descricao": "NÃO ATENDIMENDO DA ADEQUAÇÃO ORÇAMENTÁRIA E FINANCEIRA",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 155,
+   "sigla": "NPCONST",
+   "descricao": "NÃO ATENDIMENTO DOS PRESUPOSTOS CONSTITUCIONAIS",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 90,
+   "sigla": "PEDVISTA",
+   "descricao": "PEDIDO DE VISTA CONCEDIDO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 152,
+   "sigla": "PRFP",
+   "descricao": "PRAZO FINAL PRORROGADO",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 43,
+   "sigla": "PRJDA",
+   "descricao": "PREJUDICADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 144,
+   "sigla": "PREJFINLEG",
+   "descricao": "PREJUDICADA AO FINAL DA LEGISLATURA",
+   "dataInicio": "2003-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7359964,
+   "sigla": "PROC_DESCONSTITUIDO",
+   "descricao": "PROCESSO DESCONSTITUÍDO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 134,
+   "sigla": "RMCD(PLV)",
+   "descricao": "PROJETO DE LEI DE CONVERSÃO REMETIDO À CÂMARA DOS DEPUTADOS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 42,
+   "sigla": "PRONTPAUT",
+   "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 128,
+   "sigla": "PRNTPAUTCS",
+   "descricao": "PRONTA PARA A PAUTA NO CONSELHO",
+   "dataInicio": "2003-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 8,
+   "sigla": "PRONDEPLEN",
+   "descricao": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352325,
+   "sigla": "PROVCANCEL",
+   "descricao": "PROVIDÊNCIA CANCELADA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352324,
+   "sigla": "PROVCONCL",
+   "descricao": "PROVIDÊNCIA CONCLUÍDA",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7372927,
+   "sigla": "REAUTUADO",
+   "descricao": "REAUTUADO",
+   "dataInicio": "2024-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 3,
+   "sigla": "RECOR",
+   "descricao": "RECEBIDA NESTE ÓRGÃO.",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 4,
+   "sigla": "RECAUT",
+   "descricao": "RECEBIDOS AUTÓGRAFOS DA PRESIDÊNCIA DA REPÚBLICA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 49,
+   "sigla": "RJTDA",
+   "descricao": "REJEITADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 97,
+   "sigla": "RJTDA(DT)",
+   "descricao": "REJEITADA A MATÉRIA (DECISÃO TERMINATIVA)",
+   "dataInicio": "1988-10-05T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 125,
+   "sigla": "RJTDA(MPV)",
+   "descricao": "REJEITADA A MEDIDA PROVISÓRIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "2014-01-22T00:00:00"
+  },
+  {
+   "id": 133,
+   "sigla": "RJTDA(ESF)",
+   "descricao": "REJEITADA(S) EMENDA(S) DO SENADO FEDERAL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 123,
+   "sigla": "RJTDA(PLV)",
+   "descricao": "REJEITADO O PROJETO DE LEI DE CONVERSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "2014-01-22T00:00:00"
+  },
+  {
+   "id": 47,
+   "sigla": "REMIN",
+   "descricao": "REMESSA MINISTÉRIOS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 54,
+   "sigla": "RMGC",
+   "descricao": "REMETIDA AO GABINETE CIVIL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 59,
+   "sigla": "RTCU",
+   "descricao": "REMETIDA AO TRIBUNAL DE CONTAS DA UNIÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 53,
+   "sigla": "RMCLDF",
+   "descricao": "REMETIDA À CAMARA LEGISLATIVA DO DF",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 52,
+   "sigla": "RMCD",
+   "descricao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 55,
+   "sigla": "RMPRO",
+   "descricao": "REMETIDA À PROMULGAÇÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7369335,
+   "sigla": "RMPROPENDENTE",
+   "descricao": "REMETIDA À PROMULGAÇÃO COM DISPOSITIVOS PENDENTES DE DELIBERAÇÃO",
+   "dataInicio": "2023-10-09T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 57,
+   "sigla": "RMSAN",
+   "descricao": "REMETIDA À SANÇÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352317,
+   "sigla": "REQAPROV",
+   "descricao": "REQUERIMENTO APROVADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352319,
+   "sigla": "REQPREJUD",
+   "descricao": "REQUERIMENTO PREJUDICADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352318,
+   "sigla": "REQREJEIT",
+   "descricao": "REQUERIMENTO REJEITADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7352320,
+   "sigla": "REQRETIRADO",
+   "descricao": "REQUERIMENTO RETIRADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 60,
+   "sigla": "RTPA",
+   "descricao": "RETIRADA PELO AUTOR",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 48,
+   "sigla": "RVGA",
+   "descricao": "REVOGADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 63,
+   "sigla": "SEFICA",
+   "descricao": "SEM EFICÁCIA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 130,
+   "sigla": "SESSAO",
+   "descricao": "SESSÃO REALIZADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 62,
+   "sigla": "SBRTA",
+   "descricao": "SOBRESTADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 172,
+   "sigla": "SOBPAUTCN",
+   "descricao": "SOBRESTANDO A PAUTA DO CONGRESSO NACIONAL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 183,
+   "sigla": "TRMENC",
+   "descricao": "TRAMITAÇÃO ENCERRADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 72,
+   "sigla": "TRMINT",
+   "descricao": "TRAMITAÇÃO INTERNA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 141,
+   "sigla": "TRINTER",
+   "descricao": "TRAMITAÇÃO INTERROMPIDA",
+   "dataInicio": "2006-12-06T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 64,
+   "sigla": "TNJR",
+   "descricao": "TRANSFORMADA EM NORMA JURÍDICA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 92,
+   "sigla": "TNJRVETO",
+   "descricao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 101,
+   "sigla": "TPDN",
+   "descricao": "TRANSFORMADA EM PROJ. DE DEC. LEGISLATIVO DO CONGRESSO",
+   "dataInicio": "2000-02-23T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7388032,
+   "sigla": "TPLP",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI COMPLEMENTAR DO SENADO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 171,
+   "sigla": "TPLCONV",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI DE CONVERSÃO",
+   "dataInicio": "2013-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 68,
+   "sigla": "TPLV",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI DE CONVERSÃO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 99,
+   "sigla": "TPLN",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI DO CONGRESSO",
+   "dataInicio": "2000-02-23T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 65,
+   "sigla": "TPDF",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI DO DF",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "1999-11-26T00:00:00"
+  },
+  {
+   "id": 67,
+   "sigla": "TPLS",
+   "descricao": "TRANSFORMADA EM PROJETO DE LEI DO SENADO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 69,
+   "sigla": "TPRCN",
+   "descricao": "TRANSFORMADA EM PROJETO DE RESOLUÇÃO - CN",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 70,
+   "sigla": "TPRS",
+   "descricao": "TRANSFORMADA EM PROJETO DE RESOLUÇÃO DO SENADO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 66,
+   "sigla": "TPDS",
+   "descricao": "TRANSFORMADA EM PROJETO DECRETO LEGISLATIVO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 150,
+   "sigla": "TPEC",
+   "descricao": "TRANSFORMADA EM PROPOSTA DE EMENDA CONSTITUCIONAL",
+   "dataInicio": "2000-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 7353374,
+   "sigla": "TINS",
+   "descricao": "TRANSFORMADO EM INDICAÇÃO DO SENADO FEDERAL",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 77,
+   "sigla": "VTDA",
+   "descricao": "VETADA",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 184,
+   "sigla": "VETDELIB",
+   "descricao": "VETO DELIBERADO PELO PLENÁRIO",
+   "dataInicio": "1990-01-01T00:00:00",
+   "dataFim": null
+  },
+  {
+   "id": 103,
+   "sigla": "VETODERR",
+   "descricao": "VETO DERRUBADO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "2019-12-31T00:00:00"
+  },
+  {
+   "id": 102,
+   "sigla": "VETOMANT",
+   "descricao": "VETO MANTIDO",
+   "dataInicio": "1900-01-01T00:00:00",
+   "dataFim": "2019-12-31T00:00:00"
+  },
+  {
+   "id": 181,
+   "sigla": "VOTOENC",
+   "descricao": "VOTO ENCAMINHADO",
+   "dataInicio": "2019-01-01T00:00:00",
+   "dataFim": null
+  }
+ ],
+ "processos": [
+  {
+   "tema_prototipo": "saude",
+   "id": 8786598,
+   "identificacao": "PL 87/2025",
+   "dataApresentacao": "2025-01-09",
+   "ementa": "Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+   "classificacoes": [
+    "Política Social / Saúde"
+   ],
+   "situacaoAtual": "PRONTA PARA A PAUTA NA COMISSÃO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 87/2025",
+   "autores": [
+    {
+     "autor": "Laércio Oliveira",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PP",
+     "uf": "SE",
+     "partido_pelas_filiacoes": "PP"
+    }
+   ],
+   "n_informes": 12,
+   "informes_com_termo": {
+    "parecer": 1,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/93527498-3888-4bca-b293-5471bcf229e0",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167050"
+  },
+  {
+   "tema_prototipo": "saude",
+   "id": 8828691,
+   "identificacao": "PL 1557/2023",
+   "dataApresentacao": "2025-05-09",
+   "ementa": "Altera os arts. 16 e 18 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para prever a utilização da telerreabilitação.",
+   "classificacoes": [
+    "Política Social / Saúde",
+    "Política Social / Proteção Social / Pessoas com Deficiência"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "CD",
+   "processo_inicial": "PL 1557/2023",
+   "autores": [
+    {
+     "autor": "Dr. Daniel Soranz",
+     "tipo": "DEPUTADO",
+     "partido_no_registro": "PSD",
+     "uf": null
+    }
+   ],
+   "n_informes": 9,
+   "informes_com_termo": {
+    "parecer": 1,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/ba084a94-08d7-4140-aaef-5ca61389febc",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168536"
+  },
+  {
+   "tema_prototipo": "saude",
+   "id": 8854085,
+   "identificacao": "PL 3034/2025",
+   "dataApresentacao": "2025-06-24",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer princípios e diretrizes sobre o uso de tecnologias digitais por crianças e adolescentes.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Ciência, Tecnologia e Informática / Segurança Digital",
+    "Política Social / Saúde",
+    "Política Social / Proteção Social / Crianças e Adolescentes"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 3034/2025",
+   "autores": [
+    {
+     "autor": "Augusta Brito",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PT",
+     "uf": "CE",
+     "partido_pelas_filiacoes": "PT"
+    }
+   ],
+   "n_informes": 13,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 1
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/ed3bc191-f568-4695-9c5e-27a8c10805c0",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169272"
+  },
+  {
+   "tema_prototipo": "saude",
+   "id": 8901731,
+   "identificacao": "PL 4425/2025",
+   "dataApresentacao": "2025-09-03",
+   "ementa": "Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+   "classificacoes": [
+    "Política Social / Saúde"
+   ],
+   "situacaoAtual": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 4425/2025",
+   "autores": [
+    {
+     "autor": "Dra. Eudócia",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PL",
+     "uf": "AL",
+     "partido_pelas_filiacoes": "PL"
+    }
+   ],
+   "n_informes": 33,
+   "informes_com_termo": {
+    "parecer": 1,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/0c764ff2-3f52-40e5-b3af-8e0f95238505",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170294"
+  },
+  {
+   "tema_prototipo": "saude",
+   "id": 8939296,
+   "identificacao": "PL 3287/2024",
+   "dataApresentacao": "2025-10-24",
+   "ementa": "Institui o Protocolo de Atendimento e Intervenção Imediata para Prevenção e Proteção de Crianças e de Adolescentes em casos de Suspeita de Violência em Ambiente Digital.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Ciência, Tecnologia e Informática / Segurança Digital",
+    "Política Social / Saúde",
+    "Política Social / Proteção Social / Crianças e Adolescentes",
+    "Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+   ],
+   "situacaoAtual": "AGUARDANDO DESPACHO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "CD",
+   "processo_inicial": "PL 3287/2024",
+   "autores": [
+    {
+     "autor": "Rogéria Santos",
+     "tipo": "DEPUTADO",
+     "partido_no_registro": "REPUBLICANOS",
+     "uf": null
+    }
+   ],
+   "n_informes": 1,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/07e2acf6-5e65-4808-bc6f-634fd5290eae",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171230"
+  },
+  {
+   "tema_prototipo": "seguranca",
+   "id": 8786826,
+   "identificacao": "PL 121/2025",
+   "dataApresentacao": "2025-01-29",
+   "ementa": "Dispõe sobre os crimes contra a humanidade de que trata o Estatuto de Roma do Tribunal Penal Internacional.",
+   "classificacoes": [
+    "Jurídico / Direito Penal e Penitenciário"
+   ],
+   "situacaoAtual": "AGUARDANDO DESPACHO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 121/2025",
+   "autores": [
+    {
+     "autor": "Styvenson Valentim",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PODE",
+     "uf": "RN",
+     "partido_pelas_filiacoes": "PODE"
+    }
+   ],
+   "n_informes": 1,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/fa66ce1b-c76e-4d48-961c-73e5f36b8051",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167070"
+  },
+  {
+   "tema_prototipo": "seguranca",
+   "id": 8810881,
+   "identificacao": "PL 1432/2025",
+   "dataApresentacao": "2025-04-02",
+   "ementa": "Torna imprescritíveis e inafiançáveis os crimes de peculato, concussão, corrupção ativa, corrupção passiva e lavagem de dinheiro, bem como as ações civis de reparação de danos ao erário decorrentes dessas condutas.",
+   "classificacoes": [
+    "Administração Pública / Agentes Públicos / Improbidade Administrativa",
+    "Jurídico / Direito Penal e Penitenciário"
+   ],
+   "situacaoAtual": "AGUARDANDO DESPACHO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 1432/2025",
+   "autores": [
+    {
+     "autor": "Eduardo Girão",
+     "tipo": "SENADOR",
+     "partido_no_registro": "NOVO",
+     "uf": "CE",
+     "partido_pelas_filiacoes": "NOVO"
+    }
+   ],
+   "n_informes": 1,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/f55f08eb-0c62-43f9-8e2c-75e5b480b9d8",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167898"
+  },
+  {
+   "tema_prototipo": "seguranca",
+   "id": 8843212,
+   "identificacao": "PL 2733/2025",
+   "dataApresentacao": "2025-06-06",
+   "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, o Decreto-lei nº 2.848, de 7 de dezembro de 1940, e a Lei nº 10.741, de 1º de outubro de 2003, para incluir no rol dos crimes hediondos o roubo, o desvio, a apropriação indébita ou a fraude envolvendo recursos previdenciários destinados a aposentados e pensionistas.",
+   "classificacoes": [
+    "Jurídico / Direito Penal e Penitenciário",
+    "Política Social / Previdência Social / Regime Geral de Previdência Social",
+    "Política Social / Proteção Social / Idosos"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 2733/2025",
+   "autores": [
+    {
+     "autor": "Magno Malta",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PL",
+     "uf": "ES",
+     "partido_pelas_filiacoes": "PL"
+    }
+   ],
+   "n_informes": 6,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/e1382123-5333-4f97-9a4c-dfd461b184a0",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168962"
+  },
+  {
+   "tema_prototipo": "seguranca",
+   "id": 8868971,
+   "identificacao": "PL 3545/2025",
+   "dataApresentacao": "2025-07-17",
+   "ementa": "Altera a Lei nº 14.541, de 3 de abril de 2023, para dispor que as Delegacias Especializadas de Atendimento à Mulher serão chefiadas, preferencialmente, por delegada de polícia civil.",
+   "classificacoes": [
+    "Administração Pública",
+    "Política Social / Proteção Social / Mulheres",
+    "Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 3545/2025",
+   "autores": [
+    {
+     "autor": "Ivete da Silveira",
+     "tipo": "SENADOR",
+     "partido_no_registro": "MDB",
+     "uf": "SC",
+     "partido_pelas_filiacoes": "MDB"
+    }
+   ],
+   "n_informes": 7,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/30fbf602-b9cf-44ad-8827-1e5df8899052",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169663"
+  },
+  {
+   "tema_prototipo": "seguranca",
+   "id": 8935495,
+   "identificacao": "PL 2810/2025 (Substitutivo-CD)",
+   "dataApresentacao": "2025-10-21",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para prever medidas protetivas de urgência a vítimas de crimes contra a dignidade sexual e em situação de especial vulnerabilidade, a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a monitoração eletrônica dos condenados por crime contra a dignidade sexual, a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de proteção a crianças e a adolescentes vítimas de crimes contra a dignidade sexual, e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para assegurar assistência psicológica e social especializada às pessoas com deficiência vítimas de crimes contra a dignidade sexual e a suas famílias.",
+   "classificacoes": [
+    "Jurídico / Processo / Processo Penal",
+    "Jurídico / Direito Penal e Penitenciário",
+    "Política Social / Proteção Social / Crianças e Adolescentes",
+    "Política Social / Proteção Social / Pessoas com Deficiência"
+   ],
+   "situacaoAtual": "TRANSFORMADA EM NORMA JURÍDICA",
+   "tramitando": "Não",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 2810/2025",
+   "autores": [
+    {
+     "autor": "Margareth Buzetti",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PSD",
+     "uf": "MT",
+     "partido_pelas_filiacoes": "PP"
+    }
+   ],
+   "n_informes": 26,
+   "informes_com_termo": {
+    "parecer": 5,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 1
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/40cfc4e2-57c5-48eb-9e28-9e886f3a19bc",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171135"
+  },
+  {
+   "tema_prototipo": "impostos",
+   "id": 8786856,
+   "identificacao": "PL 124/2025",
+   "dataApresentacao": "2025-02-01",
+   "ementa": "Institui o regime especial de tributação para os municípios de Estreito, no Estado do Maranhão, e Aguiarnópolis no Estado do Tocantins, até a reconstrução total da ponte Juscelino Kubitschek.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Tributos"
+   ],
+   "situacaoAtual": "AGUARDANDO DESPACHO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 124/2025",
+   "autores": [
+    {
+     "autor": "Weverton",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PDT",
+     "uf": "MA",
+     "partido_pelas_filiacoes": "PDT"
+    }
+   ],
+   "n_informes": 1,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/0a075f61-82ff-4d60-925f-68a798e54d06",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167073"
+  },
+  {
+   "tema_prototipo": "impostos",
+   "id": 8806087,
+   "identificacao": "PL 1198/2025",
+   "dataApresentacao": "2025-03-24",
+   "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, para determinar que a informação sobre o valor aproximado dos tributos seja prestada eletronicamente.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Tributos",
+    "Jurídico / Direito do Consumidor"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 1198/2025",
+   "autores": [
+    {
+     "autor": "Carlos Viana",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PODE",
+     "uf": "MG",
+     "partido_pelas_filiacoes": "PODE"
+    }
+   ],
+   "n_informes": 5,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/b0dbbcb7-3cde-4651-9892-c6e9c462f0da",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167712"
+  },
+  {
+   "tema_prototipo": "impostos",
+   "id": 8823230,
+   "identificacao": "PL 1975/2025",
+   "dataApresentacao": "2025-04-29",
+   "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para adequá-la às modificações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Tributos",
+    "Jurídico / Direito do Consumidor"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 1975/2025",
+   "autores": [
+    {
+     "autor": "Jussara Lima",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PSD",
+     "uf": "PI",
+     "partido_pelas_filiacoes": "PSD"
+    }
+   ],
+   "n_informes": 9,
+   "informes_com_termo": {
+    "parecer": 2,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/92af3fa4-4e77-44d3-9d8a-0f925d81b5c8",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168332"
+  },
+  {
+   "tema_prototipo": "impostos",
+   "id": 8864416,
+   "identificacao": "PL 3414/2025",
+   "dataApresentacao": "2025-07-15",
+   "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, para aumentar o valor máximo das remessas expressas de USD 3.000,00 para USD 5.000,00 e para isentar de tributos as remessas internacionais, com valor de até USD 50,00 (cinquenta dólares norte-americanos).",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Tributos",
+    "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+   ],
+   "situacaoAtual": "AGUARDANDO DESPACHO",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 3414/2025",
+   "autores": [
+    {
+     "autor": "Mecias de Jesus",
+     "tipo": "SENADOR",
+     "partido_no_registro": "REPUBLICANOS",
+     "uf": "RR",
+     "partido_pelas_filiacoes": "REPUBLICANOS"
+    }
+   ],
+   "n_informes": 1,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/192be53b-f6d4-4379-aa86-788fb69567de",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169602"
+  },
+  {
+   "tema_prototipo": "impostos",
+   "id": 8930306,
+   "identificacao": "PL 5112/2025",
+   "dataApresentacao": "2025-10-14",
+   "ementa": "Altera a Lei nº 11.508, de 20 de julho de 2007, para estabelecer que, no caso das ZPEs existentes em 31 de dezembro de 2024 e situadas na Faixa de Fronteira, os acréscimos de juros e de multa de mora de que tratam os incisos I e II do caput do art. 6º-C serão contados a partir da data da operação de venda de que trata o inciso III do caput daquele mesmo dispositivo.",
+   "classificacoes": [
+    "Economia e Desenvolvimento / Tributos"
+   ],
+   "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+   "tramitando": "Sim",
+   "casa_iniciadora": "SF",
+   "processo_inicial": "PL 5112/2025",
+   "autores": [
+    {
+     "autor": "José Lacerda",
+     "tipo": "SENADOR",
+     "partido_no_registro": "PSD",
+     "uf": "MT",
+     "partido_pelas_filiacoes": "PSD"
+    }
+   ],
+   "n_informes": 5,
+   "informes_com_termo": {
+    "parecer": 0,
+    "simbólica": 0,
+    "nominal": 0,
+    "arquiv": 0
+   },
+   "url_documento": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/96465a03-cb4e-48ca-808e-3074e6f6a42c",
+   "url_pagina": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170923"
+  }
+ ],
+ "teste_assuntos": {
+  "saude": [
+   "2018",
+   "2019",
+   "2020",
+   "2021"
+  ],
+  "seguranca": [
+   "2019",
+   "2020",
+   "2021"
+  ],
+  "impostos": [
+   "2019",
+   "2020",
+   "2021"
+  ]
+ },
+ "votacoes_recentes": {
+  "periodo": [
+   "2025-11-01",
+   "2025-11-30"
+  ],
+  "n_votacoes_nominais": 12,
+  "secretas": {
+   "S": 11,
+   "N": 1
+  },
+  "tipos_voto": {
+   "P-NRV": 136,
+   "Votou": 645,
+   "AP": 55,
+   "MIS": 25,
+   "LS": 36,
+   "NCom": 12,
+   "Presidente (art. 51 RISF)": 2,
+   "Sim": 57,
+   "LP": 2,
+   "Abstenção": 2
+  },
+  "n_votacoes_no_endpoint_orientacao": 12,
+  "n_com_orientacao_preenchida": 1,
+  "exemplos_orientacao": [
+   [
+    {
+     "dataHora": "2025-11-25T17:46:26",
+     "partido": "PSB",
+     "voto": "SIM"
+    },
+    {
+     "dataHora": "2025-11-25T17:39:53",
+     "partido": "PP",
+     "voto": "SIM"
+    },
+    {
+     "dataHora": "2025-11-25T17:48:32",
+     "partido": "Oposição",
+     "voto": "SIM"
+    },
+    {
+     "dataHora": "2025-11-25T17:46:41",
+     "partido": "Podemos",
+     "voto": "SIM"
+    },
+    {
+     "dataHora": "2025-11-25T17:47:45",
+     "partido": "PSDB",
+     "voto": "SIM"
+    },
+    {
+     "dataHora": "2025-11-25T17:39:04",
+     "partido": "MDB",
+     "voto": "SIM"
+    }
+   ]
+  ],
+  "votos_verificados_partido": 80,
+  "divergencias_partido": []
+ },
+ "votacoes_2019": {
+  "periodo": [
+   "2019-07-01",
+   "2019-07-31"
+  ],
+  "n_votacoes_nominais": 8,
+  "secretas": {
+   "N": 2,
+   "S": 6
+  },
+  "tipos_voto": {
+   "Sim": 127,
+   "P-NRV": 54,
+   "NCom": 6,
+   "Presidente (art. 51 RISF)": 7,
+   "LS": 11,
+   "AP": 40,
+   "Votou": 403
+  },
+  "n_votacoes_no_endpoint_orientacao": 8,
+  "n_com_orientacao_preenchida": 0,
+  "exemplos_orientacao": [],
+  "votos_verificados_partido": 80,
+  "divergencias_partido": []
+ }
+}

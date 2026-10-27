@@ -1,0 +1,187 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8939296",
+ "requisitado_em_utc": "2026-10-27T00:37:54+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8939296,
+  "codigoMateria": 171230,
+  "identificacao": "PL 3287/2024",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "3287",
+  "ano": 2024,
+  "objetivo": "Revisora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7632967,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Institui o Protocolo de Atendimento e Intervenção Imediata para Prevenção e Proteção de Crianças e de Adolescentes em casos de Suspeita de Violência em Ambiente Digital.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 10086004,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-10-24",
+   "indexacao": " CRIAÇÃO ,  LEI FEDERAL ,  PROTOCOLO ,  ATENDIMENTO ,  INTERVENÇÃO ,  PREVENÇÃO ,  PROTEÇÃO ,  CRIANÇA ,  ADOLESCENTE ,  VIOLENCIA ,  INTERNET ,  MIDIA SOCIAL ,  OBJETIVO ,  REDUÇÃO ,  RISCOS ,  INTEGRIDADE ,  SAUDE ,  SAUDE MENTAL ,  PSICOLOGIA ,  MORAL ,  ARTICULAÇÃO ,  ORGÃOS ,  SEGURANÇA PUBLICA ,  SISTEMA ,  JUSTIÇA .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/07e2acf6-5e65-4808-bc6f-634fd5290eae",
+   "autoria": [
+    {
+     "autor": "Câmara dos Deputados",
+     "siglaTipo": "CAMARA",
+     "descricaoTipo": "CAMARA",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "idEnte": 2,
+     "siglaEnte": "CD",
+     "casaEnte": "CD",
+     "ente": "Câmara dos Deputados"
+    }
+   ],
+   "resumoAutoria": "Câmara dos Deputados"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-10-27",
+  "situacaoAtual": "AGUARDANDO DESPACHO",
+  "siglaSituacaoAtual": "AGDESP",
+  "dataSituacaoAtual": "2025-10-27",
+  "classificacoes": [
+   {
+    "codigo": 33805122,
+    "descricao": "Segurança Digital",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Ciência, Tecnologia e Informática / Segurança Digital"
+   },
+   {
+    "codigo": 33808942,
+    "descricao": "Saúde",
+    "descricaoHierarquia": "Política Social / Saúde"
+   },
+   {
+    "codigo": 33809393,
+    "descricao": "Crianças e Adolescentes",
+    "descricaoHierarquia": "Política Social / Proteção Social / Crianças e Adolescentes"
+   },
+   {
+    "codigo": 33809619,
+    "descricao": "Segurança Pública",
+    "descricaoHierarquia": "Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Rogéria Santos",
+    "sexo": "F",
+    "siglaTipo": "DEPUTADO",
+    "descricaoTipo": "DEPUTADO",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6577,
+    "siglaPartido": "REPUBLICANOS",
+    "partido": "Republicanos",
+    "siglaCargo": "DEPUTADO",
+    "cargo": "Deputada Federal",
+    "idEnte": 2,
+    "siglaEnte": "CD",
+    "casaEnte": "CD",
+    "ente": "Câmara dos Deputados"
+   }
+  ],
+  "idProcessoCasaInicial": 8939295,
+  "identificacaoProcessoInicial": "PL 3287/2024",
+  "siglaCasaIniciadora": "CD",
+  "comissaoMpv": "{}",
+  "outrosNumeros": [
+   {
+    "idOutroProcesso": 8939295,
+    "sigla": "PL",
+    "numero": "03287",
+    "ano": 2024,
+    "tramitando": "Sim",
+    "externaAoCongresso": "Não",
+    "casaIdentificadora": "CD",
+    "siglaEnteIdentificador": "CD",
+    "enteIdentificador": "Câmara dos Deputados"
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-10-27",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2260684,
+      "data": "2025-10-27 07:56:27",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 3287/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 10086004,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 3287/2024",
+        "descricao": "Institui o Protocolo de Atendimento e Intervenção Imediata para Prevenção e Proteção de Crianças e de Adolescentes em casos de Suspeita de Violência em Ambiente Digital.",
+        "data": "2025-10-24T17:31:13",
+        "autoria": "Câmara dos Deputados",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/07e2acf6-5e65-4808-bc6f-634fd5290eae"
+       },
+       {
+        "id": 10086078,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF258223602596",
+        "descricao": "-",
+        "data": "2025-10-27T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0b833ea4-09ec-4ad3-b9de-adc376c2ddaa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+  "dthUltimaAtualizacao": "2026-08-18T10:35:04.338000"
+ }
+}

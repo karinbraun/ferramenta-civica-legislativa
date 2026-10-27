@@ -1,0 +1,417 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8843212",
+ "requisitado_em_utc": "2026-10-27T00:38:04+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8843212,
+  "codigoMateria": 168962,
+  "identificacao": "PL 2733/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "2733",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7610980,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, o Decreto-lei nº 2.848, de 7 de dezembro de 1940, e a Lei nº 10.741, de 1º de outubro de 2003, para incluir no rol dos crimes hediondos o roubo, o desvio, a apropriação indébita ou a fraude envolvendo recursos previdenciários destinados a aposentados e pensionistas.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9968797,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-06-06",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  DECRETO LEI FEDERAL ,  CODIGO PENAL ,  ESTATUTO DA PESSOA IDOSA ,  CRIME HEDIONDO ,  DEFINIÇÃO ,  TIPICIDADE ,  CRIME ,  PENA ,  ROUBO ,  DESVIO ,  APROPRIAÇÃO INDEBITA ,  FRAUDE ,  RECEBIMENTO ,  RECURSOS FINANCEIROS ,  REGIME GERAL DE PREVIDENCIA SOCIAL ,  VITIMA ,  APOSENTADO ,  PENSIONISTA ,  BENEFICIARIO ,  PREVIDENCIA SOCIAL .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/e1382123-5333-4f97-9a4c-dfd461b184a0",
+   "autoria": [
+    {
+     "autor": "Magno Malta",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 631,
+     "uf": "ES",
+     "siglaPartido": "PL",
+     "partido": "Partido Liberal",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador Magno Malta (PL/ES)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-06-06",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-03-04",
+  "classificacoes": [
+   {
+    "codigo": 33805617,
+    "descricao": "Direito Penal e Penitenciário",
+    "descricaoHierarquia": "Jurídico / Direito Penal e Penitenciário"
+   },
+   {
+    "codigo": 33809243,
+    "descricao": "Regime Geral de Previdência Social",
+    "descricaoHierarquia": "Política Social / Previdência Social / Regime Geral de Previdência Social"
+   },
+   {
+    "codigo": 33809378,
+    "descricao": "Idosos",
+    "descricaoHierarquia": "Política Social / Proteção Social / Idosos"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Magno Malta",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 631,
+    "uf": "ES",
+    "siglaPartido": "PL",
+    "partido": "Partido Liberal",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8843212,
+  "identificacaoProcessoInicial": "PL 2733/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "apensadoA": [
+   {
+    "id": 8830390,
+    "identificacao": "PL 2276/2025",
+    "tramitando": "Sim",
+    "tipoApensamento": "Tramitação conjunta",
+    "dataApensamento": "2026-02-24"
+   }
+  ],
+  "despachos": [
+   {
+    "id": 10160914,
+    "data": "2026-02-24",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "colegiado": {}
+    },
+    "providencias": [
+     {
+      "id": 8996188,
+      "tipo": "TRAMITACAO_CONJUNTA",
+      "descricao": "Tramitação Conjunta",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": null
+     },
+     {
+      "id": 8996190,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 3,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 40,
+         "sigla": "CAS",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Sociais"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 34,
+         "sigla": "CCJ",
+         "casa": "SF",
+         "nome": "Comissão de Constituição, Justiça e Cidadania"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 40,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CAS",
+    "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+    "idEnteControleAtual": 55313,
+    "siglaEnteControleAtual": "SACAS",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-06-06",
+      "fim": "2026-02-24",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2026-02-24",
+      "fim": "2026-03-04",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-03-04",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2240895,
+      "data": "2025-06-06 08:07:55",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 2733/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9968803,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF258278966254",
+        "descricao": "-",
+        "data": "2025-06-06T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9311510f-99c9-4433-8c61-c52c92e21ae0"
+       },
+       {
+        "id": 9968797,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 2733/2025",
+        "descricao": "Altera a Lei nº 8.072, de 25 de julho de 1990, o Decreto-lei nº 2.848, de 7 de dezembro de 1940, e a Lei nº 10.741, de 1º de outubro de 2003, para incluir no rol dos crimes hediondos o roubo, o desvio, a apropriação indébita ou a fraude envolvendo recursos previdenciários destinados a aposentados e pensionistas.",
+        "data": "2025-06-06T08:05:09",
+        "autoria": "Senador Magno Malta (PL/ES)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e1382123-5333-4f97-9a4c-dfd461b184a0"
+       }
+      ]
+     },
+     {
+      "id": 2274091,
+      "data": "2026-02-24 13:29:27",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A Presidência determina, nos termos do artigo 48, § 1º, do Regimento Interno, a tramitação conjunta do Projeto de Lei nº 2.733, de 2025, com o Projeto de Lei nº 2.276, de 2025, por tratarem de tema correlato. \r\nAs matérias passam a tramitar em conjunto e vão ao exame da Comissão de Assuntos Sociais e à Comissão de Constituição, Justiça e Cidadania, em decisão terminativa, nos termos do art. 91, inciso I, do Regimento Interno, podendo receber emendas perante a primeira comissão do despacho pelo prazo de cinco dias úteis, nos termos do art. 122, II, c, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2274114,
+      "data": "2026-02-24 13:35:22",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 25/02/2026 a 03/03/2026. Perante a CAS."
+     },
+     {
+      "id": 2274345,
+      "data": "2026-02-25 09:58:20",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Prazo para apresentação de emendas:\r\nPrimeiro dia: 25/02/2026.\r\nÚltimo dia: 03/03/2026."
+     },
+     {
+      "id": 2275685,
+      "data": "2026-03-04 11:00:06",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Não foram oferecidas emendas no prazo regimental.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2275685,
+      "data": "2026-03-04 11:00:06",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Não foram oferecidas emendas no prazo regimental.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10160310,
+      "dataEnvio": "2026-02-24 10:25:59",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-02-24 13:24:09",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10161102,
+      "dataEnvio": "2026-02-24 14:21:48",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-02-24 17:58:04",
+      "enteDestino": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "colegiadoDestino": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+  "dthUltimaAtualizacao": "2026-04-01T09:52:51.460000"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/5990/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:18+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:26:15",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "5990",
+    "Nome": "Carlos Viana",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "557",
+        "SiglaPartido": "PSD",
+        "NomePartido": "Partido Social Democrático"
+       },
+       "DataFiliacao": "2026-04-01"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "577",
+        "SiglaPartido": "PODE",
+        "NomePartido": "Podemos"
+       },
+       "DataFiliacao": "2023-02-01",
+       "DataDesfiliacao": "2026-03-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "523",
+        "SiglaPartido": "PL",
+        "NomePartido": "Partido Liberal"
+       },
+       "DataFiliacao": "2022-04-01",
+       "DataDesfiliacao": "2023-01-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "33",
+        "SiglaPartido": "MDB",
+        "NomePartido": "Movimento Democrático Brasileiro"
+       },
+       "DataFiliacao": "2021-12-20",
+       "DataDesfiliacao": "2022-03-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "557",
+        "SiglaPartido": "PSD",
+        "NomePartido": "Partido Social Democrático"
+       },
+       "DataFiliacao": "2019-01-01",
+       "DataDesfiliacao": "2021-12-19"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

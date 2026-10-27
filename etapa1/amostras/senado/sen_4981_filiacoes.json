@@ -1,0 +1,32 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/4981/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:13+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:36:00",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "4981",
+    "Nome": "Acir Gurgacz",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "20",
+        "SiglaPartido": "PDT",
+        "NomePartido": "Partido Democrático Trabalhista"
+       },
+       "DataFiliacao": "2009-11-05"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

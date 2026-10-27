@@ -1,0 +1,368 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8930306",
+ "requisitado_em_utc": "2026-10-27T00:38:24+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8930306,
+  "codigoMateria": 170923,
+  "identificacao": "PL 5112/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "5112",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7631069,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 11.508, de 20 de julho de 2007, para estabelecer que, no caso das ZPEs existentes em 31 de dezembro de 2024 e situadas na Faixa de Fronteira, os acréscimos de juros e de multa de mora de que tratam os incisos I e II do caput do art. 6º-C serão contados a partir da data da operação de venda de que trata o inciso III do caput daquele mesmo dispositivo.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 10075647,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-10-14",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  ZONA DE PROCESSAMENTO DE EXPORTAÇÃO (ZPE) ,  FAIXA DE FRONTEIRA ,  PRODUTO INDUSTRIALIZADO ,  OPERAÇÃO ,  MERCADO INTERNO ,  COBRANÇA ,  MULTA FISCAL MORATORIA ,  JUROS DE MORA ,  INICIO ,  INCIDENCIA ,  DATA ,  VENDA ,  PRODUTO .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/96465a03-cb4e-48ca-808e-3074e6f6a42c",
+   "autoria": [
+    {
+     "autor": "José Lacerda",
+     "sexo": "M",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 6305,
+     "uf": "MT",
+     "siglaPartido": "PSD",
+     "partido": "Partido Social Democrático",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senador",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senador José Lacerda (PSD/MT)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-10-14",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2025-10-28",
+  "classificacoes": [
+   {
+    "codigo": 33804940,
+    "descricao": "Tributos",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "José Lacerda",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6305,
+    "uf": "MT",
+    "siglaPartido": "PSD",
+    "partido": "Partido Social Democrático",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8930306,
+  "identificacaoProcessoInicial": "PL 5112/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "despachos": [
+   {
+    "id": 10081325,
+    "data": "2025-10-20",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8934744,
+     "numero": 1,
+     "data": "2025-10-20",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8935337,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 38,
+         "sigla": "CAE",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Econômicos"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 38,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CAE",
+    "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+    "idEnteControleAtual": 13530,
+    "siglaEnteControleAtual": "SACAE",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-10-14",
+      "fim": "2025-10-20",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-10-20",
+      "fim": "2025-10-28",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-10-28",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2258324,
+      "data": "2025-10-14 09:20:55",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 5112/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 10075641,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF256381561292",
+        "descricao": "-",
+        "data": "2025-10-14T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f847cf53-f5e0-41f6-99d0-95b2da1c8f41"
+       },
+       {
+        "id": 10075647,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 5112/2025",
+        "descricao": "Altera a Lei nº 11.508, de 20 de julho de 2007, para estabelecer que, no caso das ZPEs existentes em 31 de dezembro de 2024 e situadas na Faixa de Fronteira, os acréscimos de juros e de multa de mora de que tratam os incisos I e II do caput do art. 6º-C serão contados a partir da data da operação de venda de que trata o inciso III do caput daquele mesmo dispositivo.",
+        "data": "2025-10-14T09:20:21",
+        "autoria": "Senador José Lacerda (PSD/MT)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/96465a03-cb4e-48ca-808e-3074e6f6a42c"
+       }
+      ]
+     },
+     {
+      "id": 2259512,
+      "data": "2025-10-20 19:26:23",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CAE, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, onde poderá receber emendas pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2259514,
+      "data": "2025-10-20 19:32:30",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 21/10/2025 a 27/10/2025. Perante a CAE."
+     },
+     {
+      "id": 2259665,
+      "data": "2025-10-21 14:46:33",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Matéria em prazo de recebimento de emendas (Art. 122, II, \"c\", do RISF)."
+     },
+     {
+      "id": 2260961,
+      "data": "2025-10-28 08:35:33",
+      "colegiado": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      },
+      "enteAdministrativo": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "descricao": "Encerrado o prazo regimental, não foram apresentadas emendas. \r\n\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10081276,
+      "dataEnvio": "2025-10-20 18:54:38",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-10-20 19:25:49",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10081380,
+      "dataEnvio": "2025-10-20 19:36:54",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-10-21 14:37:20",
+      "enteDestino": {
+       "id": 13530,
+       "casa": "SF",
+       "sigla": "SACAE",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+      },
+      "colegiadoDestino": {
+       "codigo": 38,
+       "casa": "SF",
+       "sigla": "CAE",
+       "nome": "Comissão de Assuntos Econômicos"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {}
+ }
+}

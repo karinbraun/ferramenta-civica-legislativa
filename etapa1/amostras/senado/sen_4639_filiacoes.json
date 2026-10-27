@@ -1,0 +1,32 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/4639/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:35+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:25:55",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "4639",
+    "Nome": "Beto Faro",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "71",
+        "SiglaPartido": "PT",
+        "NomePartido": "Partido dos Trabalhadores"
+       },
+       "DataFiliacao": "2007-02-01"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/5982/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:31+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:25:15",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "5982",
+    "Nome": "Alessandro Vieira",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "33",
+        "SiglaPartido": "MDB",
+        "NomePartido": "Movimento Democrático Brasileiro"
+       },
+       "DataFiliacao": "2023-06-21"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "66",
+        "SiglaPartido": "PSDB",
+        "NomePartido": "Partido da Social Democracia Brasileira"
+       },
+       "DataFiliacao": "2022-03-21",
+       "DataDesfiliacao": "2023-06-20"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "41",
+        "SiglaPartido": "CIDADANIA",
+        "NomePartido": "CIDADANIA"
+       },
+       "DataFiliacao": "2019-01-01",
+       "DataDesfiliacao": "2022-03-20"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

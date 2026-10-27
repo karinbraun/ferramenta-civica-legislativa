@@ -1,0 +1,50 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/5906/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:37:53+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:27:09",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "5906",
+    "Nome": "Dra. Eudócia",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "66",
+        "SiglaPartido": "PSDB",
+        "NomePartido": "Partido da Social Democracia Brasileira"
+       },
+       "DataFiliacao": "2026-03-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "523",
+        "SiglaPartido": "PL",
+        "NomePartido": "Partido Liberal"
+       },
+       "DataFiliacao": "2024-12-29",
+       "DataDesfiliacao": "2026-03-30"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "63",
+        "SiglaPartido": "PSB",
+        "NomePartido": "Partido Socialista Brasileiro"
+       },
+       "DataFiliacao": "2022-05-24",
+       "DataDesfiliacao": "2024-12-28"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/945/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:39:14+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:36:02",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "945",
+    "Nome": "Alvaro Dias",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "577",
+        "SiglaPartido": "PODE",
+        "NomePartido": "Podemos"
+       },
+       "DataFiliacao": "2017-07-01"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "91",
+        "SiglaPartido": "PV",
+        "NomePartido": "Partido Verde"
+       },
+       "DataFiliacao": "2016-01-11",
+       "DataDesfiliacao": "2017-06-30"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "66",
+        "SiglaPartido": "PSDB",
+        "NomePartido": "Partido da Social Democracia Brasileira"
+       },
+       "DataFiliacao": "2003-08-14",
+       "DataDesfiliacao": "2016-01-07"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "20",
+        "SiglaPartido": "PDT",
+        "NomePartido": "Partido Democrático Trabalhista"
+       },
+       "DataFiliacao": "2001-09-26",
+       "DataDesfiliacao": "2003-08-13"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "66",
+        "SiglaPartido": "PSDB",
+        "NomePartido": "Partido da Social Democracia Brasileira"
+       },
+       "DataFiliacao": "1999-02-01",
+       "DataDesfiliacao": "2001-09-25"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

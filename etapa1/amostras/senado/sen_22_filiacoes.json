@@ -1,0 +1,68 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/senador/22/filiacoes.json",
+ "requisitado_em_utc": "2026-10-27T00:38:53+00:00",
+ "status_http": 200,
+ "resposta": {
+  "FiliacaoParlamentar": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd",
+   "Metadados": {
+    "Versao": "26/10/2026 21:24:52",
+    "VersaoServico": "5",
+    "DataVersaoServico": "2021-09-09",
+    "DescricaoDataSet": "Retorna a relação de Filiações Partidárias do Senador informado no parâmetro."
+   },
+   "Parlamentar": {
+    "Codigo": "22",
+    "Nome": "Esperidião Amin",
+    "Filiacoes": {
+     "Filiacao": [
+      {
+       "Partido": {
+        "CodigoPartido": "418",
+        "SiglaPartido": "PP",
+        "NomePartido": "Progressistas"
+       },
+       "DataFiliacao": "2011-02-01"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "163",
+        "SiglaPartido": "S/Partido",
+        "NomePartido": "Sem Partido"
+       },
+       "DataFiliacao": "1999-01-01",
+       "DataDesfiliacao": "2011-01-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "39",
+        "SiglaPartido": "PPB",
+        "NomePartido": "Partido Progressista Brasileiro"
+       },
+       "DataFiliacao": "1995-10-25",
+       "DataDesfiliacao": "1998-12-31"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "40",
+        "SiglaPartido": "PPR",
+        "NomePartido": "Partido Progressista Reformador"
+       },
+       "DataFiliacao": "1993-06-16",
+       "DataDesfiliacao": "1995-10-24"
+      },
+      {
+       "Partido": {
+        "CodigoPartido": "96",
+        "SiglaPartido": "PDS",
+        "NomePartido": "Partido Democrático Social"
+       },
+       "DataFiliacao": "1991-02-01",
+       "DataDesfiliacao": "1993-06-15"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

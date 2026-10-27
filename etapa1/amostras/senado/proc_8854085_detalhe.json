@@ -1,0 +1,763 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8854085",
+ "requisitado_em_utc": "2026-10-27T00:37:49+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8854085,
+  "codigoMateria": 169272,
+  "identificacao": "PL 3034/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "3034",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7613707,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer princípios e diretrizes sobre o uso de tecnologias digitais por crianças e adolescentes.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 9982956,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-06-24",
+   "indexacao": " ALTERAÇÃO ,  ESTATUTO DA CRIANÇA E DO ADOLESCENTE ,  PROTEÇÃO ,  CRIANÇA ,  ADOLESCENTE ,  DIREITOS ,  GARANTIA ,  SEGURANÇA ,  INTERNET ,  MIDIA SOCIAL ,  PREVENÇÃO ,  EXCESSO ,  LIMITAÇÃO ,  TEMPO ,  UTILIZAÇÃO ,  TECNOLOGIA DIGITAL ,  PRESERVAÇÃO ,  PRIVACIDADE .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/ed3bc191-f568-4695-9c5e-27a8c10805c0",
+   "autoria": [
+    {
+     "autor": "Augusta Brito",
+     "sexo": "F",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 6350,
+     "uf": "CE",
+     "siglaPartido": "PT",
+     "partido": "Partido dos Trabalhadores",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senadora",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senadora Augusta Brito (PT/CE)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-06-24",
+  "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+  "siglaSituacaoAtual": "AGDREL",
+  "dataSituacaoAtual": "2026-06-23",
+  "classificacoes": [
+   {
+    "codigo": 33805122,
+    "descricao": "Segurança Digital",
+    "descricaoHierarquia": "Economia e Desenvolvimento / Ciência, Tecnologia e Informática / Segurança Digital"
+   },
+   {
+    "codigo": 33808942,
+    "descricao": "Saúde",
+    "descricaoHierarquia": "Política Social / Saúde"
+   },
+   {
+    "codigo": 33809393,
+    "descricao": "Crianças e Adolescentes",
+    "descricaoHierarquia": "Política Social / Proteção Social / Crianças e Adolescentes"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Augusta Brito",
+    "sexo": "F",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 6350,
+    "uf": "CE",
+    "siglaPartido": "PT",
+    "partido": "Partido dos Trabalhadores",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senadora",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8854085,
+  "identificacaoProcessoInicial": "PL 3034/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "apensadoA": [
+   {
+    "id": 8836440,
+    "identificacao": "PL 2551/2025",
+    "tramitando": "Não",
+    "tipoApensamento": "Tramitação conjunta",
+    "dataApensamento": "2025-08-08",
+    "dataDesapensamento": "2025-10-30"
+   }
+  ],
+  "despachos": [
+   {
+    "id": 10011687,
+    "data": "2025-08-08",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "colegiado": {}
+    },
+    "providencias": [
+     {
+      "id": 8876084,
+      "tipo": "TRAMITACAO_CONJUNTA",
+      "descricao": "Tramitação Conjunta",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": null
+     },
+     {
+      "id": 8876085,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 3,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 834,
+         "sigla": "CDH",
+         "casa": "SF",
+         "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 34,
+         "sigla": "CCJ",
+         "casa": "SF",
+         "nome": "Comissão de Constituição, Justiça e Cidadania"
+        }
+       },
+       {
+        "ordem": 3,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 2614,
+         "sigla": "CCDD",
+         "casa": "SF",
+         "nome": "Comissão de Comunicação e Direito Digital"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 10092354,
+    "data": "2025-10-30",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8944069,
+     "numero": 1,
+     "data": "2025-10-30",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8944715,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 834,
+         "sigla": "CDH",
+         "casa": "SF",
+         "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+       },
+       {
+        "ordem": 2,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 34,
+         "sigla": "CCJ",
+         "casa": "SF",
+         "nome": "Comissão de Constituição, Justiça e Cidadania"
+        }
+       },
+       {
+        "ordem": 3,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 1363,
+         "sigla": "CCT",
+         "casa": "SF",
+         "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 834,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "CDH",
+    "nomeColegiadoControleAtual": "Comissão de Direitos Humanos e Legislação Participativa",
+    "idEnteControleAtual": 55302,
+    "siglaEnteControleAtual": "SACDH",
+    "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-06-24",
+      "fim": "2025-08-08",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-08-08",
+      "fim": "2025-08-28",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-08-28",
+      "fim": "2025-09-10",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-09-10",
+      "fim": "2025-10-30",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 177,
+      "sigla": "MATDESP",
+      "descricao": "MATÉRIA DESPACHADA",
+      "inicio": "2025-10-30",
+      "fim": "2025-11-04",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-11-04",
+      "fim": "2026-06-23",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-06-23",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2243273,
+      "data": "2025-06-24 14:25:39",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 3034/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 9982980,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF255883689374",
+        "descricao": "-",
+        "data": "2025-06-24T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0ba6d1ec-b500-4e38-89b7-e8f420c037d8"
+       },
+       {
+        "id": 9982956,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 3034/2025",
+        "descricao": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer princípios e diretrizes sobre o uso de tecnologias digitais por crianças e adolescentes.",
+        "data": "2025-06-24T14:25:29",
+        "autoria": "Senadora Augusta Brito (PT/CE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ed3bc191-f568-4695-9c5e-27a8c10805c0"
+       }
+      ]
+     },
+     {
+      "id": 2248455,
+      "data": "2025-08-08 17:00:42",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A Presidência determina, nos termos do art. 48, §1º, do Regimento Interno, a tramitação conjunta dos Projetos de Lei nºs 2.551 e 3.034, de 2025, por tratarem de tema correlato. \r\nAs matérias passam a tramitar em conjunto e vão ao exame da CDH, seguindo posteriormente à CCJ e depois à CCDD, em decisão terminativa, nos termos do art. 91, inciso I, do Regimento Interno, podendo receber emendas perante a primeira comissão pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2248455,
+      "data": "2025-08-08 17:00:42",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A Presidência determina, nos termos do art. 48, §1º, do Regimento Interno, a tramitação conjunta dos Projetos de Lei nºs 2.551 e 3.034, de 2025, por tratarem de tema correlato. \r\nAs matérias passam a tramitar em conjunto e vão ao exame da CDH, seguindo posteriormente à CCJ e depois à CCDD, em decisão terminativa, nos termos do art. 91, inciso I, do Regimento Interno, podendo receber emendas perante a primeira comissão pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2248494,
+      "data": "2025-08-08 17:21:06",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 11/08/2025 a 15/08/2025. Perante a CDH."
+     },
+     {
+      "id": 2250940,
+      "data": "2025-08-28 19:03:57",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Não foram recebidas emendas no prazo regimental. Matéria aguarda distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2250940,
+      "data": "2025-08-28 19:03:57",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Não foram recebidas emendas no prazo regimental. Matéria aguarda distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2253478,
+      "data": "2025-09-10 05:35:35",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Avocada a relatoria pela Presidente da Comissão, Senadora Damares Alves (art. 129 do RISF).",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2253478,
+      "data": "2025-09-10 05:35:35",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Avocada a relatoria pela Presidente da Comissão, Senadora Damares Alves (art. 129 do RISF).",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2261803,
+      "data": "2025-10-30 07:53:06",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "À SLSF, a pedido."
+     },
+     {
+      "id": 2261857,
+      "data": "2025-10-30 11:46:04",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido o Requerimento nº 800, de 2025, do Senador Sérgio Petecão, de retirada do Projeto de Lei nº 2.551, de 2025, em caráter definitivo."
+     },
+     {
+      "id": 2261934,
+      "data": "2025-10-30 15:09:08",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Foi encaminhado à publicação o Requerimento nº 800, de 2025, do Senador Sérgio Petecão, de retirada, em caráter definitivo, do Projeto de Lei nº 2.551, de 2025. A Presidência defere o Requerimento, e encaminha o Projeto de Lei nº 2.551, de 2025, ao Arquivo. O Projeto de Lei nº 3.034, de 2025, que passará a tramitar em separado, de forma autônoma, retorna ao exame da CDH, seguindo posteriormente à CCJ e depois à CCT, em decisão terminativa, nos termos do art. 48, X, do Regimento Interno do Senado Federal, e do Ato do Presidente do Senado Federal nº 22, de 2025.",
+      "idSituacaoIniciada": 177,
+      "siglaSituacaoIniciada": "MATDESP"
+     },
+     {
+      "id": 2262653,
+      "data": "2025-11-04 15:39:14",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Recebido na CDH. A matéria retorna à relatora Senadora Damares Alves.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2293081,
+      "data": "2026-06-23 10:55:00",
+      "colegiado": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "enteAdministrativo": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "descricao": "Devolvido pela Senadora Damares Alves, para redistribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10011641,
+      "dataEnvio": "2025-08-08 16:40:05",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-08-08 16:57:48",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10011712,
+      "dataEnvio": "2025-08-08 17:33:43",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-08-15 12:06:00",
+      "enteDestino": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "colegiadoDestino": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     },
+     {
+      "id": 10091525,
+      "dataEnvio": "2025-10-30 10:11:54",
+      "enteOrigem": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "dataRecebimento": "2025-10-30 11:27:50",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10091885,
+      "dataEnvio": "2025-10-30 11:50:22",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-10-30 15:05:14",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10094956,
+      "dataEnvio": "2025-11-04 11:05:13",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-11-04 15:38:16",
+      "enteDestino": {
+       "id": 55302,
+       "casa": "SF",
+       "sigla": "SACDH",
+       "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+      },
+      "colegiadoDestino": {
+       "codigo": 834,
+       "casa": "SF",
+       "sigla": "CDH",
+       "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+  "dthUltimaAtualizacao": "2026-06-23T10:56:51.966000"
+ }
+}

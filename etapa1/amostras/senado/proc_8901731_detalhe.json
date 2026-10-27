@@ -1,0 +1,1684 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/processo/8901731",
+ "requisitado_em_utc": "2026-10-27T00:37:52+00:00",
+ "status_http": 200,
+ "resposta": {
+  "id": 8901731,
+  "codigoMateria": 170294,
+  "identificacao": "PL 4425/2025",
+  "sigla": "PL",
+  "descricaoSigla": "Projeto de Lei",
+  "numero": "4425",
+  "ano": 2025,
+  "objetivo": "Iniciadora",
+  "casaIdentificadora": "SF",
+  "siglaEnteIdentificador": "SF",
+  "identificacaoExterna": {},
+  "conteudo": {
+   "id": 7625219,
+   "idTipo": 11,
+   "siglaTipo": "NORMA_GERAL",
+   "tipo": "Norma Geral",
+   "ementa": "Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+   "tipoNormaIndicada": "LEI"
+  },
+  "documento": {
+   "id": 10040146,
+   "siglaTipo": "PROJETO_LEI_ORDINARIA",
+   "tipo": "Projeto de Lei Ordinária",
+   "dataApresentacao": "2025-09-03",
+   "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  Sistema Nacional de Segurança Alimentar e Nutricional (SISAN) ,  OFERTA ,  ALIMENTAÇÃO ,  PACIENTE ,  INTERNAMENTO ,  HOSPITAL ,  DIRETRIZ ,  INSTRUMENTO ,  DIREITOS HUMANOS ,  INSTITUIÇÃO PUBLICA ,  MONITORAMENTO ,  APLICAÇÃO .",
+   "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/0c764ff2-3f52-40e5-b3af-8e0f95238505",
+   "autoria": [
+    {
+     "autor": "Dra. Eudócia",
+     "sexo": "F",
+     "siglaTipo": "SENADOR",
+     "descricaoTipo": "SENADOR",
+     "ordem": 1,
+     "outrosAutoresNaoInformados": "Não",
+     "codigoParlamentar": 5906,
+     "uf": "AL",
+     "siglaPartido": "PL",
+     "partido": "Partido Liberal",
+     "siglaCargo": "SENADOR",
+     "cargo": "Senadora",
+     "idEnte": 1,
+     "siglaEnte": "SF",
+     "casaEnte": "SF",
+     "ente": "Senado Federal"
+    }
+   ],
+   "resumoAutoria": "Senadora Dra. Eudócia (PL/AL)"
+  },
+  "tramitando": "Sim",
+  "dataInicioEfetivo": "2025-09-03",
+  "situacaoAtual": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+  "siglaSituacaoAtual": "PRONDEPLEN",
+  "dataSituacaoAtual": "2026-06-10",
+  "classificacoes": [
+   {
+    "codigo": 33808942,
+    "descricao": "Saúde",
+    "descricaoHierarquia": "Política Social / Saúde"
+   }
+  ],
+  "autoriaIniciativa": [
+   {
+    "autor": "Dra. Eudócia",
+    "sexo": "F",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5906,
+    "uf": "AL",
+    "siglaPartido": "PL",
+    "partido": "Partido Liberal",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senadora",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "idProcessoCasaInicial": 8901731,
+  "identificacaoProcessoInicial": "PL 4425/2025",
+  "siglaCasaIniciadora": "SF",
+  "comissaoMpv": "{}",
+  "processosRelacionados": [
+   {
+    "idOutroProcesso": 9026048,
+    "tipoRelacao": "REFERENCIA",
+    "sigla": "R.S",
+    "numero": "2",
+    "ano": 2026,
+    "tramitando": "Sim",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "PLEN",
+    "enteIdentificador": "Plenário do Senado Federal"
+   },
+   {
+    "idOutroProcesso": 9041379,
+    "tipoRelacao": "REFERENCIA",
+    "sigla": "RQS",
+    "numero": "351",
+    "ano": 2026,
+    "tramitando": "Sim",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "PLEN",
+    "enteIdentificador": "Plenário do Senado Federal"
+   },
+   {
+    "idOutroProcesso": 9061620,
+    "tipoRelacao": "REFERENCIA",
+    "sigla": "REQ",
+    "numero": "67",
+    "ano": 2026,
+    "tramitando": "Sim",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "CAS",
+    "enteIdentificador": "Comissão de Assuntos Sociais"
+   },
+   {
+    "idOutroProcesso": 9064670,
+    "tipoRelacao": "REFERENCIA",
+    "sigla": "RQS",
+    "numero": "460",
+    "ano": 2026,
+    "tramitando": "Sim",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "PLEN",
+    "enteIdentificador": "Plenário do Senado Federal"
+   }
+  ],
+  "despachos": [
+   {
+    "id": 10052477,
+    "data": "2025-09-15",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 8913137,
+     "numero": 1,
+     "data": "2025-09-15",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 8913198,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "MATERIA",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "TERMINATIVA",
+        "colegiado": {
+         "codigo": 40,
+         "sigla": "CAS",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Sociais"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 10204420,
+    "data": "2026-04-14",
+    "siglaTipoMotivacao": "DECISAO_PRESID",
+    "tipoMotivacao": "Decisão da Presidência",
+    "cancelado": "Não",
+    "encontroLegislativo": {
+     "id": 9032441,
+     "numero": 1,
+     "data": "2026-04-14",
+     "casa": "SF",
+     "tipo": "SES",
+     "descricao": "Eventos Independentes de Sessão",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    "providencias": [
+     {
+      "id": 9032699,
+      "tipo": "ANALISE",
+      "descricao": "Análise",
+      "ordem": 1,
+      "analiseTempo": "SUCESSIVA",
+      "analiseConteudo": "SOMENTE_EMENDAS",
+      "reexame": "Não",
+      "unidadesDestinatarias": [
+       {
+        "ordem": 1,
+        "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+        "colegiado": {
+         "codigo": 40,
+         "sigla": "CAS",
+         "casa": "SF",
+         "nome": "Comissão de Assuntos Sociais"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "autuacoes": [
+   {
+    "numero": 1,
+    "descricao": "Autuação Principal",
+    "codigoColegiadoControleAtual": 1998,
+    "casaColegiadoControleAtual": "SF",
+    "siglaColegiadoControleAtual": "PLEN",
+    "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+    "idEnteControleAtual": 55312,
+    "siglaEnteControleAtual": "SLSF",
+    "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+    "situacoes": [
+     {
+      "idTipo": 175,
+      "sigla": "AGDESP",
+      "descricao": "AGUARDANDO DESPACHO",
+      "inicio": "2025-09-03",
+      "fim": "2025-09-15",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      }
+     },
+     {
+      "idTipo": 20,
+      "sigla": "AGREMD",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+      "inicio": "2025-09-15",
+      "fim": "2025-09-23",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2025-09-23",
+      "fim": "2025-10-21",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2025-10-21",
+      "fim": "2026-03-24",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-03-24",
+      "fim": "2026-03-25",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 146,
+      "sigla": "APRCD(DT)",
+      "descricao": "APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES",
+      "inicio": "2026-03-25",
+      "fim": "2026-03-25",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 12,
+      "sigla": "AGINR",
+      "descricao": "AGUARDANDO INTERPOSIÇÃO DE RECURSO",
+      "inicio": "2026-03-25",
+      "fim": "2026-04-06",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 88,
+      "sigla": "AGREMESA",
+      "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+      "inicio": "2026-04-06",
+      "fim": "2026-04-14",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 177,
+      "sigla": "MATDESP",
+      "descricao": "MATÉRIA DESPACHADA",
+      "inicio": "2026-04-14",
+      "fim": "2026-04-14",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     },
+     {
+      "idTipo": 87,
+      "sigla": "AGDREL",
+      "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "inicio": "2026-04-14",
+      "fim": "2026-04-22",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 91,
+      "sigla": "RELATOR",
+      "descricao": "MATÉRIA COM A RELATORIA",
+      "inicio": "2026-04-22",
+      "fim": "2026-04-30",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-04-30",
+      "fim": "2026-05-22",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2026-05-22",
+      "fim": "2026-05-26",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 42,
+      "sigla": "PRONTPAUT",
+      "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "inicio": "2026-05-26",
+      "fim": "2026-06-03",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 138,
+      "sigla": "INPAUTA",
+      "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "inicio": "2026-06-03",
+      "fim": "2026-06-10",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 89,
+      "sigla": "APRVPAR",
+      "descricao": "APROVADO PARECER NA COMISSÃO",
+      "inicio": "2026-06-10",
+      "fim": "2026-06-10",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "idTipo": 8,
+      "sigla": "PRONDEPLEN",
+      "descricao": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "inicio": "2026-06-10",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      }
+     }
+    ],
+    "informesLegislativos": [
+     {
+      "id": 2251467,
+      "data": "2025-09-03 17:38:44",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Autuado o Projeto de Lei nº 4425/2025. O projeto vai à publicação.",
+      "idSituacaoIniciada": 175,
+      "siglaSituacaoIniciada": "AGDESP",
+      "documentosAssociados": [
+       {
+        "id": 10040152,
+        "tipo": "Avulso inicial da matéria",
+        "siglaTipo": "AVULSO_INICIAL",
+        "identificacao": "Avulso inicial da matéria - SF256066178794",
+        "descricao": "-",
+        "data": "2025-09-03T00:00:00",
+        "autoria": "Senado Federal",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/888e4cf7-fca8-42b0-b1a4-df47c2c0c37d"
+       },
+       {
+        "id": 10040146,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "PL 4425/2025",
+        "descricao": "Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2025-09-03T17:38:24",
+        "autoria": "Senadora Dra. Eudócia (PL/AL)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0c764ff2-3f52-40e5-b3af-8e0f95238505"
+       }
+      ]
+     },
+     {
+      "id": 2254052,
+      "data": "2025-09-15 17:22:56",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, onde poderá receber emendas pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254052,
+      "data": "2025-09-15 17:22:56",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, onde poderá receber emendas pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254052,
+      "data": "2025-09-15 17:22:56",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, onde poderá receber emendas pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254052,
+      "data": "2025-09-15 17:22:56",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, I, do Regimento Interno, onde poderá receber emendas pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do Regimento Interno.",
+      "idSituacaoIniciada": 20,
+      "siglaSituacaoIniciada": "AGREMD"
+     },
+     {
+      "id": 2254096,
+      "data": "2025-09-15 17:48:27",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, \"c\", do RISF). De 16/09/2025 a 22/09/2025. Perante a CAS."
+     },
+     {
+      "id": 2254059,
+      "data": "2025-09-15 18:06:07",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Prazo para apresentação de emendas:\r\nPrimeiro dia: 16/09/2025.\r\nÚltimo dia: 22/09/2025."
+     },
+     {
+      "id": 2255680,
+      "data": "2025-09-23 19:28:27",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Não foram oferecidas emendas no prazo regimental.\r\nMatéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2259585,
+      "data": "2025-10-21 11:28:12",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Distribuído ao Senador Fernando Dueire, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2279239,
+      "data": "2026-03-24 16:07:28",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Recebido o relatório do senador Fernando Dueire, com voto pela aprovação do Projeto e de uma emenda que apresenta.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10187531,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF269484084230",
+        "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4425, de 2025, da Senadora Dra. Eudócia, que Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2026-03-24T16:37:44",
+        "autoria": "Senador Fernando Dueire (MDB/PE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/463da430-c31c-4cc8-8b4b-367990020da2"
+       }
+      ]
+     },
+     {
+      "id": 2279350,
+      "data": "2026-03-25 12:04:03",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Na 10ª Reunião, extraordinária, realizada nesta data, a matéria é incluída extrapauta.\r\nA Comissão de Assuntos Sociais aprova o Projeto e a Emenda nº 1-CAS, relatados pelo Senador Fernando Dueire. \r\nAnexado o Texto Final do Projeto de Lei nº 4425, de 2025. \r\nAnexado o Ofício nº 12/2026-CAS, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e publicação no Diário do Senado Federal (art. 91, § 2º c/c art. 92 do RISF).",
+      "idSituacaoIniciada": 146,
+      "siglaSituacaoIniciada": "APRCD(DT)",
+      "documentosAssociados": [
+       {
+        "id": 10188741,
+        "tipo": "Projeto de Lei Ordinária",
+        "siglaTipo": "PROJETO_LEI_ORDINARIA",
+        "identificacao": "Texto final da Comissão - Projeto de Lei Ordinária - SF264727222625",
+        "descricao": "Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2026-03-25T00:00:00",
+        "autoria": "Senador",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/edcf15a0-3be6-4cc7-992c-cbe1d9c777d3"
+       },
+       {
+        "id": 10188913,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 22/2026 - CAS",
+        "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4425, de 2025, da Senadora Dra. Eudócia, que Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2026-03-25T00:00:00",
+        "autoria": "Comissão de Assuntos Sociais, Senador Fernando Dueire (MDB/PE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ceb33e06-7a5e-4d89-a65a-002075d3ed67"
+       },
+       {
+        "id": 10188700,
+        "tipo": "Ofício",
+        "siglaTipo": "OFICIO",
+        "identificacao": "Ofício - SF267122211371",
+        "descricao": "Ofício n. 12 CAS comunica aprovação terminativa com emenda.",
+        "data": "2026-03-25T00:00:00",
+        "autoria": "Presidente de Comissão",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c6d6d7ab-ec16-4da3-b013-c473367512a3"
+       }
+      ]
+     },
+     {
+      "id": 2279431,
+      "data": "2026-03-25 17:04:24",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Encerrada a relatoria do Senador Fernando Dueire por deliberação da matéria."
+     },
+     {
+      "id": 2279499,
+      "data": "2026-03-25 18:55:47",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encaminhado à publicação o Ofício nº 12, de 2026, da Comissão de Assuntos Sociais, comunicando a apreciação da matéria, em caráter terminativo. \r\nConcluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para interposição de recurso, por um décimo dos membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do Regimento Interno.",
+      "idSituacaoIniciada": 12,
+      "siglaSituacaoIniciada": "AGINR"
+     },
+     {
+      "id": 2279509,
+      "data": "2026-03-25 20:02:31",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 26/03/2026 a 01/04/2026. Perante a Mesa."
+     },
+     {
+      "id": 2280217,
+      "data": "2026-04-01 11:10:39",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido o Recurso nº 2/2026, sendo primeiro signatário o Senador Luis Carlos Heinze, para que a matéria seja submetida ao Plenário.",
+      "documentosAssociados": [
+       {
+        "id": 10194654,
+        "tipo": "Recurso",
+        "siglaTipo": "RECURSO",
+        "identificacao": "R.S 2/2026",
+        "descricao": "Recorre da decisão terminativa da Comissão de Assuntos Sociais sobre o Projeto de Lei nº 4.425, de 2025.",
+        "data": "2026-04-01T11:08:29",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Sergio Moro (PL/PR), Senador Jorge Kajuru (PSB/GO), Senador Astronauta Marcos Pontes (PL/SP), Senador Oriovisto Guimarães (PSDB/PR), Senador Esperidião Amin (PP/SC), Senador Laércio Oliveira (PP/SE), Senador Wellington Fagundes (PL/MT), Senador Cleitinho (REPUBLICANOS/MG), Senador Zequinha Marinho (PODEMOS/PA), Senadora Margareth Buzetti (PP/MT), Senadora Tereza Cristina (PP/MS), Senador Jayme Campos (UNIÃO/MT), Senador Wilder Morais (PL/GO)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f022920c-bc54-4631-b0c3-0757aea91231"
+       }
+      ]
+     },
+     {
+      "id": 2280577,
+      "data": "2026-04-06 16:29:52",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encerrou-se - em 1º de abril de 2026 - o prazo para interposição de recurso para apreciação, pelo Plenário, do Projeto de Lei nº 4.425, de 2025.\r\nEncaminhado à publicação o Recurso nº 2, de 2026. \r\nA matéria fica sobre a Mesa durante cinco dias úteis para recebimento de emendas, nos termos do art. 235, II, \"c\", do Regimento Interno do Senado.",
+      "idSituacaoIniciada": 88,
+      "siglaSituacaoIniciada": "AGREMESA"
+     },
+     {
+      "id": 2280567,
+      "data": "2026-04-06 16:38:25",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Prazo: Apresentação de Emendas a projeto apreciado por Comissão em caráter terminativo, quando há recurso (Art. 235, II, \"c\", do RISF). De 07/04/2026 a 13/04/2026. Perante a Mesa."
+     },
+     {
+      "id": 2281955,
+      "data": "2026-04-13 19:03:05",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebidas as Emendas nºs 2 a 4 do Senador Luis Carlos Heinze.",
+      "documentosAssociados": [
+       {
+        "id": 10203563,
+        "tipo": "Emenda",
+        "siglaTipo": "EMENDA",
+        "identificacao": "EMENDA 2 PLEN - PL 4425/2025",
+        "descricao": "Emenda 02 ao PL 4425/2025",
+        "data": "2026-04-13T18:50:35",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bc19a2eb-42dc-4feb-b19b-d1b16545c51a"
+       },
+       {
+        "id": 10203607,
+        "tipo": "Emenda",
+        "siglaTipo": "EMENDA",
+        "identificacao": "EMENDA 3 PLEN - PL 4425/2025",
+        "descricao": "Emenda 03 ao PL 4425/2025",
+        "data": "2026-04-13T18:50:46",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/94570766-b9eb-47ff-8f0d-80b0fbf17c9d"
+       },
+       {
+        "id": 10203611,
+        "tipo": "Emenda",
+        "siglaTipo": "EMENDA",
+        "identificacao": "EMENDA 4 PLEN - PL 4425/2025",
+        "descricao": "Emenda 04 ao PL 4425/2025",
+        "data": "2026-04-13T18:50:58",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ea2f50ac-c9d9-480e-b9ee-dd855dde80a4"
+       }
+      ]
+     },
+     {
+      "id": 2282099,
+      "data": "2026-04-14 13:07:37",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encerrou-se em 13 de abril de 2026 o prazo para apresentação de emendas ao Projeto de Lei nº 4.425, de 2025. \r\nEncaminhadas à publicação as Emendas nºs 2 a 4. \r\nA matéria retorna à de Comissão de Assuntos Sociais, para exame das emendas.",
+      "idSituacaoIniciada": 177,
+      "siglaSituacaoIniciada": "MATDESP"
+     },
+     {
+      "id": 2282164,
+      "data": "2026-04-14 14:47:33",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Matéria aguardando distribuição.",
+      "idSituacaoIniciada": 87,
+      "siglaSituacaoIniciada": "AGDREL"
+     },
+     {
+      "id": 2283265,
+      "data": "2026-04-22 12:09:17",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Distribuído ao Senador Fernando Dueire, para emitir relatório.",
+      "idSituacaoIniciada": 91,
+      "siglaSituacaoIniciada": "RELATOR"
+     },
+     {
+      "id": 2283967,
+      "data": "2026-04-30 13:10:33",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Recebido o relatório do senador Fernando Dueire, com voto favorável à Emenda nº 4-PLEN, nos termos de subemenda que apresenta à Emenda nº 1-CAS, e contrário às Emendas nº 2-PLEN e 3-PLEN.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT",
+      "documentosAssociados": [
+       {
+        "id": 10213201,
+        "tipo": "Relatório Legislativo",
+        "siglaTipo": "RELATORIO",
+        "identificacao": "Relatório Legislativo - SF267492065310",
+        "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4425, de 2025, da Senadora Dra. Eudócia, que Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2026-04-30T16:24:57",
+        "autoria": "Senador Fernando Dueire (PSD/PE)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/893429c2-6250-4177-9238-ae14556a730d"
+       }
+      ]
+     },
+     {
+      "id": 2287714,
+      "data": "2026-05-22 15:04:20",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Emenda(s) de Plenário à matéria constantes da Pauta da 28ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 27/05/2026.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2287993,
+      "data": "2026-05-26 16:41:52",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Matéria não apreciada, em razão do cancelamento da 28ª reunião da Comissão.",
+      "idSituacaoIniciada": 42,
+      "siglaSituacaoIniciada": "PRONTPAUT"
+     },
+     {
+      "id": 2289443,
+      "data": "2026-06-03 17:54:37",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Emenda(s) de Plenário à matéria constantes da Pauta da 32ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 10/06/2026.",
+      "idSituacaoIniciada": 138,
+      "siglaSituacaoIniciada": "INPAUTA"
+     },
+     {
+      "id": 2290341,
+      "data": "2026-06-10 09:50:58",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Na 32ª Reunião, extraordinária, realizada nesta data, a Comissão de Assuntos Sociais aprova o relatório do senador Fernando Dueire, que passa a constituir o parecer da CAS, favorável à Emenda nº 4-PLEN, nos termos da Subemenda nº 1-CAS à Emenda nº 1-CAS, e contrário às Emendas nº 2-PLEN e 3-PLEN. A Comissão aprova, ainda, a apresentação ao Plenário do Senado do Requerimento nº 67, de 2026-CAS, de urgência para a matéria.",
+      "idSituacaoIniciada": 89,
+      "siglaSituacaoIniciada": "APRVPAR",
+      "documentosAssociados": [
+       {
+        "id": 10242193,
+        "tipo": "Requerimento",
+        "siglaTipo": "REQUERIMENTO",
+        "identificacao": "REQ 67/2026 - CAS",
+        "descricao": "Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 4425/2025, que “altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados”.",
+        "data": "2026-06-10T00:00:00",
+        "autoria": "Comissão de Assuntos Sociais",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d0e93bda-6e74-4fe0-9c8b-aeb117e27398"
+       },
+       {
+        "id": 10242222,
+        "tipo": "Parecer",
+        "siglaTipo": "PARECER",
+        "identificacao": "P.S 42/2026 - CAS",
+        "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4425, de 2025, da Senadora Dra. Eudócia, que Altera a Lei nº 11.346, de 15 de setembro de 2006, que Cria o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN e dá outras providências, para dispor sobre a alimentação adequada e saudável aos indivíduos hospitalizados.",
+        "data": "2026-06-10T00:00:00",
+        "autoria": "Comissão de Assuntos Sociais",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/80f5156f-2144-43b7-b255-2f5db6b75df8"
+       }
+      ]
+     },
+     {
+      "id": 2290743,
+      "data": "2026-06-10 17:12:48",
+      "colegiado": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      },
+      "enteAdministrativo": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "descricao": "Encerrada a relatoria do Senador Fernando Dueire por deliberação da matéria."
+     },
+     {
+      "id": 2290787,
+      "data": "2026-06-10 19:33:24",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "Encaminhado à publicação o Requerimento nº 67, de 2026, de iniciativa da Comissão de Assuntos Sociais, que solicita urgência para o Projeto de Lei nº 4.425, de 2025, nos termos do art. 336, II, combinado com o art. 338, IV, ambos do Regimento Interno. \r\nO requerimento será incluído em Ordem do Dia, oportunamente. \r\nConcluída a instrução da matéria, o Projeto de Lei aguardará inclusão em Ordem do Dia oportunamente.",
+      "idSituacaoIniciada": 8,
+      "siglaSituacaoIniciada": "PRONDEPLEN"
+     },
+     {
+      "id": 2290793,
+      "data": "2026-06-10 19:48:19",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Aguardando inclusão em Ordem do Dia.\r\nDiscussão, em turno único.\r\n\r\n(Apresentado o Requerimento nº 67, de 2026, de iniciativa da Comissão de Assuntos Sociais, que solicita urgência para o Projeto de Lei nº 4.425, de 2025, nos termos do art. 336, II, combinado com o art. 338, IV, ambos do Regimento Interno.)"
+     },
+     {
+      "id": 2291385,
+      "data": "2026-06-15 10:41:45",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido o Requerimento nº 460, de 2026, do Senador Luis Carlos Heinze, de oitiva da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor.",
+      "documentosAssociados": [
+       {
+        "id": 10245912,
+        "tipo": "Requerimento",
+        "siglaTipo": "REQUERIMENTO",
+        "identificacao": "RQS 460/2026",
+        "descricao": "Requer a oitiva da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor sobre o Projeto de Lei nº 4.425/2025.",
+        "data": "2026-06-15T10:37:03",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/05afee15-a524-46e3-b8ba-cd598cce616c"
+       }
+      ]
+     },
+     {
+      "id": 2291415,
+      "data": "2026-06-15 10:59:10",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Aguardando inclusão em Ordem do Dia.\r\nDiscussão, em turno único.\r\n\r\n(Apresentados os Requerimentos nºs 67, de 2026, de iniciativa da Comissão de Assuntos Sociais, que solicita urgência para o Projeto de Lei nº 4.425, de 2025, nos termos do art. 336, II, combinado com o art. 338, IV, ambos do Regimento Interno; e 460, de 2026, do Senador Luis Carlos Heinze, que solicita a oitiva da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor sobre o Projeto de Lei nº 4.425, de 2025.)"
+     },
+     {
+      "id": 2291416,
+      "data": "2026-06-15 11:22:26",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "descricao": "O Requerimento nº 460, de 2026, de oitiva da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor para o presente projeto, vai à publicação e será incluído em Ordem do Dia, oportunamente."
+     },
+     {
+      "id": 2307175,
+      "data": "2026-08-13 13:08:39",
+      "colegiado": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      },
+      "enteAdministrativo": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "descricao": "Recebido, em 05/05/2026, o Requerimento nº 351, de 2026, do Senador Luis Carlos Heinze, de oitiva da Comissão de Assuntos Econômicos.",
+      "documentosAssociados": [
+       {
+        "id": 10214909,
+        "tipo": "Requerimento",
+        "siglaTipo": "REQUERIMENTO",
+        "identificacao": "RQS 351/2026",
+        "descricao": "Requer a oitiva da Comissão de Assuntos Econômicos sobre o Projeto de Lei nº 4.425/2025.",
+        "data": "2026-05-05T18:56:21",
+        "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+        "url": "http://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/07c293da-77b7-4eab-892b-d3eb2d80588e"
+       }
+      ]
+     }
+    ],
+    "movimentacoes": [
+     {
+      "id": 10052361,
+      "dataEnvio": "2025-09-15 16:17:18",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2025-09-15 17:17:21",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10052620,
+      "dataEnvio": "2025-09-15 17:54:52",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2025-09-15 18:06:03",
+      "enteDestino": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "colegiadoDestino": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "id": 10189893,
+      "dataEnvio": "2026-03-25 17:26:08",
+      "enteOrigem": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "dataRecebimento": "2026-03-25 18:06:54",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10190201,
+      "dataEnvio": "2026-03-25 18:14:03",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-03-25 18:55:20",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10190726,
+      "dataEnvio": "2026-03-25 20:03:08",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-03-26 11:01:14",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10192661,
+      "dataEnvio": "2026-03-30 08:00:42",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-03-30 08:07:15",
+      "enteDestino": {
+       "id": 7359809,
+       "casa": "SF",
+       "sigla": "NRELE",
+       "nome": "Núcleo de Redação Legislativa"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10194639,
+      "dataEnvio": "2026-04-01 11:01:28",
+      "enteOrigem": {
+       "id": 7359809,
+       "casa": "SF",
+       "sigla": "NRELE",
+       "nome": "Núcleo de Redação Legislativa"
+      },
+      "dataRecebimento": "2026-04-01 11:08:08",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10195446,
+      "dataEnvio": "2026-04-06 09:49:43",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-04-06 16:29:49",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10195979,
+      "dataEnvio": "2026-04-06 16:49:51",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-04-06 18:13:06",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10204106,
+      "dataEnvio": "2026-04-14 11:12:02",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-04-14 13:07:20",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10204300,
+      "dataEnvio": "2026-04-14 13:12:11",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-04-14 14:47:28",
+      "enteDestino": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "colegiadoDestino": {
+       "codigo": 40,
+       "casa": "SF",
+       "sigla": "CAS",
+       "nome": "Comissão de Assuntos Sociais"
+      }
+     },
+     {
+      "id": 10243555,
+      "dataEnvio": "2026-06-10 18:08:41",
+      "enteOrigem": {
+       "id": 55313,
+       "casa": "SF",
+       "sigla": "SACAS",
+       "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+      },
+      "dataRecebimento": "2026-06-10 18:19:48",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10243435,
+      "dataEnvio": "2026-06-10 18:19:58",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-06-10 19:33:07",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10243484,
+      "dataEnvio": "2026-06-10 19:35:50",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-06-10 19:46:39",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     },
+     {
+      "id": 10245959,
+      "dataEnvio": "2026-06-15 11:12:29",
+      "enteOrigem": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "dataRecebimento": "2026-06-15 11:22:09",
+      "enteDestino": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "colegiadoDestino": {}
+     },
+     {
+      "id": 10245993,
+      "dataEnvio": "2026-06-15 11:40:05",
+      "enteOrigem": {
+       "id": 13594,
+       "casa": "SF",
+       "sigla": "SEADI",
+       "nome": "Secretaria de Atas e Diários"
+      },
+      "dataRecebimento": "2026-06-15 12:17:35",
+      "enteDestino": {
+       "id": 55312,
+       "casa": "SF",
+       "sigla": "SLSF",
+       "nome": "Secretaria Legislativa do Senado Federal"
+      },
+      "colegiadoDestino": {
+       "codigo": 1998,
+       "casa": "SF",
+       "sigla": "PLEN",
+       "nome": "Plenário do Senado Federal"
+      }
+     }
+    ]
+   }
+  ],
+  "deliberacao": {},
+  "normaGerada": {},
+  "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+  "dthUltimaAtualizacao": "2026-08-27T02:27:40.725000"
+ }
+}

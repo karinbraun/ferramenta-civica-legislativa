@@ -1,0 +1,4611 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/plenario/votacao/orientacaoBancada/20251101/20251130.json",
+ "requisitado_em_utc": "2026-10-27T00:38:28+00:00",
+ "status_http": 200,
+ "resposta": {
+  "votacoes": [
+   {
+    "codigoVotacaoSve": 11989,
+    "sequencialVotacao": 4334,
+    "descricaoVotacao": "Escolha do Senhor Severino Medeiros Ramos Neto, para exercer o cargo de Diretor da Agência Nacional de Transportes Terrestres - ANTT, na vaga decorrente da posse do Senhor Guilherme Theo Rodrigues da Rocha Sampaio no cargo de Diretor-Geral da ANTT.",
+    "dataInicioVotacao": "2025-11-12T16:47:51",
+    "dataTerminoVotacao": "2025-11-12T17:18:37",
+    "siglaTipoMateria": "MSF",
+    "descricaoMateria": "Mensagem nº 78, de 2025 - Severino Medeiros Ramos Neto (ANTT)",
+    "numeroMateria": 78,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 55,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 67,
+    "quorumFinal": 71,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Fernando Dueire",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Izalci Lucas",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Ciro Nogueira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Humberto Costa",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Eduardo Gomes",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Rogério Marinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Fabiano Contarato",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Zenaide Maia",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11987,
+    "sequencialVotacao": 4335,
+    "descricaoVotacao": "Escolha da Senhora Renata Lúcia Medeiros de Albuquerque Emerenciano, para exercer o cargo de Ouvidora da Agência Nacional de Águas e Saneamento Básico - ANA, na vaga decorrente do término do mandato de Ricardo Medeiros de Andrade.",
+    "dataInicioVotacao": "2025-11-12T17:20:39",
+    "dataTerminoVotacao": "2025-11-12T17:31:22",
+    "siglaTipoMateria": "MSF",
+    "descricaoMateria": "Mensagem nº 67, de 2025 - Renata Lúcia Medeiros de Albuquerque Emerenciano (ANA)",
+    "numeroMateria": 67,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 58,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 1,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 71,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Fernando Dueire",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Rogério Marinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Eduardo Gomes",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Zenaide Maia",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Fabiano Contarato",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Izalci Lucas",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11977,
+    "sequencialVotacao": 4336,
+    "descricaoVotacao": "Indicação do Senhor Paulo Gustavo Gonet Branco, para ser reconduzido ao cargo de Procurador-Geral da República.",
+    "dataInicioVotacao": "2025-11-12T18:07:00",
+    "dataTerminoVotacao": "2025-11-12T18:23:17",
+    "siglaTipoMateria": "MSF",
+    "descricaoMateria": "Mensagem nº 60, de 2025 - Paulo Gustavo Gonet Branco (PGR)",
+    "numeroMateria": 60,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 45,
+    "qtdVotosNao": 26,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Izalci Lucas",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Fernando Dueire",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Sergio Moro",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Ciro Nogueira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Fabiano Contarato",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Wilder Morais",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Humberto Costa",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Zenaide Maia",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Eduardo Gomes",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Rogério Marinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11981,
+    "sequencialVotacao": 4337,
+    "descricaoVotacao": "Indicação da Senhora Jaceguara Dantas da Silva, para compor o Conselho Nacional de Justiça - CNJ, na vaga destinada ao Supremo Tribunal Federal.",
+    "dataInicioVotacao": "2025-11-12T18:25:40",
+    "dataTerminoVotacao": "2025-11-12T18:32:13",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 11, de 2025 - Jaceguara Dantas da Silva (CNJ)",
+    "numeroMateria": 11,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 53,
+    "qtdVotosNao": 6,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Fabiano Contarato",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Zenaide Maia",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Wilder Morais",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11985,
+    "sequencialVotacao": 4338,
+    "descricaoVotacao": "Indicação da Senhora Daiane Nogueira de Lira, para compor o Conselho Nacional de Justiça - CNJ, na vaga destinada à Câmara dos Deputados.",
+    "dataInicioVotacao": "2025-11-12T18:33:08",
+    "dataTerminoVotacao": "2025-11-12T18:42:16",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 14, de 2025 - Daiane Nogueira de Lira (CNJ)",
+    "numeroMateria": 14,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 57,
+    "qtdVotosNao": 2,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Fernando Dueire",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Humberto Costa",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11980,
+    "sequencialVotacao": 4339,
+    "descricaoVotacao": "Indicação do Senhor Gustavo Afonso Sabóia Vieira, para compor o Conselho Nacional do Ministério Público - CNMP, na vaga destinada ao Senado Federal.",
+    "dataInicioVotacao": "2025-11-12T18:43:10",
+    "dataTerminoVotacao": "2025-11-12T18:48:52",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 10, de 2025 - Gustavo Afonso Sabóia Vieira (CNMP)",
+    "numeroMateria": 10,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 60,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Fernando Dueire",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11983,
+    "sequencialVotacao": 4340,
+    "descricaoVotacao": "Indicação do Senhor Fabio Francisco Esteves, para compor o Conselho Nacional de Justiça - CNJ, na vaga destinada ao Supremo Tribunal Federal.",
+    "dataInicioVotacao": "2025-11-12T18:50:03",
+    "dataTerminoVotacao": "2025-11-12T18:55:53",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 12, de 2025 - Fabio Francisco Esteves (CNJ)",
+    "numeroMateria": 12,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 55,
+    "qtdVotosNao": 4,
+    "qtdVotosAbstencao": 0,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Romário",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Rogério Marinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11986,
+    "sequencialVotacao": 4341,
+    "descricaoVotacao": "Indicação do Senhor Edvaldo Nilo de Almeida, para compor o Conselho Nacional do Ministério Público - CNMP, na vaga destinada à Câmara dos Deputados.",
+    "dataInicioVotacao": "2025-11-12T18:56:54",
+    "dataTerminoVotacao": "2025-11-12T19:01:33",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 15, de 2025 - Edvaldo Nilo de Almeida (CNMP)",
+    "numeroMateria": 15,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 54,
+    "qtdVotosNao": 3,
+    "qtdVotosAbstencao": 1,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Rogério Marinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Daniella Ribeiro",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11984,
+    "sequencialVotacao": 4342,
+    "descricaoVotacao": "Indicação do Senhor Thiago Roberto Morais Diaz, para compor o Conselho Nacional do Ministério Público - CNMP, na vaga destinada ao Conselho Federal da Ordem dos Advogados do Brasil.",
+    "dataInicioVotacao": "2025-11-12T19:02:29",
+    "dataTerminoVotacao": "2025-11-12T19:07:44",
+    "siglaTipoMateria": "OFS",
+    "descricaoMateria": "Ofício nº 13, de 2025 - Thiago Roberto Morais Diaz (CNMP)",
+    "numeroMateria": 13,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 53,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 1,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11978,
+    "sequencialVotacao": 4343,
+    "descricaoVotacao": "Indicação do General de Exército Anisio David de Oliveira Junior, para exercer o cargo de Ministro do Superior Tribunal Militar, na vaga decorrente da transferência para a inatividade do Ministro Marco Antônio de Farias.",
+    "dataInicioVotacao": "2025-11-12T19:08:43",
+    "dataTerminoVotacao": "2025-11-12T19:12:06",
+    "siglaTipoMateria": "MSF",
+    "descricaoMateria": "Mensagem nº 76, de 2025 - Anisio David de Oliveira Junior (STM)",
+    "numeroMateria": 76,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 53,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 1,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Sergio Moro",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Davi Alcolumbre",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RS"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 11979,
+    "sequencialVotacao": 4344,
+    "descricaoVotacao": "Indicação do General de Exército Flavio Marcus Lancia Barbosa, para exercer o cargo de Ministro do Superior Tribunal Militar, na vaga decorrente da transferência para a inatividade do Ministro Odilson Sampaio Benzi.",
+    "dataInicioVotacao": "2025-11-12T19:13:04",
+    "dataTerminoVotacao": "2025-11-12T19:18:25",
+    "siglaTipoMateria": "MSF",
+    "descricaoMateria": "Mensagem nº 77, de 2025 - Flavio Marcus Lancia Barbosa (STM)",
+    "numeroMateria": 77,
+    "anoMateria": 2025,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 167,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 50,
+    "qtdVotosNao": 1,
+    "qtdVotosAbstencao": 1,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 72,
+    "quorumFinal": 72,
+    "orientacoesLideranca": [],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Jaques Wagner",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Dra. Eudócia",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Weverton",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Tereza Cristina",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Marcos do Val",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Jader Barbalho",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Carlos Viana",
+      "partido": "Podemos",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Sergio Moro",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Efraim Filho",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SECRETO",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "SECRETO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SECRETO",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SECRETO",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SECRETO",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SECRETO",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SECRETO",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Prof. Dorinha Seabra",
+      "partido": "UNIÃO",
+      "voto": "SECRETO",
+      "uf": "TO"
+     }
+    ],
+    "votosLideranca": []
+   },
+   {
+    "codigoVotacaoSve": 12013,
+    "sequencialVotacao": 4345,
+    "descricaoVotacao": "Regulamenta a aposentadoria especial dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, estabelecida pelo § 10 do artigo 198 da Constituição Federal.",
+    "dataInicioVotacao": "2025-11-25T17:36:40",
+    "dataTerminoVotacao": "2025-11-25T18:20:37",
+    "siglaTipoMateria": "PLP",
+    "descricaoMateria": "Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres",
+    "numeroMateria": 185,
+    "anoMateria": 2024,
+    "dispositivo": null,
+    "descricaoSessao": "Sessão Deliberativa Ordinária, às 14 horas",
+    "tipoSessao": "Deliberativa Ordinária",
+    "numeroSessao": 175,
+    "presidenteSessao": "Davi Alcolumbre",
+    "qtdVotosSim": 57,
+    "qtdVotosNao": 0,
+    "qtdVotosAbstencao": 2,
+    "qtdObstrucoes": 0,
+    "quorumInicial": 61,
+    "quorumFinal": 63,
+    "orientacoesLideranca": [
+     {
+      "dataHora": "2025-11-25T17:46:26",
+      "partido": "PSB",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:39:53",
+      "partido": "PP",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:48:32",
+      "partido": "Oposição",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:46:41",
+      "partido": "Podemos",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:47:45",
+      "partido": "PSDB",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:39:04",
+      "partido": "MDB",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:49:40",
+      "partido": "Banc Fem",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:47:20",
+      "partido": "PDT",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:37:21",
+      "partido": "PL",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:37:57",
+      "partido": "PSD",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:42:24",
+      "partido": "UNIÃO",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:39:22",
+      "partido": "PT",
+      "voto": "SIM"
+     },
+     {
+      "dataHora": "2025-11-25T17:40:31",
+      "partido": "Republica",
+      "voto": "SIM"
+     }
+    ],
+    "votosParlamentar": [
+     {
+      "nomeParlamentar": "Damares Alves",
+      "partido": "Republica",
+      "voto": "SIM",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Flávio Bolsonaro",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Dr. Hiran",
+      "partido": "PP",
+      "voto": "SIM",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Humberto Costa",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Otto Alencar",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "BA"
+     },
+     {
+      "nomeParlamentar": "Cid Gomes",
+      "partido": "PSB",
+      "voto": "SIM",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Zequinha Marinho",
+      "partido": "Podemos",
+      "voto": "SIM",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Confúcio Moura",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Rogério Carvalho",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Soraya Thronicke",
+      "partido": "Podemos",
+      "voto": "SIM",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Hamilton Mourão",
+      "partido": "Republica",
+      "voto": "SIM",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Alan Rick",
+      "partido": "Republica",
+      "voto": "SIM",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Fabiano Contarato",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "ES"
+     },
+     {
+      "nomeParlamentar": "Eliziane Gama",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Rodrigo Pacheco",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Jaime Bagattoli",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Wellington Fagundes",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Plínio Valério",
+      "partido": "PSDB",
+      "voto": "SIM",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Renan Calheiros",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Izalci Lucas",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Alessandro Vieira",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Beto Faro",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "PA"
+     },
+     {
+      "nomeParlamentar": "Sérgio Petecão",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Styvenson Valentim",
+      "partido": "PSDB",
+      "voto": "SIM",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Esperidião Amin",
+      "partido": "PP",
+      "voto": "SIM",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "José Lacerda",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Fernando Farias",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "AL"
+     },
+     {
+      "nomeParlamentar": "Leila Barros",
+      "partido": "PDT",
+      "voto": "SIM",
+      "uf": "DF"
+     },
+     {
+      "nomeParlamentar": "Marcio Bittar",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "AC"
+     },
+     {
+      "nomeParlamentar": "Eduardo Braga",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Laércio Oliveira",
+      "partido": "PP",
+      "voto": "SIM",
+      "uf": "SE"
+     },
+     {
+      "nomeParlamentar": "Ivete da Silveira ",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Jorge Seif",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "SC"
+     },
+     {
+      "nomeParlamentar": "Omar Aziz",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "AM"
+     },
+     {
+      "nomeParlamentar": "Nelsinho Trad",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "MS"
+     },
+     {
+      "nomeParlamentar": "Jussara Lima",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Eduardo Girão",
+      "partido": "NOVO",
+      "voto": "ABSTENÇÃO",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Randolfe Rodrigues",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Marcos Rogério",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "RO"
+     },
+     {
+      "nomeParlamentar": "Sergio Moro",
+      "partido": "UNIÃO",
+      "voto": "SIM",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Cleitinho",
+      "partido": "Republica",
+      "voto": "SIM",
+      "uf": "MG"
+     },
+     {
+      "nomeParlamentar": "Veneziano Vital do Rêgo",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "PB"
+     },
+     {
+      "nomeParlamentar": "Luis Carlos Heinze",
+      "partido": "PP",
+      "voto": "SIM",
+      "uf": "RS"
+     },
+     {
+      "nomeParlamentar": "Oriovisto Guimarães",
+      "partido": "PSDB",
+      "voto": "ABSTENÇÃO",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Flávio Arns",
+      "partido": "PSB",
+      "voto": "SIM",
+      "uf": "PR"
+     },
+     {
+      "nomeParlamentar": "Mara Gabrilli",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "SP"
+     },
+     {
+      "nomeParlamentar": "Jorge Kajuru",
+      "partido": "PSB",
+      "voto": "SIM",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Wilder Morais",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "GO"
+     },
+     {
+      "nomeParlamentar": "Zenaide Maia",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "RN"
+     },
+     {
+      "nomeParlamentar": "Ana Paula Lobato",
+      "partido": "PDT",
+      "voto": "SIM",
+      "uf": "MA"
+     },
+     {
+      "nomeParlamentar": "Jayme Campos",
+      "partido": "UNIÃO",
+      "voto": "SIM",
+      "uf": "MT"
+     },
+     {
+      "nomeParlamentar": "Mecias de Jesus",
+      "partido": "Republica",
+      "voto": "SIM",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Teresa Leitão",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "PE"
+     },
+     {
+      "nomeParlamentar": "Augusta Brito",
+      "partido": "PT",
+      "voto": "SIM",
+      "uf": "CE"
+     },
+     {
+      "nomeParlamentar": "Carlos Portinho",
+      "partido": "PL",
+      "voto": "SIM",
+      "uf": "RJ"
+     },
+     {
+      "nomeParlamentar": "Marcelo Castro",
+      "partido": "MDB",
+      "voto": "SIM",
+      "uf": "PI"
+     },
+     {
+      "nomeParlamentar": "Chico Rodrigues",
+      "partido": "PSB",
+      "voto": "SIM",
+      "uf": "RR"
+     },
+     {
+      "nomeParlamentar": "Lucas Barreto",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "AP"
+     },
+     {
+      "nomeParlamentar": "Angelo Coronel",
+      "partido": "PSD",
+      "voto": "SIM",
+      "uf": "BA"
+     }
+    ],
+    "votosLideranca": []
+   }
+  ]
+ }
+}
