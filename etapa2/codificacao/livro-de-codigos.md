@@ -1,6 +1,6 @@
 # Livro de códigos — Etapa 2
 
-Versão 1.5 (27/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.6 (27/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
@@ -12,6 +12,7 @@ Versão 1.5 (27/10/2026). As alterações feitas depois do reteste são registra
 - **Saúde de grupos específicos:** uma proposta de serviço de saúde específico para um grupo (terapia hormonal, prevenção de ISTs, CAPS) vai para SAU. A menção genérica de "acesso à saúde" dentro de uma lista de direitos de um grupo vai para T44.
 - **Objetivo explícito de preço:** quando uma proposta de outro tema (por exemplo, assistência ou abastecimento) declara de forma explícita o objetivo de reduzir ou controlar preços ao consumidor, a unidade recebe IMP.PRECO. O outro tema é registrado só como presença.
 - **Incentivo tributário setorial:** isenções ou regimes tributários para um setor ou atividade específica (startups, datacenters, venture capital, games) vão para o tema do setor (T62, T66 etc.). Medidas tributárias gerais, ou para todos os pequenos e novos negócios, vão para IMP.TRIB.
+- **Forças Armadas e fronteira:** uma ação das Forças Armadas (ou na fronteira) com finalidade declarada de combate ao crime (tráfico, contrabando, facções) vai para SEG, com subcódigo CRIME, PREV ou FED. A capacidade de defesa (orçamento, soldo, equipamento, indústria de defesa), ou a fronteira sem finalidade criminal declarada, vai para T57-DEF.
 - **Repetição:** um conteúdo repetido no mesmo programa é codificado de novo e marcado "(rep.)". Conta para a contagem, mas não altera a presença.
 - **Exclusão mútua:** cada unidade recebe **um** código principal, o do objeto central da proposta. Quando uma unidade cobre dois temas de forma substantiva, ela é dividida em duas unidades.
 - **Codificação fina** (verbatim e subcódigo) só nos 3 temas da hipótese: SEG, IMP e SAU. Nos demais temas, registra-se só a presença, com as páginas.
@@ -116,3 +117,4 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 - v1.3 (27/10/2026), depois do reteste da rodada 1 (`reteste.md`): regra do objetivo explícito de preço.
 - v1.4 (27/10/2026), durante a codificação de PRTB/Marçal: regra do incentivo tributário setorial. Programas anteriores conferidos: nenhuma unidade muda de código.
 - v1.5 (27/10/2026), durante a codificação do PSTU: a regra da lei penal passa a incluir explicitamente a legalização de condutas, com marca de fronteira; nova regra para saúde de grupos específicos. Revisão no PCB: o aborto passou de T44 para SEG.PENAL (PCB-S14). PCO, DC e Marçal conferidos, sem mudanças.
+- v1.6 (27/10/2026), durante a codificação do DEMOCRATA: regra das Forças Armadas e da fronteira. Programas anteriores conferidos: PCB p. 13 (Forças Armadas nas fronteiras, sem finalidade criminal declarada) continua em T57; Marçal e DC (fronteira sob segurança, sem Forças Armadas) continuam em SEG.PREV.
