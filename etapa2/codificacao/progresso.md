@@ -11,7 +11,7 @@
 | 7 | Renan Santos (MISSÃO) | `programas/280002540694-renan-santos-MISSAO.md` | Concluído |
 | 8 | Zema (NOVO) | `programas/280002539826-zema-NOVO.md` | Concluído |
 | 9 | Samara (UP) | `programas/280002538811-samara-UP.md` | Concluído |
-| 10 | Leonardo Avalanche (PRTB) | — | Pendente |
+| 10 | Leonardo Avalanche (PRTB) | `programas/280002554479-leonardo-avalanche-PRTB.md` | Concluído |
 | 11 | Flavio Bolsonaro (PL) | — | Pendente |
 | 12 | Lula (PT) | — | Pendente |
 | 13 | Escritor Augusto Cury (AVANTE) | — | Pendente |
