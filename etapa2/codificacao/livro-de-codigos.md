@@ -1,6 +1,6 @@
 # Livro de códigos — Etapa 2
 
-Versão 1.4 (27/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.5 (27/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
@@ -8,7 +8,8 @@ Versão 1.4 (27/10/2026). As alterações feitas depois do reteste são registra
 - **Unidade de contexto:** a seção ou capítulo do programa, registrada junto com a página.
 - **Lista fragmentária:** quando os itens de uma lista não têm sentido isolado (por exemplo, "Inteligência sobre rotas e redes"), a unidade de registro é a subseção inteira: o título e os itens.
 - **Presença de um tema num programa:** pelo menos uma unidade programática sobre ele. Menção de passagem dentro de outra proposta, sem conteúdo próprio, não conta. Por exemplo, "destinar o petróleo à saúde e educação" conta para Energia, mas não para Saúde nem para Educação.
-- **Criação ou revogação de lei penal** (criminalizar, descriminalizar, mudar penas ou maioridade penal) vai para SEG.PENAL, mesmo quando a motivação é de outro tema. Exemplo: "Criminalização da misoginia".
+- **Criação ou revogação de lei penal** (criminalizar, descriminalizar, legalizar uma conduta hoje tipificada, mudar penas ou maioridade penal) vai para SEG.PENAL, mesmo quando a motivação é de outro tema. Exemplos: "Criminalização da misoginia"; "Legalização do aborto". Esses casos recebem a marca [fronteira], porque o mesmo conteúdo também se relaciona com T44 ou SAU. [INFERÊNCIA para o Polo 3] Como SEG incorpora o tema 43 da Câmara (Direito Penal), um rótulo como "segurança e combate ao crime" passa a abrigar temas de direitos e de saúde. Esse é um ponto a discutir na definição dos rótulos.
+- **Saúde de grupos específicos:** uma proposta de serviço de saúde específico para um grupo (terapia hormonal, prevenção de ISTs, CAPS) vai para SAU. A menção genérica de "acesso à saúde" dentro de uma lista de direitos de um grupo vai para T44.
 - **Objetivo explícito de preço:** quando uma proposta de outro tema (por exemplo, assistência ou abastecimento) declara de forma explícita o objetivo de reduzir ou controlar preços ao consumidor, a unidade recebe IMP.PRECO. O outro tema é registrado só como presença.
 - **Incentivo tributário setorial:** isenções ou regimes tributários para um setor ou atividade específica (startups, datacenters, venture capital, games) vão para o tema do setor (T62, T66 etc.). Medidas tributárias gerais, ou para todos os pequenos e novos negócios, vão para IMP.TRIB.
 - **Repetição:** um conteúdo repetido no mesmo programa é codificado de novo e marcado "(rep.)". Conta para a contagem, mas não altera a presença.
@@ -114,3 +115,4 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 - v1.2 (27/10/2026), durante a calibração com PCB: SEG.FED passa a incluir o paradigma e a arquitetura institucional; SAU.TEC passa a incluir pesquisa e produção (CEIS); regras de lei penal e de repetição. PCO e DC conferidos: nenhuma unidade muda de código.
 - v1.3 (27/10/2026), depois do reteste da rodada 1 (`reteste.md`): regra do objetivo explícito de preço.
 - v1.4 (27/10/2026), durante a codificação de PRTB/Marçal: regra do incentivo tributário setorial. Programas anteriores conferidos: nenhuma unidade muda de código.
+- v1.5 (27/10/2026), durante a codificação do PSTU: a regra da lei penal passa a incluir explicitamente a legalização de condutas, com marca de fronteira; nova regra para saúde de grupos específicos. Revisão no PCB: o aborto passou de T44 para SEG.PENAL (PCB-S14). PCO, DC e Marçal conferidos, sem mudanças.

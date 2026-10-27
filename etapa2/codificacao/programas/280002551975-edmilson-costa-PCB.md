@@ -1,6 +1,6 @@
 # Codificação — Edmilson Costa (PCB)
 
-Arquivo: `etapa2/corpus/pdf/2026BR280002551975_01.pdf` (16 páginas; texto em `etapa2/corpus/txt/2026BR280002551975_01.txt`). Livro de códigos v1.2. Codificado em 27/10/2026.
+Arquivo: `etapa2/corpus/pdf/2026BR280002551975_01.pdf` (16 páginas; texto em `etapa2/corpus/txt/2026BR280002551975_01.txt`). Livro de códigos v1.2; revisado em v1.5 (unidade PCB-S14). Codificado em 27/10/2026.
 
 Estrutura [PARÁFRASE]: introdução com a apresentação da chapa e a conjuntura (p. 1–3), "cinco grandes transformações estruturais" em prosa (p. 3–8) e "21 pontos da Plataforma Anticapitalista e Anti-imperialista" (p. 9–16). Vários conteúdos aparecem duas vezes, nas transformações e nos 21 pontos. Repetições são codificadas e marcadas como "(rep.)". Elas não alteram a presença, só a contagem. Nenhuma página está em imagem.
 
@@ -57,6 +57,7 @@ Total de temas presentes (contando SEG, IMP e SAU): 27.
 | PCB-S11 | 12 | Ponto 13 | "Implementação da política de cotas raciais em todos os concursos públicos federais e estaduais das forças de segurança." | SEG.POL |
 | PCB-S12 | 12 | Ponto 13 | "Descriminalização do uso de drogas, com legalização da maconha a curto prazo." | SEG.PENAL |
 | PCB-S13 | 12–13 | Ponto 13 | "Ocupação dos territórios dominados pelo crime organizado com centros culturais, escolas públicas de qualidade, unidades de saúde, faculdades públicas, saneamento básico, internet e energia, e demais serviços públicos." | SEG.PREV |
+| PCB-S14 | 11 | Ponto 10 · Combate às opressões | "Legalização do aborto, com garantia de atendimento na rede pública de saúde" | SEG.PENAL [fronteira T44/SAU] |
 
 Inconsistência no próprio texto, registrada sem correção: PCB-S4 chama a Lei 12.850/2013 de "lei antiterrorismo". [INFERÊNCIA, a confirmar na fonte oficial] O número citado parece ser o da lei sobre organizações criminosas, e não o da lei antiterrorismo. O verbatim fica como está, e a divergência deve ser verificada antes de qualquer uso.
 
@@ -99,7 +100,7 @@ Não codificado como IMP:
 | PCB-H14 | 10 | Ponto 5 | "Criação dos Conselhos Populares de Saúde" | SAU.FIN (rep. de H5) |
 | PCB-H15 | 14 | Ponto 17 · Direitos sociais | "fortalecimento e a expansão dos Caps" | SAU.ESP |
 
-Não codificado como SAU: "Legalização do aborto, com garantia de atendimento na rede pública de saúde" (p. 11, ponto 10) vai para T44-DH, porque o objeto central é a mudança legal, dentro do ponto sobre opressões e mulheres. É um caso de fronteira, a observar no reteste. Também não codificados: "acesso a saúde pública" para a população trans (p. 11) e "Campanhas de saúde acessíveis" para pessoas com deficiência (p. 12), ambos em T44-DH.
+Revisão em v1.5: "Legalização do aborto, com garantia de atendimento na rede pública de saúde" (p. 11) passou de T44 para SEG.PENAL (unidade PCB-S14), pela regra da lei penal, para manter a consistência com PSTU. Não codificados como SAU: "acesso a saúde pública" para a população trans (p. 11) e "Campanhas de saúde acessíveis" para pessoas com deficiência (p. 12), ambos em T44-DH.
 
 ## Vocabulário dos temas da hipótese [PARÁFRASE]
 
@@ -107,4 +108,4 @@ Não codificado como SAU: "Legalização do aborto, com garantia de atendimento 
 - **IMP:** "reforma tributária", "impostos progressivos", "tributação sobre o consumo", "grandes fortunas", "preço dos alimentos", "cesta básica", "combustíveis, gás de cozinha". A expressão "custo de vida" não aparece. O mais próximo é "poder de compra", ligado a salário.
 - **SAU:** "saúde 100% pública", "SUS forte, público, gratuito", "atenção primária", "Complexo Econômico-Industrial da Saúde".
 
-Contagem: SEG 13 (1 repetição), IMP 6 (1 repetição), SAU 15 (3 repetições).
+Contagem: SEG 14 (1 repetição), IMP 6 (1 repetição), SAU 15 (3 repetições).
