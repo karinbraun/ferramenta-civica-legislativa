@@ -8,7 +8,7 @@
 | 4 | Pablo Marçal (PRTB) | `programas/280002553884-pablo-marcal-PRTB.md` | Concluído |
 | 5 | Hertz Dias (PSTU) | `programas/280002541457-hertz-dias-PSTU.md` | Concluído |
 | 6 | Veterinário Wilson Grassi (DEMOCRATA) | `programas/280002548139-wilson-grassi-DEMOCRATA.md` | Concluído |
-| 7 | Renan Santos (MISSÃO) | — | Pendente |
+| 7 | Renan Santos (MISSÃO) | `programas/280002540694-renan-santos-MISSAO.md` | Concluído |
 | 8 | Zema (NOVO) | — | Pendente |
 | 9 | Samara (UP) | — | Pendente |
 | 10 | Leonardo Avalanche (PRTB) | — | Pendente |
