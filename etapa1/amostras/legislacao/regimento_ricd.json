@@ -1,0 +1,72 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/legislacao/rcd/17/1989",
+ "requisitado_em_utc": "2026-10-27T14:52:24+00:00",
+ "status_http": 200,
+ "content_type": "application/json",
+ "resposta": {
+  "DetalheDocumento": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd",
+   "Metadados": {
+    "Versao": "27/10/2026 11:50:26",
+    "VersaoServico": "3",
+    "DataVersaoServico": "2017-02-01",
+    "DescricaoDataSet": "Obtém detalhes da Norma por meio do tipo/número/ano ou data de assinatura/sequencial."
+   },
+   "documentos": {
+    "documento": [
+     {
+      "id": "559559",
+      "identificacao": {
+       "tipo": "RCD",
+       "descricao": "Resolução da Câmara dos Deputados",
+       "numero": "17",
+       "norma": "RCD-17-1989-09-21",
+       "normaNome": "Resolução da Câmara dos Deputados nº 17 de 21/09/1989",
+       "dataassinatura": "21/09/1989",
+       "apelido": "RCD-17-1989-09-21",
+       "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:camara.deputados:resolucao:1989-09-21;17"
+      },
+      "publicacoes": {
+       "publicacao": [
+        {
+         "id": "14252031",
+         "tipo": "PUB",
+         "fonte": "Diário Oficial da União  de 22/09/1989",
+         "siglaFonte": "DOU-1989-09-22",
+         "data": "22/09/1989",
+         "pagina": "3",
+         "coluna": "1",
+         "dispositivo": "Publicação Original   [Diário Oficial da União  de 22/09/1989] (p. 3, col. 1)",
+         "temTexto": "S"
+        }
+       ]
+      },
+      "vides": "",
+      "edivs": "",
+      "disps": "",
+      "ementa": "APROVA O REGIMENTO INTERNO DA CAMARA DOS DEPUTADOS.",
+      "catalogo": {
+       "frase": [
+        " CAMARA DOS DEPUTADOS ,  REGIMENTO INTERNO ."
+       ]
+      },
+      "indexacao": {
+       "frase": [
+        " NORMAS ,  POSSE ,  DEPUTADOS ,  ELEIÇÃO ,  MESA DIRETORA ,  LIDERANÇA ,  CAMARA DOS DEPUTADOS .",
+        " LOCALIZAÇÃO ,  SEDE ,  CAMARA DOS DEPUTADOS ,  CAPITAL FEDERAL ,  BRASILIA (DF) ,  DISTRITO FEDERAL (DF) .",
+        " NORMAS ,  BLOCO PARLAMENTAR ,  MAIORIA ,  MINORIA ,  CAMARA DOS DEPUTADOS .",
+        " NORMAS ,  COMPOSIÇÃO ,  COMISSÃO EXTERNA ,  CAMARA DOS DEPUTADOS .",
+        " NORMAS ,  COMPOSIÇÃO ,  COMISSÃO PARLAMENTAR DE INQUERITO (CPI) ,  CAMARA DOS DEPUTADOS .",
+        " NORMAS ,  SESSÃO PUBLICA ,  CAMARA DOS DEPUTADOS .",
+        " APROVAÇÃO ,  REGIMENTO INTERNO ,  CAMARA DOS DEPUTADOS .",
+        " COMPOSIÇÃO ,  ORGÃOS ,  CAMARA DOS DEPUTADOS .",
+        " NORMAS ,  SESSÃO ,  LEGISLATIVO ,  CAMARA DOS DEPUTADOS ."
+       ]
+      },
+      "classes": ""
+     }
+    ]
+   }
+  }
+ }
+}

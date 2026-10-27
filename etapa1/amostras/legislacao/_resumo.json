@@ -1,0 +1,241 @@
+{
+ "executado_em_utc": "2026-10-27T14:52:06+00:00",
+ "lexml": {
+  "url": "https://www.lexml.gov.br/busca/SRU?operation=searchRetrieve&version=1.1&maximumRecords=3&query=urn%3D%22urn%3Alex%3Abr%3Afederal%3Alei%3A1990-09-19%3B8080%22",
+  "status_http": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "pagina_de_verificacao": true,
+  "resposta_sru": false
+ },
+ "leis": {
+  "lei_8080_1990_saude": {
+   "norma": "Lei nº 8.080 de 19/09/1990",
+   "apelido": "LEI-8080-1990-09-19 , Lei Orgânica da Saúde (1990)",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-19;8080",
+   "ementa": "Dispõe sobre as condições para promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências.",
+   "classes": {
+    "classe": "Classificação Temática Unificada / Política Social / Saúde"
+   },
+   "observacao": "AUTOR: EXECUTIVO - PL. 3110 DE 1989.",
+   "n_vides": 43,
+   "tipos_declaracao": [
+    [
+     "Declaração de Alteração Permanente",
+     31
+    ],
+    [
+     "Declaração de Legislação Correlata",
+     6
+    ],
+    [
+     "Declaração de Regulamentação Permanente de Norma",
+     4
+    ],
+    [
+     "Declaração de Alteração Provisória",
+     2
+    ]
+   ],
+   "revogacoes_no_todo": []
+  },
+  "lei_8666_1993_revogada": {
+   "norma": "Lei nº 8.666 de 21/06/1993",
+   "apelido": "LEI-8666-1993-06-21 , Lei de Licitações e Contratos (1993)",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-06-21;8666",
+   "ementa": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências.",
+   "classes": "",
+   "observacao": "REPUBLICADA POR DETERMINAÇÃO DO ARTIGO 3 DA LEI 8.883, DE 8 DE JUNHO DE 1994. AUTOR: DEPUTADO LUIZ ROBERTO PONTE (PMDB/RS) - PL. 1491 DE 1991.\n\nEM ACÓRDÃO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 1923, A CORTE DETERMINOU A INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO AO ARTIGO 24, INCISO XXIV.",
+   "n_vides": 159,
+   "tipos_declaracao": [
+    [
+     "Declaração de Alteração Provisória",
+     57
+    ],
+    [
+     "Declaração de Legislação Correlata",
+     38
+    ],
+    [
+     "Declaração de Alteração Permanente",
+     38
+    ],
+    [
+     "Declaração de Regulamentação Permanente de Norma",
+     18
+    ],
+    [
+     "Declaração de Ressalva Permanente da Norma no todo",
+     4
+    ],
+    [
+     "Declaração de Ressalva Provisória da Norma no Todo",
+     2
+    ],
+    [
+     "Declaração de Novo Tratamento Permanente da Matéria",
+     1
+    ],
+    [
+     "Declaração de Revogação Permanente da Norma no Todo",
+     1
+    ]
+   ],
+   "revogacoes_no_todo": [
+    {
+     "norma": "Lei nº 14.133 de 01/04/2021",
+     "declaracao": "Declaração de Revogação Permanente da Norma no Todo",
+     "data_assinatura": "01/04/2021"
+    }
+   ]
+  },
+  "lei_13675_2018_seguranca": {
+   "norma": "Lei nº 13.675 de 11/06/2018",
+   "apelido": "LEI-13675-2018-06-11",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-11;13675",
+   "ementa": "Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de 2012.",
+   "classes": {
+    "classe": "Classificação Temática Unificada / Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+   },
+   "observacao": "Sobre a vigência desta Lei, vide o art. 50.",
+   "n_vides": 41,
+   "tipos_declaracao": [
+    [
+     "Declaração de Alteração Permanente",
+     14
+    ],
+    [
+     "Declaração de Veto Original",
+     11
+    ],
+    [
+     "Declaração de Legislação Correlata",
+     7
+    ],
+    [
+     "Declaração de Regulamentação Permanente de Norma",
+     6
+    ],
+    [
+     "Declaração de Alteração Vetada",
+     2
+    ],
+    [
+     "Declaração de Acréscimo Vetado",
+     1
+    ]
+   ],
+   "revogacoes_no_todo": []
+  },
+  "lei_12741_2012_impostos": {
+   "norma": "Lei nº 12.741 de 08/12/2012",
+   "apelido": "LEI-12741-2012-12-08 , Lei do Imposto na Nota (2012) , Lei da Nota Fiscal (2012) , Lei da Transparência Fiscal (2012) , Lei de Olho no Imposto (2012)",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-08;12741",
+   "ementa": "Dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor.",
+   "classes": {
+    "classe": "Classificação Temática Unificada / Jurídico / Direito do Consumidor"
+   },
+   "observacao": "AUTOR: SENADOR RENAN CALHEIROS E OUTROS - PLS 174 DE 2006.",
+   "n_vides": 5,
+   "tipos_declaracao": [
+    [
+     "Declaração de Alteração Provisória",
+     2
+    ],
+    [
+     "Declaração de Alteração Permanente",
+     1
+    ],
+    [
+     "Declaração de Regulamentação Permanente de Norma",
+     1
+    ],
+    [
+     "Declaração de Legislação Correlata",
+     1
+    ]
+   ],
+   "revogacoes_no_todo": []
+  }
+ },
+ "lista_leis_2023": {
+  "n": 275,
+  "campos": [
+   "anoassinatura",
+   "apelido",
+   "dataassinatura",
+   "descricao",
+   "ementa",
+   "id",
+   "norma",
+   "normaNome",
+   "numero",
+   "tipo"
+  ]
+ },
+ "regimentos": {
+  "risf": {
+   "norma": "Resolução do Senado Federal nº 93 de 27/11/1970",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:1970-11-27;93",
+   "n_dispositivos_com_referencias": 910,
+   "alteracoes_artigos_alvo": {
+    "Art. 332": [
+     {
+      "dispositivo": "Art. 332 [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 17 de 02/05/2002",
+      "declaracao": "Alteração (Declaração de Alteração Permanente)"
+     },
+     {
+      "dispositivo": "Art. 332 [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Ato da Mesa do Senado Federal nº 2 de 25/11/2014",
+      "declaracao": "Regulamentado (Declaração de Regulamentação Permanente de Norma)"
+     },
+     {
+      "dispositivo": "Art. 332, caput [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 66 de 05/12/1972",
+      "declaracao": "Alteração (Declaração de Alteração Permanente)"
+     },
+     {
+      "dispositivo": "Art. 332, caput [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 18 de 18/04/1989",
+      "declaracao": "Alteração (Declaração de Alteração Permanente)"
+     },
+     {
+      "dispositivo": "Art. 332, Parágrafo Único [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 18 de 18/04/1989",
+      "declaracao": "Supressão (Declaração de Alteração Permanente)"
+     }
+    ],
+    "Art. 333": [
+     {
+      "dispositivo": "Art. 333, caput [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 66 de 05/12/1972",
+      "declaracao": "Supressão (Declaração de Alteração Permanente)"
+     },
+     {
+      "dispositivo": "Art. 333 [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 18 de 18/04/1989",
+      "declaracao": "Supressão (Declaração de Alteração Permanente)"
+     },
+     {
+      "dispositivo": "Art. 333, Parágrafo Único [Resolução do Senado Federal nº 93 de 27/11/1970]",
+      "norma": "Resolução do Senado Federal nº 17 de 02/05/2002",
+      "declaracao": "Alteração (Declaração de Alteração Permanente)"
+     }
+    ]
+   }
+  },
+  "ricd": {
+   "norma": "Resolução da Câmara dos Deputados nº 17 de 21/09/1989",
+   "url_documento": "https://normas.leg.br/?urn=urn:lex:br:camara.deputados:resolucao:1989-09-21;17",
+   "n_dispositivos_com_referencias": 0,
+   "alteracoes_artigos_alvo": {}
+  }
+ },
+ "ricd_pdf_camara": {
+  "url": "https://www.camara.leg.br/internet/legislacao/regimento_interno/RIpdf/regInterno.pdf",
+  "status_http": 200,
+  "content_type": "application/pdf",
+  "tamanho_bytes": 504082,
+  "titulo_metadado": null
+ }
+}

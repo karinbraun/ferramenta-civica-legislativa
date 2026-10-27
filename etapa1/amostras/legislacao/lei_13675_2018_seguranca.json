@@ -1,0 +1,1434 @@
+{
+ "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lei/13675/2018",
+ "requisitado_em_utc": "2026-10-27T14:52:11+00:00",
+ "status_http": 200,
+ "content_type": "application/json",
+ "resposta": {
+  "DetalheDocumento": {
+   "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd",
+   "Metadados": {
+    "Versao": "27/10/2026 11:52:15",
+    "VersaoServico": "3",
+    "DataVersaoServico": "2017-02-01",
+    "DescricaoDataSet": "Obtém detalhes da Norma por meio do tipo/número/ano ou data de assinatura/sequencial."
+   },
+   "documentos": {
+    "documento": [
+     {
+      "id": "27394952",
+      "identificacao": {
+       "tipo": "LEI-n",
+       "descricao": "Lei Numerada",
+       "numero": "13675",
+       "norma": "LEI-13675-2018-06-11",
+       "normaNome": "Lei nº 13.675 de 11/06/2018",
+       "dataassinatura": "11/06/2018",
+       "apelido": "LEI-13675-2018-06-11",
+       "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-06-11;13675"
+      },
+      "publicacoes": {
+       "publicacao": [
+        {
+         "id": "27394972",
+         "tipo": "PUB",
+         "fonte": "Diário Oficial da União  de 12/06/2018",
+         "siglaFonte": "DOU-2018-06-12",
+         "data": "12/06/2018",
+         "pagina": "4",
+         "coluna": "1",
+         "dispositivo": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 4, col. 1)",
+         "temTexto": "S"
+        }
+       ]
+      },
+      "vides": {
+       "vide": [
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 5, caput, Inciso 18 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 5, caput, Inciso 24 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 6, caput, Inciso 14 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 8, caput, Inciso 3 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 9, § 2, Inciso 3 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 9, § 2, Inciso 9 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 9, § 3 ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 18, Parágrafo Único ",
+            "comentario": "Veto"
+           },
+           {
+            "dispositivo": "Art. 44, caput ",
+            "comentario": "Veto"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27394982",
+         "datAssinatura": "11/06/2018",
+         "nomeNormaPosterior": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+         "pagina": "12",
+         "coluna": "3",
+         "edicao": "27394899",
+         "tipoEdicao": "750",
+         "datapub": "12/06/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2018] (p. 12, col. 3)",
+         "comentario": "Declaração de Veto Original",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "27465113",
+         "datAssinatura": "30/08/2018",
+         "nomeNormaPosterior": "Decreto nº 9.489 de 30/08/2018",
+         "pagina": "2",
+         "coluna": "2",
+         "edicao": "27464982",
+         "tipoEdicao": "750",
+         "datapub": "31/08/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 31/08/2018] (p. 2, col. 2)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "30740553",
+         "datAssinatura": "12/12/2018",
+         "nomeNormaPosterior": "Lei nº 13.756 de 12/12/2018",
+         "pagina": "1",
+         "coluna": "1",
+         "edicao": "30740525",
+         "tipoEdicao": "750",
+         "datapub": "13/12/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/12/2018] (p. 1, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 8, caput, Inciso 2, Alínea b ",
+            "comentario": "Alteração"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "30740553",
+         "datAssinatura": "12/12/2018",
+         "nomeNormaPosterior": "Lei nº 13.756 de 12/12/2018",
+         "pagina": "1",
+         "coluna": "1",
+         "edicao": "30740525",
+         "tipoEdicao": "750",
+         "datapub": "13/12/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/12/2018] (p. 1, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "30760785",
+         "datAssinatura": "26/12/2018",
+         "nomeNormaPosterior": "Decreto nº 9.630 de 26/12/2018",
+         "pagina": "17",
+         "coluna": "1",
+         "edicao": "30760578",
+         "tipoEdicao": "750",
+         "datapub": "27/12/2018",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 27/12/2018] (p. 17, col. 1)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 22 ",
+            "comentario": "Regulamentado"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "31156239",
+         "datAssinatura": "27/06/2019",
+         "nomeNormaPosterior": "Decreto nº 9.866 de 27/06/2019",
+         "pagina": "6",
+         "coluna": "1",
+         "edicao": "31156157",
+         "tipoEdicao": "750",
+         "datapub": "28/06/2019",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2019] (p. 6, col. 1)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 34 ",
+            "comentario": "Dispositivo Correlato"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "31157952",
+         "datAssinatura": "27/06/2019",
+         "nomeNormaPosterior": "Decreto nº 9.890 de 27/06/2019",
+         "pagina": "25",
+         "coluna": "1",
+         "edicao": "31156157",
+         "tipoEdicao": "750",
+         "datapub": "28/06/2019",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2019] (p. 25, col. 1)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "31796843",
+         "datAssinatura": "09/12/2019",
+         "nomeNormaPosterior": "Decreto nº 10.158 de 09/12/2019",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "31796820",
+         "tipoEdicao": "750",
+         "datapub": "10/12/2019",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/2019] (p. 2, col. 1)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 9, § 4 ",
+            "comentario": "Dispositivo Correlato"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "34132731",
+         "datAssinatura": "02/06/2021",
+         "nomeNormaPosterior": "Decreto nº 10.711 de 02/06/2021",
+         "pagina": "3",
+         "coluna": "1",
+         "edicao": "34132557",
+         "tipoEdicao": "723",
+         "datapub": "04/06/2021",
+         "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 04/06/2021 - nº 103-B] (p. 3, col. 1)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 10 ",
+            "comentario": "Dispositivo Correlato"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "34132731",
+         "datAssinatura": "02/06/2021",
+         "nomeNormaPosterior": "Decreto nº 10.711 de 02/06/2021",
+         "pagina": "3",
+         "coluna": "1",
+         "edicao": "34132557",
+         "tipoEdicao": "723",
+         "datapub": "04/06/2021",
+         "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 04/06/2021 - nº 103-B] (p. 3, col. 1)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 8, caput, Inciso 2, Alínea b ",
+            "comentario": "Regulamentado"
+           },
+           {
+            "dispositivo": "Art. 35, caput, Inciso 3 ",
+            "comentario": "Regulamentado"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "34758045",
+         "datAssinatura": "24/08/2021",
+         "nomeNormaPosterior": "Decreto nº 10.778 de 24/08/2021",
+         "pagina": "4",
+         "coluna": "2",
+         "edicao": "34757771",
+         "tipoEdicao": "750",
+         "datapub": "25/08/2021",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 25/08/2021] (p. 4, col. 2)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "34757929",
+         "datAssinatura": "24/08/2021",
+         "nomeNormaPosterior": "Decreto nº 10.777 de 24/08/2021",
+         "pagina": "1",
+         "coluna": "2",
+         "edicao": "34757771",
+         "tipoEdicao": "750",
+         "datapub": "25/08/2021",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 25/08/2021] (p. 1, col. 2)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "34969273",
+         "datAssinatura": "28/09/2021",
+         "nomeNormaPosterior": "Decreto nº 10.822 de 28/09/2021",
+         "pagina": "3",
+         "coluna": "2",
+         "edicao": "34969175",
+         "tipoEdicao": "750",
+         "datapub": "29/09/2021",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 29/09/2021] (p. 3, col. 2)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 22 ",
+            "comentario": "Regulamentado"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "35623260",
+         "datAssinatura": "29/03/2022",
+         "nomeNormaPosterior": "Lei nº 14.316 de 29/03/2022",
+         "pagina": "1",
+         "coluna": "2",
+         "edicao": "35622854",
+         "tipoEdicao": "750",
+         "datapub": "30/03/2022",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 30/03/2022] (p. 1, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "35623260",
+         "datAssinatura": "29/03/2022",
+         "nomeNormaPosterior": "Lei nº 14.316 de 29/03/2022",
+         "pagina": "1",
+         "coluna": "2",
+         "edicao": "35622854",
+         "tipoEdicao": "750",
+         "datapub": "30/03/2022",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 30/03/2022] (p. 1, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 17, Parágrafo Único ",
+            "comentario": "Acréscimo"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "35725816",
+         "datAssinatura": "04/05/2022",
+         "nomeNormaPosterior": "Lei nº 14.330 de 04/05/2022",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "35725788",
+         "tipoEdicao": "750",
+         "datapub": "05/05/2022",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 05/05/2022] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 8, caput, Inciso 6 ",
+            "comentario": "Acréscimo"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "35725816",
+         "datAssinatura": "04/05/2022",
+         "nomeNormaPosterior": "Lei nº 14.330 de 04/05/2022",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "35725788",
+         "tipoEdicao": "750",
+         "datapub": "05/05/2022",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 05/05/2022] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "36032836",
+         "datAssinatura": "29/06/2022",
+         "nomeNormaPosterior": "Decreto nº 11.106 de 29/06/2022",
+         "pagina": "1",
+         "coluna": "1",
+         "edicao": "36032813",
+         "tipoEdicao": "750",
+         "datapub": "30/06/2022",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 30/06/2022] (p. 1, col. 1)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 6, caput, Inciso 21 ",
+            "comentario": "Regulamentado"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "36753376",
+         "datAssinatura": "10/01/2023",
+         "nomeNormaPosterior": "Lei nº 14.531 de 10/01/2023",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "36753258",
+         "tipoEdicao": "750",
+         "datapub": "11/01/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 11/01/2023] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Vetada",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "36753376",
+         "datAssinatura": "10/01/2023",
+         "nomeNormaPosterior": "Lei nº 14.531 de 10/01/2023",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "36753258",
+         "tipoEdicao": "750",
+         "datapub": "11/01/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 11/01/2023] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 9, § 2, Inciso 17 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 9, § 2, Inciso 17 ",
+            "comentario": "Acréscimo Vetado"
+           },
+           {
+            "dispositivo": "Art. 36 ",
+            "comentario": "Alteração"
+           },
+           {
+            "dispositivo": "Art. 42, § 1 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42, § 2 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42, § 3 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42, § 4 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-A ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-A, § 7 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-A, § 7 ",
+            "comentario": "Acréscimo Vetado"
+           },
+           {
+            "dispositivo": "Art. 42-B ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-B, caput, Inciso 3 ",
+            "comentario": "Acréscimo Vetado"
+           },
+           {
+            "dispositivo": "Art. 42-C ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-D ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 42-E ",
+            "comentario": "Acréscimo"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "36753376",
+         "datAssinatura": "10/01/2023",
+         "nomeNormaPosterior": "Lei nº 14.531 de 10/01/2023",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "36753258",
+         "tipoEdicao": "750",
+         "datapub": "11/01/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 11/01/2023] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "36753376",
+         "datAssinatura": "10/01/2023",
+         "nomeNormaPosterior": "Lei nº 14.531 de 10/01/2023",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "36753258",
+         "tipoEdicao": "750",
+         "datapub": "11/01/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 11/01/2023] (p. 2, col. 1)",
+         "comentario": "Declaração de Alteração Vetada",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "36753376",
+         "datAssinatura": "10/01/2023",
+         "nomeNormaPosterior": "Lei nº 14.531 de 10/01/2023",
+         "pagina": "2",
+         "coluna": "1",
+         "edicao": "36753258",
+         "tipoEdicao": "750",
+         "datapub": "11/01/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 11/01/2023] (p. 2, col. 1)",
+         "comentario": "Declaração de Acréscimo Vetado",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "37567445",
+         "datAssinatura": "25/08/2023",
+         "nomeNormaPosterior": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 995 de 25/08/2023",
+         "pagina": "20",
+         "coluna": "1",
+         "edicao": "37566980",
+         "tipoEdicao": "750",
+         "datapub": "04/09/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 20, col. 1)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 9 ",
+            "comentario": "Declaração de Interpretação conforme a Constituição"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "37911403",
+         "datAssinatura": "12/12/2023",
+         "nomeNormaPosterior": "Lei nº 14.751 de 12/12/2023",
+         "pagina": "2",
+         "coluna": "2",
+         "edicao": "37911344",
+         "tipoEdicao": "750",
+         "datapub": "13/12/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/12/2023] (p. 2, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "37911403",
+         "datAssinatura": "12/12/2023",
+         "nomeNormaPosterior": "Lei nº 14.751 de 12/12/2023",
+         "pagina": "2",
+         "coluna": "2",
+         "edicao": "37911344",
+         "tipoEdicao": "750",
+         "datapub": "13/12/2023",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/12/2023] (p. 2, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 4, caput, Inciso 9 ",
+            "comentario": "Alteração"
+           },
+           {
+            "dispositivo": "Art. 4-A, caput ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 4-A, Parágrafo Único ",
+            "comentario": "Acréscimo"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "38629175",
+         "datAssinatura": "17/06/2024",
+         "nomeNormaPosterior": "Lei nº 14.899 de 17/06/2024",
+         "pagina": "3",
+         "coluna": "2",
+         "edicao": "38629141",
+         "tipoEdicao": "750",
+         "datapub": "18/06/2024",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 18/06/2024] (p. 3, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "38629175",
+         "datAssinatura": "17/06/2024",
+         "nomeNormaPosterior": "Lei nº 14.899 de 17/06/2024",
+         "pagina": "3",
+         "coluna": "2",
+         "edicao": "38629141",
+         "tipoEdicao": "750",
+         "datapub": "18/06/2024",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 18/06/2024] (p. 3, col. 2)",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 35, caput, Inciso 6 ",
+            "comentario": "Acréscimo"
+           },
+           {
+            "dispositivo": "Art. 35, Parágrafo Único ",
+            "comentario": "Acréscimo"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaposterior": "43286084",
+         "datAssinatura": "12/05/2026",
+         "nomeNormaPosterior": "Decreto nº 12.966 de 12/05/2026",
+         "pagina": "2",
+         "coluna": "2",
+         "edicao": "43287031",
+         "tipoEdicao": "750",
+         "datapub": "13/05/2026",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/05/2026] (p. 2, col. 2)",
+         "comentario": "Declaração de Legislação Correlata",
+         "itens": ""
+        },
+        {
+         "codnormaposterior": "44154600",
+         "datAssinatura": "09/10/2026",
+         "nomeNormaPosterior": "Decreto nº 13.136 de 09/10/2026",
+         "pagina": "6",
+         "coluna": "1",
+         "edicao": "44154116",
+         "tipoEdicao": "750",
+         "datapub": "13/10/2026",
+         "nomePub": "Publicação Original   [Diário Oficial da União  de 13/10/2026] (p. 6, col. 1)",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": ""
+        }
+       ]
+      },
+      "edivs": {
+       "ediv": [
+        {
+         "codnormaAnterior": "579494",
+         "datAssinatura": "05/10/1988",
+         "nomeNormaAnterior": "Constituição da República Federativa do Brasil",
+         "comentario": "Declaração de Regulamentação Permanente de Norma",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 144, § 7 ",
+            "comentario": "Regulamentado"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaAnterior": "572834",
+         "datAssinatura": "07/01/1994",
+         "nomeNormaAnterior": "Lei Complementar nº 79 de 07/01/1994",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 3, § 1 ",
+            "comentario": "Alteração Vetada"
+           },
+           {
+            "dispositivo": "Art. 3, § 4 ",
+            "comentario": "Alteração"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaAnterior": "552077",
+         "datAssinatura": "14/02/2001",
+         "nomeNormaAnterior": "Lei nº 10.201 de 14/02/2001",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 4, § 3, Inciso 2 ",
+            "comentario": "Alteração"
+           },
+           {
+            "dispositivo": "Art. 4, § 5 ",
+            "comentario": "Alteração Vetada"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaAnterior": "572682",
+         "datAssinatura": "24/10/2007",
+         "nomeNormaAnterior": "Lei nº 11.530 de 24/10/2007",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 9, § 2 ",
+            "comentario": "Alteração"
+           }
+          ]
+         }
+        },
+        {
+         "codnormaAnterior": "589604",
+         "datAssinatura": "04/07/2012",
+         "nomeNormaAnterior": "Lei nº 12.681 de 04/07/2012",
+         "comentario": "Declaração de Alteração Permanente",
+         "itens": {
+          "item": [
+           {
+            "dispositivo": "Art. 1 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 2 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 3 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 4, caput ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 5 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 6 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 7 ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 8, caput ",
+            "comentario": "Revogação"
+           },
+           {
+            "dispositivo": "Art. 8, Parágrafo Único ",
+            "comentario": "Revogação"
+           }
+          ]
+         }
+        }
+       ]
+      },
+      "disps": {
+       "disp": [
+        {
+         "nomeDispositivo": "Art. 4, caput, Inciso 9 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "37918265",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.751 de 12/12/2023",
+            "comentario": "Alteração (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "37911403"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 4-A, caput [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "37918270",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.751 de 12/12/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "37911403"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 4-A, Parágrafo Único [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "37918274",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.751 de 12/12/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "37911403"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 5, caput, Inciso 18 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396256",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 5, caput, Inciso 24 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396261",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 6, caput, Inciso 14 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396266",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 6, caput, Inciso 21 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36034058",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 11.106 de 29/06/2022",
+            "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+            "codNormaPosterior": "36032836"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 8, caput, Inciso 2, Alínea b [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "30742222",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 13.756 de 12/12/2018",
+            "comentario": "Alteração (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "30740553"
+           },
+           {
+            "dispositivo": "Decreto nº 10.711 de 02/06/2021",
+            "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+            "codNormaPosterior": "34132731"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 8, caput, Inciso 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396271",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 8, caput, Inciso 6 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "35728420",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.330 de 04/05/2022",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "35725816"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "37567724",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 995 de 25/08/2023",
+            "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "37567445"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9, § 2, Inciso 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396276",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9, § 2, Inciso 9 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396281",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9, § 2, Inciso 17 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761788",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           },
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9, § 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396286",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 9, § 4 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "31797289",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 10.158 de 09/12/2019",
+            "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+            "codNormaPosterior": "31796843"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 10 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "34134063",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 10.711 de 02/06/2021",
+            "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+            "codNormaPosterior": "34132731"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 17, Parágrafo Único [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "35628140",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.316 de 29/03/2022",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "35623260"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 18, Parágrafo Único [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396290",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 22 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "30761902",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 9.630 de 26/12/2018",
+            "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+            "codNormaPosterior": "30760785"
+           },
+           {
+            "dispositivo": "Decreto nº 10.822 de 28/09/2021",
+            "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+            "codNormaPosterior": "34969273"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 34 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "31161947",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 9.866 de 27/06/2019",
+            "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+            "codNormaPosterior": "31156239"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 35, caput, Inciso 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "34134058",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Decreto nº 10.711 de 02/06/2021",
+            "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+            "codNormaPosterior": "34132731"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 35, caput, Inciso 6 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "38630559",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.899 de 17/06/2024",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "38629175"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 35, Parágrafo Único [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "38630564",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.899 de 17/06/2024",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "38629175"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 36 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761793",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Alteração (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42, § 1 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761796",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42, § 2 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761800",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42, § 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761804",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42, § 4 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761808",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-A [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761812",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-A, § 7 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761815",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           },
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-B [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761819",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-B, caput, Inciso 3 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761822",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-C [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761827",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-D [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761830",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 42-E [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "36761833",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Lei nº 14.531 de 10/01/2023",
+            "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "36753376"
+           }
+          ]
+         }
+        },
+        {
+         "nomeDispositivo": "Art. 44 [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396294",
+         "refs": ""
+        },
+        {
+         "nomeDispositivo": "Art. 44, caput [Lei nº 13.675 de 11/06/2018]",
+         "codItemDocumento": "27396354",
+         "refs": {
+          "ref": [
+           {
+            "dispositivo": "Mensagem de Veto Parcial nº 321 de 11/06/2018",
+            "comentario": "Veto (Declaração de Alteração Permanente)",
+            "codNormaPosterior": "27394982"
+           }
+          ]
+         }
+        }
+       ]
+      },
+      "ementa": "Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de 2012.",
+      "observacao": "Sobre a vigência desta Lei, vide o art. 50.",
+      "catalogo": {
+       "frase": [
+        " EXECUTIVO ,  ORGANIZAÇÃO ADMINISTRATIVA ,  SEGURANÇA PUBLICA ."
+       ]
+      },
+      "indexacao": {
+       "frase": [
+        " CRIAÇÃO ,  COMPETENCIA ,  DIRETRIZ ,  COMPOSIÇÃO ,  Sistema Único de Segurança Pública (SUSP) ,  Política Nacional de Segurança Pública e Defesa Social (PNSPDS) ,  OBJETIVO ,  PRESERVAÇÃO ,  ORDEM PUBLICA ,  SEGURANÇA ,  PESSOAS ,  PATRIMONIO ,  ATUAÇÃO ,  INTEGRAÇÃO ,  ORGÃOS ,  SEGURANÇA PUBLICA ,  DEFESA ,  UNIÃO FEDERAL ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  SOCIEDADE ."
+       ]
+      },
+      "classes": {
+       "classe": "Classificação Temática Unificada / Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+      }
+     }
+    ]
+   }
+  }
+ }
+}

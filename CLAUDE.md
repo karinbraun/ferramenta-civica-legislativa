@@ -24,7 +24,7 @@ O projeto começa como protótipo, testado com público misto (eleitores de dife
 1. Entrada por temas pré-definidos (primeira fase). Campo de texto livre fica para fase posterior.
 2. Para cada tema: lista de leis vigentes, políticas públicas (quando houver) e projetos em tramitação, cada um com resumo em linguagem cidadã, ementa oficial e link.
 3. Camada de autoria sob demanda: autores e coautores, com partido e UF.
-4. Camada de votação sob demanda: voto por partido e por parlamentar nas votações nominais. Nas votações simbólicas, apenas o resultado oficial (aprovado/rejeitado), com aviso explícito de que a votação foi simbólica e não há registro de voto individual nem de orientação de bancada (ver seção 8).
+4. Camada de votação sob demanda: voto por partido e por parlamentar nas votações nominais. Nas votações simbólicas, apenas o resultado oficial (aprovado/rejeitado), com aviso explícito de que a votação foi simbólica e não há registro de voto individual nem de orientação de bancada. Nas votações secretas, apenas o resultado oficial, com o aviso "votação secreta: os votos individuais não são públicos" e o fundamento legal (ver seção 8).
 5. Nota educativa de competência: quando o tema depender de estado ou município, explicar a divisão de responsabilidades (União, estado, município) e indicar canais de informação e cobrança (Câmara de Vereadores, Assembleia Legislativa, ouvidorias, Fala.BR, portais de transparência).
 6. Notas educativas sobre tramitação: abaixo do status oficial, explicar quando aplicável que o projeto pode ser arquivado e por quê (regra de arquivamento ao fim da legislatura, com exceções e possibilidade de desarquivamento), com link para a norma. A nota só aparece nos projetos aos quais a regra se aplica.
 
@@ -65,3 +65,4 @@ Estrutura baseada na classificação temática oficial da Câmara, com rótulos 
 - Itens novos entram em fila de revisão: Claude propõe vínculo ao tema, resumo cidadão e grau de aderência; a responsável aprova ou ajusta via pull request.
 - Repositório público no GitHub desde o início, com aviso de protótipo no README.
 - Votação simbólica (27/10/2026): mostrar só o resultado oficial, com aviso de que não há registro de voto individual nem de orientação de bancada. Motivo: a API da Câmara não registra orientação nas votações simbólicas (0 de 79 na amostra de novembro de 2025; ver `etapa1/relatorio-cobertura.md`, seção 2.1).
+- Votação secreta (27/10/2026): mostrar só o resultado oficial, com o aviso "votação secreta: os votos individuais não são públicos" e o fundamento legal. Motivo: no Senado, o voto individual em votação secreta aparece apenas como "Votou" (ver `etapa1/relatorio-cobertura.md`, seção 5.2).

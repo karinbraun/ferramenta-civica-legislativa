@@ -1,6 +1,6 @@
 # Relatório de cobertura das fontes — Etapa 1
 
-Status: parcial. Esta versão cobre a **API da Câmara dos Deputados** (Parte I) e a **API do Senado Federal** (Parte II). LexML, legislação e regimentos entram nas próximas seções.
+Status: parcial. Esta versão cobre a **API da Câmara dos Deputados** (Parte I), a **API do Senado Federal** (Parte II), as **fontes de legislação federal** (Parte III) e os **regimentos** (Parte IV). A Parte IV está incompleta: o texto vigente dos regimentos depende de dois domínios ainda não liberados neste ambiente (seção 9).
 
 Convenções deste relatório:
 - **Observado**: o que está nas respostas da API salvas em `etapa1/amostras/camara/`. Cada arquivo traz a URL, a data/hora da requisição e a resposta bruta.
@@ -176,7 +176,89 @@ Observado:
 
 ## 6. Pendências desta seção
 
-1. Decidir como tratar as votações secretas, caso apareçam em projetos de lei (seção 5.2).
+1. ~~Decidir como tratar as votações secretas, caso apareçam em projetos de lei (seção 5.2).~~ Decidido em 27/10/2026: mostrar só o resultado oficial, com o aviso "votação secreta: os votos individuais não são públicos" e o fundamento legal.
 2. Validar a dedução de que um projeto aprovado sem votação nominal correspondente foi votado de forma simbólica (seção 5.2).
 3. Testar `tramitouLegislaturaAtual` e `/processo/prazo` depois de confirmar o texto do art. 332 do RISF (seção 5.4).
 4. Montar a tabela de correspondência entre temas da Câmara e classes do Senado na Etapa 2 (seção 5.3).
+
+# Parte III — Legislação federal e vigência
+
+Execução: `python3 etapa1/scripts/sondagem_legislacao.py`, rodado em 27/10/2026. Foram 10 requisições, todas de leitura. O resumo está em `etapa1/amostras/legislacao/_resumo.json`.
+
+## 7. Síntese
+
+| Necessidade do briefing | Fonte testada | Situação | Observação principal |
+|---|---|---|---|
+| Busca de leis federais | LexML (SRU) | **Inacessível para automação** | Devolve uma página de "Verificação de segurança" (desafio anti-robô), e não os dados. Não será contornado. |
+| Busca de leis federais | Planalto | **Inacessível para automação** | O servidor encerra a conexão (teste de 26/10). |
+| Lista de leis por ano, com ementa | Senado `/legislacao/lista` | **Sustentado** | 275 leis numeradas em 2023, cada uma com ementa e identificação. |
+| Classificação temática das leis | Senado `/legislacao/{tipo}/{n}/{ano}` | **Parcial** | Usa a mesma "Classificação Temática Unificada" dos projetos do Senado, mas nem toda lei está classificada, e há classificações inesperadas. |
+| Vigência ou revogação | Senado, campo `vides` | **Parcial, promissor** | Há declarações estruturadas como "Declaração de Revogação Permanente da Norma no Todo". Revogação parcial, revogação tácita e decisões do STF exigem cuidado. |
+| Link para o texto oficial | Senado, campo `urlDocumento` | **Sustentado para o usuário** | Aponta para `normas.leg.br`, que abre no navegador. Esse domínio não está liberado neste ambiente. |
+
+## 8. Achados
+
+### 8.1 LexML e Planalto (fontes previstas no briefing)
+
+Observado: a consulta SRU ao LexML de 27/10/2026 respondeu HTTP 200 com conteúdo `text/html`, mas o conteúdo é uma página intitulada "Verificação de segurança — Senado Federal", com um formulário de desafio, e não a resposta SRU (`lexml_sru_lei_8080.json`). No dia anterior, o mesmo domínio respondeu sem esse desafio a uma consulta simples. Inferência: o desafio foi ativado depois ou é aplicado conforme o padrão de acesso.
+
+Contornar uma verificação anti-robô não é um caminho legítimo, então o LexML e o Planalto não podem ser fontes de **coleta automática** neste projeto. Ambos continuam válidos como **destino de link** para o usuário, que os abre no navegador.
+
+### 8.2 API de legislação do Senado (alternativa)
+
+Observado:
+- `/legislacao/lista?tipo=LEI&ano=2023` devolveu 275 leis com os campos `numero`, `normaNome`, `ementa`, `dataassinatura` e `apelido`. A carga desde 1988 pode ser feita ano a ano.
+- O detalhe de cada lei traz `ementa`, `classes`, `catalogo`, `indexacao`, `observacao`, `vides` (atos posteriores que afetam a lei), `edivs` (atos anteriores que a lei afeta) e `disps` (alterações por dispositivo).
+- A Lei 8.080/1990 (Lei Orgânica da Saúde) está classificada em "Política Social / Saúde". Tem 43 declarações (31 de alteração permanente) e nenhuma de revogação no todo, o que é coerente com uma lei vigente e alterada.
+- A Lei 8.666/1993 (licitações) tem a declaração "Revogação Permanente da Norma no Todo" pela Lei 14.133/2021, coerente com sua revogação.
+- A Lei 13.675/2018 está em "Segurança Pública" e registra vetos.
+- A Lei 12.741/2012, sobre a informação do valor dos tributos na nota fiscal, está classificada só em "Direito do Consumidor", e não em "Tributos". A Lei 8.666/1993 não tem classe nenhuma.
+
+Limitações observadas e inferências:
+- A data da declaração de revogação é a data de **assinatura** da norma revogadora (01/04/2021), e não a data em que a revogação produziu efeito. Pela Lei 14.133, a Lei 8.666 continuou aplicável por um período de transição. Inferência: datas de efeito precisam de curadoria.
+- O campo `observacao` traz o autor do projeto com partido, por exemplo "AUTOR: DEPUTADO LUIZ ROBERTO PONTE (PMDB/RS)". Pelo princípio de conteúdo antes da autoria, esse campo não pode aparecer na camada visível.
+- O campo `observacao` também registra decisões do STF em texto livre, por exemplo "interpretação conforme" na ADI 1923. Inferência: a inconstitucionalidade declarada pelo STF não aparece como dado estruturado de vigência.
+- A ausência de declaração de revogação não prova que a lei esteja vigente, porque a revogação tácita (por incompatibilidade com lei posterior) não é declarada. A interface deveria dizer "sem registro de revogação no acervo do Senado", e não "vigente". Esta é uma proposta de texto, a validar.
+- A consulta a `lei/5172/1966` (Código Tributário Nacional) respondeu HTTP 503 em 27/10/2026. Pode ser instabilidade pontual. Fica para novo teste.
+
+### 8.3 Consequência para a funcionalidade "leis vigentes"
+
+Inferência: a API do Senado sustenta a lista de leis, com ementa e um indicador estruturado de revogação no todo. Classificação temática e vigência precisam de curadoria, coerente com a fila de revisão já decidida. A mudança de fonte, do LexML e do Planalto para a API do Senado na coleta, com LexML e Planalto mantidos como link, é uma decisão a validar.
+
+# Parte IV — Regimentos e nota de arquivamento
+
+## 9. Situação
+
+| Item | Situação | Observação |
+|---|---|---|
+| RICD art. 105 (texto vigente) | **Não confirmado** | O único texto acessível é um PDF do site da Câmara, com metadado "RICD 2004 com atualizações até res. 23-2004", gerado em 2005. Não serve como versão vigente. |
+| Alterações do RICD art. 105 | **Não verificável por esta via** | O acervo do Senado não registra alterações de dispositivos da Resolução da Câmara 17/1989 (0 dispositivos com referência). |
+| RISF art. 332 (texto vigente) | **Não confirmado** | O texto compilado está em `normas.leg.br`, não liberado neste ambiente. |
+| Alterações do RISF art. 332 | **Observado** | Última alteração registrada: Resolução do Senado nº 17/2002. Regulamentado pelo Ato da Mesa nº 2/2014. |
+| Fundamento do voto secreto | **Pendente** | Será confirmado no texto oficial da Constituição e do RISF. |
+
+Para concluir esta parte, é preciso liberar dois domínios na política de rede do ambiente:
+- `normas.leg.br`: textos compilados oficiais do RICD, do RISF e das leis;
+- `www2.camara.leg.br`: página da Câmara com o RICD atualizado.
+
+## 10. Texto de referência (edição de 2004, não confirmada como vigente)
+
+Citação literal do PDF `regInterno.pdf` (site da Câmara, consultado em 27/10/2026), que **não** deve ser usada na interface até a confirmação:
+
+> "Art. 105. Finda a legislatura, arquivar-se-ão todas as proposições que no seu decurso tenham sido submetidas à deliberação da Câmara e ainda se encontrem em tramitação, bem como as que abram crédito suplementar, com pareceres ou sem eles, salvo as: I - com pareceres favoráveis de todas as Comissões; II - já aprovadas em turno único, em primeiro ou segundo turno; III - que tenham tramitado pelo Senado, ou dele originárias; IV - de iniciativa popular; V - de iniciativa de outro Poder ou do Procurador-Geral da República. Parágrafo único. A proposição poderá ser desarquivada mediante requerimento do Autor, ou Autores, dentro dos primeiros cento e oitenta dias da primeira sessão legislativa ordinária da legislatura subseqüente, retomando a tramitação desde o estágio em que se encontrava."
+
+Cruzamento preliminar das exceções desta edição com os campos da API da Câmara (inferência, a refazer com o texto vigente):
+
+| Exceção (edição 2004) | Campo disponível | Verificação automática? |
+|---|---|---|
+| I. Pareceres favoráveis de todas as comissões | Tramitações com "parecer" em texto | Não, exige leitura do texto |
+| II. Já aprovadas em turno único, 1º ou 2º turno | Votações e tramitações | Parcial |
+| III. Tramitaram pelo Senado ou vieram dele | Tipo de autor ("Órgão do Poder Legislativo – Senado") e numeração | Sim, em boa parte |
+| IV. Iniciativa popular | Tipo de autor | Provável, ainda não testado |
+| V. Iniciativa de outro Poder ou do PGR | Tipo de autor ("Órgão do Poder Executivo") | Sim |
+
+## 11. Pendências das Partes III e IV
+
+1. Validar a troca da fonte de coleta de leis: API do Senado no lugar de LexML e Planalto, que ficam como link (seção 8.3).
+2. Validar o texto de interface "sem registro de revogação no acervo do Senado" no lugar de "vigente" (seção 8.2).
+3. Liberar `normas.leg.br` e `www2.camara.leg.br` e então confirmar o texto vigente do RICD art. 105, do RISF art. 332 e o fundamento do voto secreto (seção 9).
