@@ -1,0 +1,393 @@
+{
+ "gerado_em_utc": "2026-10-27T23:09:09+00:00",
+ "fonte_propostas": {
+  "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "baixado_em_utc": "2026-10-27T23:08:48+00:00",
+  "last_modified": "Tue, 27 Oct 2026 06:49:21 GMT",
+  "tamanho_bytes": 18275613,
+  "sha256": "13589f00f2a08ad9ea3748eda4fdb0176d8cd29a80e678bfa568b47cd397701a"
+ },
+ "fonte_cadastro": {
+  "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+  "baixado_em_utc": "2026-10-27T23:08:49+00:00",
+  "last_modified": "Tue, 27 Oct 2026 22:35:19 GMT",
+  "tamanho_bytes": 3242562,
+  "sha256": "fc047f98cda9f6c837f4e5a1bddb97f9a546a68eb2469c080e83db80e453cb0d"
+ },
+ "fonte_complementar": {
+  "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+  "baixado_em_utc": "2026-10-27T23:08:50+00:00",
+  "last_modified": "Tue, 27 Oct 2026 22:35:24 GMT",
+  "tamanho_bytes": 1348951,
+  "sha256": "9e57df8d5eb8d08d5cef4732db082a82a2b0d3aac2192676783306497f3a3af0"
+ },
+ "n_arquivos_no_zip_propostas": 15,
+ "n_candidaturas_presidente_no_cadastro": 14,
+ "programas": [
+  {
+   "arquivo_no_zip": "BR/2026BR280002538811_01.pdf",
+   "tamanho_bytes": 1431032,
+   "sha256": "23c510d5b06bb149bb9390bbc144dcda9cfd2b6a677a854b3d993b16ed7a94e6",
+   "sq_candidato": "280002538811",
+   "pdf": "pdf/2026BR280002538811_01.pdf",
+   "paginas": 67,
+   "caracteres_texto": 156890,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "SAMARA",
+    "NM_CANDIDATO": "SAMARA MARTINS DA SILVA FEITOSA",
+    "NR_CANDIDATO": "80",
+    "SG_PARTIDO": "UP",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "UP",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002539826_01.pdf",
+   "tamanho_bytes": 882639,
+   "sha256": "5a5804622017a8e9c123fb64540a5ee3d06009de681026b505bc2a152d5e646e",
+   "sq_candidato": "280002539826",
+   "pdf": "pdf/2026BR280002539826_01.pdf",
+   "paginas": 81,
+   "caracteres_texto": 151268,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "ZEMA",
+    "NM_CANDIDATO": "ROMEU ZEMA NETO",
+    "NR_CANDIDATO": "30",
+    "SG_PARTIDO": "NOVO",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "NOVO",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002540694_01.pdf",
+   "tamanho_bytes": 1691345,
+   "sha256": "cdece60b71117c7820dbf90a7d795f76f3b1d1aaa5ebb8ce11f47e9ca6227b5a",
+   "sq_candidato": "280002540694",
+   "pdf": "pdf/2026BR280002540694_01.pdf",
+   "paginas": 51,
+   "caracteres_texto": 147376,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "RENAN SANTOS",
+    "NM_CANDIDATO": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "NR_CANDIDATO": "14",
+    "SG_PARTIDO": "MISSÃO",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "MISSÃO",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002541457_01.pdf",
+   "tamanho_bytes": 738999,
+   "sha256": "1868565fb0d5de77d40a982a1be07dc7f44f7af7565ee3b40d93b31407d31468",
+   "sq_candidato": "280002541457",
+   "pdf": "pdf/2026BR280002541457_01.pdf",
+   "paginas": 33,
+   "caracteres_texto": 114529,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "HERTZ DIAS",
+    "NM_CANDIDATO": "HERTZ DA CONCEICAO DIAS",
+    "NR_CANDIDATO": "16",
+    "SG_PARTIDO": "PSTU",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PSTU",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002542548_01.pdf",
+   "tamanho_bytes": 1189907,
+   "sha256": "e1c162c20c81dafadf69b10bab230b5a6dc48f6b6c27c2cfce853b131a8bcc36",
+   "sq_candidato": "280002542548",
+   "pdf": "pdf/2026BR280002542548_01.pdf",
+   "paginas": 84,
+   "caracteres_texto": 180970,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "LULA",
+    "NM_CANDIDATO": "LUIZ INÁCIO LULA DA SILVA",
+    "NR_CANDIDATO": "13",
+    "SG_PARTIDO": "PT",
+    "NM_COLIGACAO": "BRASIL PRONTO PRA MAIS",
+    "DS_COMPOSICAO_COLIGACAO": "PSB / PDT / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)",
+    "SG_FEDERACAO": "13-PT/65-PC do B/43-PV",
+    "resultado_por_turno": {
+     "2": "ELEITO",
+     "1": "2º TURNO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002548139_01.pdf",
+   "tamanho_bytes": 1612696,
+   "sha256": "df2acdb7a6d8b080d6d8a235b8fe8f0d987bf0f24be4f4aa9abc80e4ebb24904",
+   "sq_candidato": "280002548139",
+   "pdf": "pdf/2026BR280002548139_01.pdf",
+   "paginas": 58,
+   "caracteres_texto": 125726,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "VETERINÁRIO WILSON GRASSI",
+    "NM_CANDIDATO": "WILSON GRASSI JUNIOR",
+    "NR_CANDIDATO": "35",
+    "SG_PARTIDO": "DEMOCRATA",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "DEMOCRATA",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002551544_01.pdf",
+   "tamanho_bytes": 1940855,
+   "sha256": "7d1d95075e11e3c4113e8dcd502438049a34f5147a84cb0f746bf59046e477a4",
+   "sq_candidato": "280002551544",
+   "pdf": "pdf/2026BR280002551544_01.pdf",
+   "paginas": 76,
+   "caracteres_texto": 178710,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "FLAVIO BOLSONARO",
+    "NM_CANDIDATO": "FLAVIO NANTES BOLSONARO",
+    "NR_CANDIDATO": "22",
+    "SG_PARTIDO": "PL",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PL",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "2": "NÃO ELEITO",
+     "1": "2º TURNO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002551547_01.pdf",
+   "tamanho_bytes": 4927342,
+   "sha256": "fc0872d2b68aad863c8d62575323cf413a616b23d0f7ca4fd7f4558112c07b38",
+   "sq_candidato": "280002551547",
+   "pdf": "pdf/2026BR280002551547_01.pdf",
+   "paginas": 200,
+   "caracteres_texto": 314477,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "ESCRITOR AUGUSTO CURY",
+    "NM_CANDIDATO": "AUGUSTO JORGE CURY",
+    "NR_CANDIDATO": "70",
+    "SG_PARTIDO": "AVANTE",
+    "NM_COLIGACAO": "BRASIL DOS NOSSOS SONHOS",
+    "DS_COMPOSICAO_COLIGACAO": "AGIR / AVANTE",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002551932_01.pdf",
+   "tamanho_bytes": 1000707,
+   "sha256": "b0ba46eb58d1827c99167a0df60e539b6bfa8a70fa247e4653ba2fcca8ade415",
+   "sq_candidato": "280002551932",
+   "pdf": "pdf/2026BR280002551932_01.pdf",
+   "paginas": 100,
+   "caracteres_texto": 323705,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+    "NM_CANDIDATO": "RONALDO RAMOS CAIADO",
+    "NR_CANDIDATO": "55",
+    "SG_PARTIDO": "PSD",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PSD",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002551975_01.pdf",
+   "tamanho_bytes": 314957,
+   "sha256": "52f765533f93409a595d780e9ad8634de72db8f05794a2e70e808913c2ed4dff",
+   "sq_candidato": "280002551975",
+   "pdf": "pdf/2026BR280002551975_01.pdf",
+   "paginas": 16,
+   "caracteres_texto": 52187,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "EDMILSON COSTA",
+    "NM_CANDIDATO": "EDMILSON SILVA COSTA",
+    "NR_CANDIDATO": "21",
+    "SG_PARTIDO": "PCB",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PCB",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002552484_01.pdf",
+   "tamanho_bytes": 64568,
+   "sha256": "6390152c66285558ecd5459f4f73f3f65650beb77022b14e7750190b1b536d68",
+   "sq_candidato": "280002552484",
+   "pdf": "pdf/2026BR280002552484_01.pdf",
+   "paginas": 15,
+   "caracteres_texto": 16657,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "CLARIANA BARAO",
+    "NM_CANDIDATO": "CLARIANA ZACARKIM BARAO",
+    "NR_CANDIDATO": "27",
+    "SG_PARTIDO": "DC",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "DC",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002552487_01.pdf",
+   "tamanho_bytes": 96070,
+   "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+   "sq_candidato": "280002552487",
+   "pdf": "pdf/2026BR280002552487_01.pdf",
+   "paginas": 7,
+   "caracteres_texto": 17406,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+    "NM_CANDIDATO": "RUI COSTA PIMENTA",
+    "NR_CANDIDATO": "29",
+    "SG_PARTIDO": "PCO",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PCO",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "DEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "DEFERIDO",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002553884_01.pdf",
+   "tamanho_bytes": 1913582,
+   "sha256": "0159b1f854deec5ec1fe9d28784807353bd61c249680ddaa143b9891b034f33d",
+   "sq_candidato": "280002553884",
+   "pdf": "pdf/2026BR280002553884_01.pdf",
+   "paginas": 28,
+   "caracteres_texto": 42117,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "PABLO MARÇAL",
+    "NM_CANDIDATO": "PABLO HENRIQUE COSTA MARCAL",
+    "NR_CANDIDATO": "28",
+    "SG_PARTIDO": "PRTB",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PRTB",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "#NULO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "INDEFERIDO",
+    "DS_SITUACAO_CANDIDATO_TOT": "#NULO",
+    "ST_SUBSTITUIDO": "S",
+    "SQ_SUBSTITUIDO": "-1"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/2026BR280002554479_01.pdf",
+   "tamanho_bytes": 306183,
+   "sha256": "6956c95e514dded0fc45355c0347f860fd97dc06fbf2886fe24627106ec05053",
+   "sq_candidato": "280002554479",
+   "pdf": "pdf/2026BR280002554479_01.pdf",
+   "paginas": 48,
+   "caracteres_texto": 167224,
+   "candidatura": {
+    "NM_URNA_CANDIDATO": "LEONARDO AVALANCHE",
+    "NM_CANDIDATO": "LEONARDO ALVES DE ARAUJO",
+    "NR_CANDIDATO": "28",
+    "SG_PARTIDO": "PRTB",
+    "NM_COLIGACAO": "PARTIDO ISOLADO",
+    "DS_COMPOSICAO_COLIGACAO": "PRTB",
+    "SG_FEDERACAO": "#NULO",
+    "resultado_por_turno": {
+     "1": "NÃO ELEITO"
+    },
+    "DS_SITUACAO_JULGAMENTO": "RENÚNCIA",
+    "DS_SITUACAO_CANDIDATO_TOT": "RENÚNCIA",
+    "ST_SUBSTITUIDO": "N",
+    "SQ_SUBSTITUIDO": "280002553884"
+   }
+  },
+  {
+   "arquivo_no_zip": "BR/leiame.pdf",
+   "tamanho_bytes": 162759,
+   "sha256": "bdde7e68edd4fedda0da92a23812fcd7bc738bec8d0c350a34ec1354a2f5a727",
+   "sq_candidato": null,
+   "pdf": "pdf/leiame.pdf",
+   "paginas": 1,
+   "caracteres_texto": 2186
+  }
+ ],
+ "candidaturas_sem_programa_no_zip": [],
+ "programas_sem_candidatura_presidente": [
+  "BR/leiame.pdf"
+ ]
+}
