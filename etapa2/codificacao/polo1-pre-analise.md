@@ -71,3 +71,7 @@ O critério do briefing pede temas que "mobilizem eleitores dos dois campos". Pa
 1. **Não atribuir campo.** Usar como critério a presença do tema na maioria dos programas e nos programas das duas candidaturas do 2º turno.
 2. **Usar uma classificação externa e citável** de posicionamento partidário (por exemplo, um survey acadêmico de especialistas), com a fonte declarada.
 3. **Usar a autodeclaração** dos programas, quando ela existe (por exemplo, "socialista"), deixando os demais sem rótulo.
+
+**Decisão (27/10/2026):** opção 1. Nenhuma candidatura recebe rótulo de campo. Um tema é considerado transversal quando aparece na maioria dos 14 programas (8 ou mais) **e** nos programas das duas candidaturas do 2º turno (Lula/PT e Flavio Bolsonaro/PL).
+
+**Verificação de confiabilidade (27/10/2026):** reteste de estabilidade, sem segundo codificador. Ver `etapa2/codificacao/reteste.md`.
