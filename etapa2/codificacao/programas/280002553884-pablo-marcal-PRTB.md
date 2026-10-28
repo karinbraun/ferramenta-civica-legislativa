@@ -42,7 +42,7 @@ Leitura das páginas:
 | E-CORR | Sim | 20, 25 | "IA para combate a fraudes em licitações"; coluna "Combate à Corrupção" |
 | Demais | Não | — | T53, T67, T68, T72, T74, T76, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 29.
+Total de temas presentes (contando SEG, IMP e SAU): 26. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 29, era erro de soma; a tabela acima não mudou.)
 
 ## Transcrição da p. 10 [TRANSCRIÇÃO DE IMAGEM]
 

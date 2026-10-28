@@ -33,7 +33,7 @@ Observação para o Polo 3 [PARÁFRASE]: a proposta de segurança informa que a 
 | T66-IND | Sim | 7–8, 21–22, 30–31 | Industrialização; indústria automobilística; MEI |
 | T76-JUS | Sim | 32–33 | Proposta 14 "Segurança Jurídica para Todos" |
 | E-CORR | Sim | 10, 32, 46 | Corrupção na saúde e no saneamento; ranking de corrupção |
-| Demais | Não | — | T35, T42, T53, T55, T60, T67, T68, T70, T72, T74, T85, T86 |
+| Demais | Não | — | T35, T42, T51 (conferido na entrega do Polo 2: a "regularização do terreno", p. 46, é urbana e está em T41), T53, T55, T60, T67, T68, T70, T72, T74, T85, T86 |
 
 Total de temas presentes (contando SEG, IMP e SAU): 21.
 

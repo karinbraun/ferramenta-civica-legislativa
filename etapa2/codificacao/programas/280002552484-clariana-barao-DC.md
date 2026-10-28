@@ -29,7 +29,7 @@ Regra aplicada (livro de códigos v1.1, regra de unidade em lista fragmentária)
 | E-CORR | Sim | 13 | 6.3 Integridade e transparência |
 | Demais | Não | — | T35, T39 (o esporte aparece como saúde, ver SAU), T41, T42, T48, T51, T53, T55, T57, T60, T64, T67, T72, T74, T76, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 18.
+Total de temas presentes (contando SEG, IMP e SAU): 16. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 18, era erro de soma; a tabela acima não mudou.)
 
 Silêncios [INFERÊNCIA a confirmar na comparação entre programas]: o programa não trata de meio ambiente (T48), agropecuária (T64) nem tributação (IMP). O documento se declara uma versão "para desenvolvimento programático".
 

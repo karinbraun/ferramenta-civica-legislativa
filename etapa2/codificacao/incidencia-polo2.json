@@ -1,0 +1,644 @@
+{
+ "PCO": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": false,
+   "T46-EDU": true,
+   "T48-AMB": false,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true
+  },
+  "unidades": {
+   "SEG": [
+    6,
+    0,
+    0
+   ],
+   "IMP": [
+    5,
+    2,
+    0
+   ],
+   "SAU": [
+    6,
+    0,
+    0
+   ]
+  }
+ },
+ "DC": {
+  "presenca": {
+   "SEG": true,
+   "IMP": false,
+   "SAU": true,
+   "T34-ADM": true,
+   "T37-COM": true,
+   "T40-ECO": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    7,
+    0,
+    0
+   ],
+   "IMP": [
+    0,
+    0,
+    0
+   ],
+   "SAU": [
+    7,
+    0,
+    0
+   ]
+  }
+ },
+ "PCB": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    14,
+    0,
+    0
+   ],
+   "IMP": [
+    6,
+    0,
+    0
+   ],
+   "SAU": [
+    15,
+    0,
+    0
+   ]
+  }
+ },
+ "Marçal": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T42-CIV": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T70-FIN": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    16,
+    0,
+    0
+   ],
+   "IMP": [
+    7,
+    2,
+    0
+   ],
+   "SAU": [
+    9,
+    0,
+    0
+   ]
+  }
+ },
+ "PSTU": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T67-CONS": true,
+   "T70-FIN": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    27,
+    3,
+    0
+   ],
+   "IMP": [
+    7,
+    4,
+    0
+   ],
+   "SAU": [
+    10,
+    2,
+    0
+   ]
+  }
+ },
+ "DEM": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    37,
+    4,
+    0
+   ],
+   "IMP": [
+    20,
+    4,
+    0
+   ],
+   "SAU": [
+    16,
+    3,
+    0
+   ]
+  }
+ },
+ "MISSÃO": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    26,
+    7,
+    0
+   ],
+   "IMP": [
+    2,
+    2,
+    0
+   ],
+   "SAU": [
+    11,
+    2,
+    0
+   ]
+  }
+ },
+ "NOVO": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    21,
+    6,
+    0
+   ],
+   "IMP": [
+    17,
+    4,
+    0
+   ],
+   "SAU": [
+    24,
+    5,
+    0
+   ]
+  }
+ },
+ "UP": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    18,
+    10,
+    0
+   ],
+   "IMP": [
+    6,
+    5,
+    0
+   ],
+   "SAU": [
+    7,
+    9,
+    0
+   ]
+  }
+ },
+ "Avalanche": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    18,
+    5,
+    0
+   ],
+   "IMP": [
+    12,
+    7,
+    0
+   ],
+   "SAU": [
+    13,
+    5,
+    0
+   ]
+  }
+ },
+ "PL": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    25,
+    2,
+    0
+   ],
+   "IMP": [
+    19,
+    7,
+    1
+   ],
+   "SAU": [
+    17,
+    1,
+    0
+   ]
+  }
+ },
+ "PT": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    25,
+    2,
+    1
+   ],
+   "IMP": [
+    10,
+    0,
+    9
+   ],
+   "SAU": [
+    30,
+    1,
+    3
+   ]
+  }
+ },
+ "AVANTE": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "T76-JUS": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    32,
+    2,
+    0
+   ],
+   "IMP": [
+    8,
+    1,
+    0
+   ],
+   "SAU": [
+    25,
+    3,
+    0
+   ]
+  }
+ },
+ "PSD": {
+  "presenca": {
+   "SEG": true,
+   "IMP": true,
+   "SAU": true,
+   "T34-ADM": true,
+   "T35-CULT": true,
+   "T37-COM": true,
+   "T39-ESP": true,
+   "T40-ECO": true,
+   "T41-CID": true,
+   "T44-DH": true,
+   "T46-EDU": true,
+   "T48-AMB": true,
+   "T51-FUND": true,
+   "T52-PREV": true,
+   "T53-PLEG": true,
+   "T54-ENER": true,
+   "T55-RI": true,
+   "T57-DEF": true,
+   "T58-TRAB": true,
+   "T60-TUR": true,
+   "T61-TRANS": true,
+   "T62-CTI": true,
+   "T64-AGRO": true,
+   "T66-IND": true,
+   "T68-CONST": true,
+   "T70-FIN": true,
+   "T74-POL": true,
+   "E-CORR": true
+  },
+  "unidades": {
+   "SEG": [
+    57,
+    7,
+    1
+   ],
+   "IMP": [
+    11,
+    3,
+    0
+   ],
+   "SAU": [
+    65,
+    2,
+    0
+   ]
+  }
+ }
+}

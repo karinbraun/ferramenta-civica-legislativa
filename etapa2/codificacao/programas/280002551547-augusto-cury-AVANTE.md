@@ -46,7 +46,7 @@ Posição declarada [LITERAL]: "Meu coração abraça os valores sociais mais no
 | E-CORR | Sim | 52–53 | Programa "Sociedade Está de Olho" |
 | Demais | Não | — | T39, T42, T53, T57, T67, T72, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 29.
+Total de temas presentes (contando SEG, IMP e SAU): 26. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 29, era erro de soma; a tabela acima não mudou.)
 
 Sobre T57: a única menção às Forças Armadas é o controle de fronteiras contra o tráfico (p. 46), que entra em SEG pela regra v1.6. Não há proposta de defesa nacional.
 

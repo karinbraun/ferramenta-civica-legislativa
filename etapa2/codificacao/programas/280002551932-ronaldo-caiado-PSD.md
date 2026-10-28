@@ -42,7 +42,7 @@ Balanço de gestão [PARÁFRASE]: o programa usa a experiência do candidato com
 | E-CORR | Sim | 16, 20 | Item 14 do tema 6 (Sistema Nacional Anticorrupção; Lei do Enriquecimento Ilícito) |
 | Demais | Não | — | T42, T67, T72, T76, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 29.
+Total de temas presentes (contando SEG, IMP e SAU): 28. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 29, era erro de soma; a tabela acima não mudou.)
 
 Sobre T76: o programa não traz proposta de reforma do Judiciário. As varas especializadas em crime organizado (p. 18) entraram em SEG.
 

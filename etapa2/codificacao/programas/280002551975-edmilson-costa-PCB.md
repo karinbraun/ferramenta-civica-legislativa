@@ -36,7 +36,7 @@ Estrutura [PARÁFRASE]: introdução com a apresentação da chapa e a conjuntur
 | E-CORR | Sim | 13 | "Fim de todas as verbas e penduricalhos que ultrapassarem o teto constitucional"; "Restrição dos privilégios e vencimentos dos altos mandatários" |
 | Demais | Não | — | T39, T42, T53, T60, T67, T72, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 27.
+Total de temas presentes (contando SEG, IMP e SAU): 26. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 27, era erro de soma; a tabela acima não mudou.)
 
 ## Unidades dos temas da hipótese
 

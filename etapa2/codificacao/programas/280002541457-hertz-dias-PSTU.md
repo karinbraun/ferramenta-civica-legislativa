@@ -34,7 +34,7 @@ Estrutura [PARÁFRASE]: diagnóstico e conjuntura (p. 2–7); "Trabalho, melhore
 | E-CORR | Sim | 19 | "Investigação e punição de corruptos e corruptores" |
 | Demais | Não | — | T35 (religiões e culturas periféricas aparecem como discriminação, em T44), T37, T39, T42, T53, T57, T60, T68, T72, T74, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 25.
+Total de temas presentes (contando SEG, IMP e SAU): 22. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 25, era erro de soma; a tabela acima não mudou.)
 
 ## Unidades dos temas da hipótese
 

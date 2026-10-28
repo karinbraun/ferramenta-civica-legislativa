@@ -32,7 +32,7 @@ Estrutura [PARÁFRASE]: carta ao eleitor (p. 3), organização do plano (p. 4), 
 | E-CORR | Sim | 53, 58 | Currículo e vinculações dos indicados; agenda pública |
 | Demais | Não | — | T35, T37, T42, T44, T52, T60, T67, T72, T74, T76, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 25.
+Total de temas presentes (contando SEG, IMP e SAU): 22. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 25, era erro de soma; a tabela acima não mudou.)
 
 Observação [PARÁFRASE]: a proteção animal é um eixo próprio (Eixo 5) e atravessa saúde (Eixo 4) e segurança (Pilar 5 do Eixo 3). Na grade da Câmara, ela foi codificada em T48 (Meio Ambiente), que é onde a Câmara classifica a fauna.
 

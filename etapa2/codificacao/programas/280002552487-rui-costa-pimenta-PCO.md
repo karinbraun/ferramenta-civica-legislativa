@@ -29,9 +29,9 @@ Estrutura [PARÁFRASE]: uma apresentação (p. 1), seguida de 15 "pontos centrai
 | T70-FIN | Sim | 4, 6 | Teto de gastos, LRF, dívida pública (pontos 5 e 11) |
 | T74-POL | Sim | 6 | Ficha limpa, cláusula de barreira (ponto 12) |
 | T76-JUS | Sim | 6 | STF, eleição de juízes (ponto 12) |
-| Demais | Não | — | T42, T53, T57, T60, T62, T64, T66, T67, T68, T72, T85, T86 |
+| Demais | Não | — | E-CORR (conferido na entrega do Polo 2: o único trecho próximo, "Fim dos privilégios de oficiais militares, juízes e familiares", p. 3, está na lista de previdência e vai para T52), T42, T53, T57, T60, T62, T64, T66, T67, T68, T72, T85, T86 |
 
-Total de temas presentes (contando SEG, IMP e SAU): 20.
+Total de temas presentes (contando SEG, IMP e SAU): 19. (Corrigido em 28/10/2026, na entrega do Polo 2: o total anterior, 20, era erro de soma; a tabela acima não mudou.)
 
 ## Unidades dos temas da hipótese
 
