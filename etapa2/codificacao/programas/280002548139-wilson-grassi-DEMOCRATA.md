@@ -70,7 +70,7 @@ Observação [PARÁFRASE]: a proteção animal é um eixo próprio (Eixo 5) e at
 | GRA-S26 | 23 | Pilar 5 | "Programas territoriais para juventude nas áreas de maior incidência criminal, com avaliação de impacto feita por terceiro." | SEG.PREV |
 | GRA-S27 | 23–24 | Consulta popular sobre o modelo penitenciário | "se o Brasil quer adotar, para lideranças de facção e presos de altíssima periculosidade, um modelo de confinamento de segurança máxima nos moldes do que El Salvador implantou a partir de 2023. Levamos a pergunta ao eleitor por plebiscito e governamos conforme a resposta." | SEG.PENAL |
 | GRA-S28 | 25 | Compromisso de procedimento | "Publicar antes da consulta um caderno técnico com custo estimado de construção e operação, projeto arquitetônico de referência, regime jurídico proposto e parecer sobre compatibilidade constitucional e convencional." | SEG.PENAL |
-| GRA-S29 | 33 | 6.2 Rastreabilidade | "Uso do dado de rastreabilidade também contra o abigeato e a comercialização de produto de origem ilegal, cruzando a base com registro de ocorrência policial." | SEG.CRIME |
+| GRA-S29 | 33 | 6.2 Rastreabilidade | "Uso do dado de rastreabilidade também contra o abigeato e a comercialização de produto de origem ilegal, cruzando a base com registro de ocorrência policial." | SEG.PREV |
 | GRA-S30 | 50 | 13.3 Fronteira com presença permanente | "A fronteira brasileira é a porta por onde entram a arma e a droga que abastecem a facção na periferia de São Paulo e do Rio." | SEG.DIAG |
 | GRA-S31 | 50 | 13.3 | "Bases permanentes nos trechos críticos, com efetivo fixo, em lugar de operações de algumas semanas por ano." | SEG.PREV |
 | GRA-S32 | 50 | 13.3 | "Conclusão e ampliação do sistema integrado de monitoramento de fronteiras, com radar, sensoriamento remoto, aeronave não tripulada e centro de comando integrado com as polícias." | SEG.PREV |
@@ -162,3 +162,5 @@ Não codificado como SAU:
 - **SAU:** "SUS", "atenção primária", "fila da cirurgia", "fila nacional única e pública", "Saúde Única" (integração de saúde humana, animal e ambiental).
 
 Contagem: SEG 41 (2 repetições), IMP 24 (3 repetições), SAU 19 (2 repetições).
+
+Revisão v1.8 (28/10/2026, depois do reteste da rodada 2; ver `reteste.md`): GRA-S29 (rastreabilidade contra o abigeato) passou de SEG.CRIME para SEG.PREV: o abigeato não é crime organizado, e o instrumento é cruzamento de dados. Totais inalterados.

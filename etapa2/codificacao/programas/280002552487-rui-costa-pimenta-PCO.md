@@ -54,7 +54,7 @@ Total de temas presentes (contando SEG, IMP e SAU): 20.
 | PCO-I2 | 2 | 01 · Parar o roubo dos salários | "Anulação de todas as dívidas dos trabalhadores com o sistema financeiro." | IMP.JUROS |
 | PCO-I3 | 3 | 03 · Revogar as "reformas" | "Imposto sobre as grandes fortunas para garantir os recursos necessários para as aposentadorias e pensões" | IMP.TRIB |
 | PCO-I4 | 3 | 04 · Cancelar as privatizações | "Redução imediata do preço dos combustíveis em 50%. Fim da política de paridade com o dólar" | IMP.PRECO |
-| PCO-I5 | 6 | 11 · Fim da ditadura dos bancos | "O Brasil tem os maiores juros reais do mundo." | IMP.JUROS |
+| PCO-I5 | 6 | 11 · Fim da ditadura dos bancos | "O Brasil tem os maiores juros reais do mundo." | IMP.DIAG (objeto: JUROS) |
 | PCO-I6 | 6 | 11 · Fim da ditadura dos bancos | "Imediata redução das taxas de juros" | IMP.JUROS |
 | PCO-I7 | 6 | 11 · Fim da ditadura dos bancos | "Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas." | IMP.TRIB |
 
@@ -80,3 +80,5 @@ Não codificado como SAU: "Mais verbas para a saúde e educação e demais servi
 - **SAU:** "saúde pública e gratuita", "destruição sistemática do SUS", "mercadores da doença", "Mais Médicos".
 
 Contagem: SEG 6, IMP 7, SAU 6.
+
+Revisão v1.8 (28/10/2026, depois do reteste da rodada 2; ver `reteste.md`): PCO-I5 passou de IMP.JUROS para IMP.DIAG, com o objeto anotado. Totais inalterados.

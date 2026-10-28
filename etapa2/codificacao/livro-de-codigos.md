@@ -1,6 +1,6 @@
 # Livro de códigos — Etapa 2
 
-Versão 1.7 (28/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
+Versão 1.8 (28/10/2026). As alterações feitas depois do reteste são registradas na seção "Histórico".
 
 ## Regras gerais
 
@@ -10,7 +10,8 @@ Versão 1.7 (28/10/2026). As alterações feitas depois do reteste são registra
 - **Presença de um tema num programa:** pelo menos uma unidade programática sobre ele. Menção de passagem dentro de outra proposta, sem conteúdo próprio, não conta. Por exemplo, "destinar o petróleo à saúde e educação" conta para Energia, mas não para Saúde nem para Educação.
 - **Criação ou revogação de lei penal** (criminalizar, descriminalizar, legalizar uma conduta hoje tipificada, mudar penas ou maioridade penal) vai para SEG.PENAL, mesmo quando a motivação é de outro tema. Exemplos: "Criminalização da misoginia"; "Legalização do aborto". Esses casos recebem a marca [fronteira], porque o mesmo conteúdo também se relaciona com T44 ou SAU. [INFERÊNCIA para o Polo 3] Como SEG incorpora o tema 43 da Câmara (Direito Penal), um rótulo como "segurança e combate ao crime" passa a abrigar temas de direitos e de saúde. Esse é um ponto a discutir na definição dos rótulos.
 - **Saúde de grupos específicos:** uma proposta de serviço de saúde específico para um grupo (terapia hormonal, prevenção de ISTs, CAPS) vai para SAU. A menção genérica de "acesso à saúde" dentro de uma lista de direitos de um grupo vai para T44.
-- **Objetivo explícito de preço:** quando uma proposta de outro tema (por exemplo, assistência ou abastecimento) declara de forma explícita o objetivo de reduzir ou controlar preços ao consumidor, a unidade recebe IMP.PRECO. O outro tema é registrado só como presença.
+- **Objetivo explícito de preço:** quando uma proposta de outro tema (por exemplo, assistência ou abastecimento) declara de forma explícita o objetivo de reduzir ou controlar preços ao consumidor, a unidade recebe IMP.PRECO. O outro tema é registrado só como presença. A regra vale só para bens e serviços de consumo geral das famílias (alimentos, energia elétrica, combustíveis, gás de cozinha, tarifas públicas, inflação, custo de vida em geral). Preço de bem ou serviço setorial (moradia, telecomunicações, medicamentos, materiais para pessoas com deficiência, bens de capital, infraestrutura em geral) vai para o tema do setor (v1.8).
+- **Diagnóstico:** toda unidade sem proposta (dados, constatações, críticas) recebe o subcódigo DIAG do tema, mesmo quando trata de um objeto específico. O objeto é anotado entre parênteses, por exemplo "SEG.DIAG (objeto: VIOL)". Assim, a contagem do Polo 3 separa propostas de diagnósticos sem perder o objeto (v1.8).
 - **Incentivo tributário setorial:** isenções ou regimes tributários para um setor ou atividade específica (startups, datacenters, venture capital, games) vão para o tema do setor (T62, T66 etc.). Medidas tributárias gerais, ou para todos os pequenos e novos negócios, vão para IMP.TRIB.
 - **Forças Armadas e fronteira:** uma ação das Forças Armadas (ou na fronteira) com finalidade declarada de combate ao crime (tráfico, contrabando, facções) vai para SEG, com subcódigo CRIME, PREV ou FED. A capacidade de defesa (orçamento, soldo, equipamento, indústria de defesa), ou a fronteira sem finalidade criminal declarada, vai para T57-DEF.
 - **Balanço de gestão:** trecho que relata o que um governo já fez ("Recriamos", "Aprovamos", "No governo X, caiu...") é codificado pelo objeto, com subcódigo DIAG (ou o subcódigo do objeto, quando específico), e recebe a marca [balanço]. Conta para a presença do tema, mas é separado das propostas na contagem do Polo 3.
@@ -28,14 +29,14 @@ Exclui: defesa nacional e Forças Armadas em função externa (vai para T57-DEF)
 
 | Subcódigo | Definição |
 |---|---|
-| SEG.CRIME | Crime organizado, facções, milícias, tráfico, controle territorial |
+| SEG.CRIME | Crime organizado, facções, milícias, tráfico, controle territorial, asfixia financeira do crime |
 | SEG.POL | Polícias e forças de segurança: efetivo, carreira, equipamento, uso da força, estrutura (inclusive desmilitarização ou dissolução) |
 | SEG.PENAL | Leis penais e processuais, penas, maioridade penal, sistema prisional, progressão de regime |
 | SEG.VIOL | Violência contra grupos específicos (mulheres, crianças, população negra, juventude) e violência policial |
 | SEG.ARMAS | Armas de fogo, porte, autodefesa |
 | SEG.FED | Arquitetura institucional e paradigma da política de segurança: competências entre União, estados e municípios, ministérios, sistemas e fundos nacionais, propostas de substituir o modelo de segurança |
-| SEG.PREV | Prevenção social do crime, inteligência, tecnologia de vigilância, ressocialização |
-| SEG.DIAG | Diagnóstico geral da segurança, sem proposta específica |
+| SEG.PREV | Prevenção social do crime, inteligência, tecnologia de vigilância e centrais integradas, ressocialização de egressos e fora do sistema prisional (trabalho e educação dentro das prisões vão para SEG.PENAL) |
+| SEG.DIAG | Diagnóstico da segurança, sem proposta (geral ou de objeto específico, com o objeto anotado) |
 
 ### IMP — Impostos e custo de vida
 Não há tema correspondente na Câmara. Os mais próximos são 40 Economia e 70 Finanças Públicas e Orçamento.
@@ -47,7 +48,7 @@ Exclui: política industrial, comércio exterior e crescimento em geral (T40-ECO
 | IMP.TRIB | Carga e estrutura tributária: reforma, tributos sobre consumo, renda, patrimônio, grandes fortunas, isenções, simplificação |
 | IMP.PRECO | Preços e custo de vida: combustíveis, alimentos, energia, tarifas, inflação, preços administrados |
 | IMP.JUROS | Juros, crédito, endividamento das famílias |
-| IMP.DIAG | Diagnóstico geral de carga ou custo, sem proposta específica |
+| IMP.DIAG | Diagnóstico de carga, preço, juros ou custo, sem proposta (geral ou de objeto específico, com o objeto anotado) |
 
 ### SAU — Saúde pública
 Correspondência na Câmara: 56 Saúde.
@@ -62,7 +63,7 @@ Exclui: saneamento (T41-CID), esporte como saúde (T39-ESP), salvo quando a prop
 | SAU.PUBPRIV | Relação público-privado: privatização, parcerias, planos de saúde, compra de serviços |
 | SAU.ESP | Agendas específicas: saúde mental, doenças raras, câncer, saúde da mulher, medicamentos, vacinação |
 | SAU.TEC | Tecnologia, pesquisa e produção em saúde: saúde digital, telessaúde, prontuário, avaliação e incorporação de tecnologias, complexo industrial da saúde (CEIS), institutos de pesquisa e produção |
-| SAU.DIAG | Diagnóstico geral da saúde, sem proposta específica |
+| SAU.DIAG | Diagnóstico da saúde, sem proposta (geral ou de objeto específico, com o objeto anotado) |
 
 ## B. Demais temas da Câmara (só presença)
 
@@ -120,3 +121,4 @@ Abertas durante a codificação. Cada uma traz a definição, o motivo de não c
 - v1.5 (27/10/2026), durante a codificação do PSTU: a regra da lei penal passa a incluir explicitamente a legalização de condutas, com marca de fronteira; nova regra para saúde de grupos específicos. Revisão no PCB: o aborto passou de T44 para SEG.PENAL (PCB-S14). PCO, DC e Marçal conferidos, sem mudanças.
 - v1.6 (27/10/2026), durante a codificação do DEMOCRATA: regra das Forças Armadas e da fronteira. Programas anteriores conferidos: PCB p. 13 (Forças Armadas nas fronteiras, sem finalidade criminal declarada) continua em T57; Marçal e DC (fronteira sob segurança, sem Forças Armadas) continuam em SEG.PREV.
 - v1.7 (28/10/2026), durante a codificação do PT: marca [balanço] para relatos de gestão. Aplicada também ao PL (FLA-I8, balanço do governo Bolsonaro). Nos programas 1 a 10 não há balanço de gestão federal codificado (o relato de Zema sobre Minas Gerais, p. 3, ficou fora da codificação por ser biográfico).
+- v1.8 (28/10/2026), depois do reteste da rodada 2 (`reteste.md`): (a) regra do diagnóstico, que passa a receber sempre o subcódigo DIAG, com o objeto anotado; (b) a regra do objetivo explícito de preço fica restrita aos bens de consumo geral; (c) SEG.PREV e SEG.PENAL deixam de se sobrepor em ressocialização; (d) centrais integradas de segurança vão para SEG.PREV. Conferência retroativa nos 14 programas: 38 unidades mudaram de código (lista em `reteste.md`). A presença dos temas não mudou em nenhum programa.

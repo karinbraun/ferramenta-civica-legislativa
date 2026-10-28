@@ -56,7 +56,7 @@ Sobre T57: a única menção às Forças Armadas é o controle de fronteiras con
 
 | # | Pág. | Seção | Trecho [LITERAL] | Código |
 |---|---|---|---|---|
-| CUR-S1 | 3 | Cultura da paz | "em 2025, dados oficiais preliminares registraram 1.568 feminicídios no Brasil, ou seja, quatro a cinco mulheres assassinadas por dia." | SEG.VIOL |
+| CUR-S1 | 3 | Cultura da paz | "em 2025, dados oficiais preliminares registraram 1.568 feminicídios no Brasil, ou seja, quatro a cinco mulheres assassinadas por dia." | SEG.DIAG (objeto: VIOL) |
 | CUR-S2 | 37 | Teses · 1 d) Reforma administrativa | "estudos para redução de ministérios e criação do ministério da segurança para reduzir a criminalidade" | SEG.FED |
 | CUR-S3 | 45 | Teses · 7 a) Integração das forças de segurança | "Recriação do Ministério da segurança pública. O combate ao crime organizado exige atuação coordenada entre União, Estados e Municípios. Promoveremos integração plena entre Polícia Federal, Polícias Civis, Polícias Militares, Guardas Municipais (polícia FOCO - Força de Combate Preventivo), onde 5% dos colaboradores dos municípios devem ser convertidos na polícia FOCO" | SEG.FED |
 | CUR-S4 | 45 | Teses · 7 a) | "Diretor-Geral da Polícia Federal escolhido entre delegados de classe especial, em lista tríplice, será escolhido pelo presidente, mandato de dois anos com possibilidade de recondução por mais dois anos." | SEG.POL |
@@ -75,7 +75,7 @@ Sobre T57: a única menção às Forças Armadas é o controle de fronteiras con
 | CUR-S17 | 53 | Teses · 12 b) Resposta rápida às emergências | "Utilizaremos monitoramento inteligente, aplicativos de emergência (botão do pânico ou de alerta com geolocalização), centrais integradas e protocolos de resposta imediata para proteger mulheres em situação de risco." | SEG.VIOL |
 | CUR-S18 | 54 | Teses · 12 e) | "enfrentaremos com seriedade o fenômeno alarmante de violência e morte de mulheres, que ainda atinge níveis inaceitáveis na sociedade brasileira, exigindo ação coordenada do Estado." | SEG.VIOL |
 | CUR-S19 | 55 | Teses · 12 g) Educação para o respeito | "A prevenção da violência começa na formação das novas gerações. Desenvolveremos programas educacionais que promovam respeito mútuo, cultura de paz, resolução pacífica de conflitos" | SEG.VIOL [fronteira com T46] |
-| CUR-S20 | 86 | Projeto 3 · Mulheres Vivas | "registrou preliminarmente cerca de 1.568 feminicídios – quatro a cinco mulheres assassinadas por dia - o maior número desde a tipificação do crime." | SEG.VIOL (rep. de S1) |
+| CUR-S20 | 86 | Projeto 3 · Mulheres Vivas | "registrou preliminarmente cerca de 1.568 feminicídios – quatro a cinco mulheres assassinadas por dia - o maior número desde a tipificação do crime." | SEG.DIAG (objeto: VIOL) (rep. de S1) |
 | CUR-S21 | 87 | Projeto 3 · 1. Proteção à vida e prevenção do feminicídio | "O Programa Mulheres Vivas constituirá uma política nacional integrada de prevenção ao feminicídio e enfrentamento da violência contra a mulher [...]. Também ampliaremos a integração entre Delegacias Especializadas de Atendimento à Mulher, Ministério Público, Defensoria Pública" | SEG.VIOL (rep. de S15 e S16) |
 | CUR-S22 | 88 | Projeto 3 · 2. Resposta rápida | "Ampliaremos o uso de botões de alerta com geolocalização, aplicativos de emergência, monitoramento eletrônico de agressores nos casos determinados judicialmente" | SEG.VIOL (rep. de S17) |
 | CUR-S23 | 92 | Projeto 3 · 9. Educação para o respeito e cultura de paz | "Desenvolveremos programas educacionais voltados ao respeito mútuo, à dignidade humana, à cultura de paz, à resolução pacífica de conflitos, à prevenção da violência" | SEG.VIOL (rep. de S19) |
@@ -89,7 +89,7 @@ Sobre T57: a única menção às Forças Armadas é o controle de fronteiras con
 | CUR-S31 | 189 | Projeto 18 · 8. Proteção das escolas | "Cada escola pública poderá estar integrada ao sistema FATO, com: Botão de emergência; Monitoramento inteligente; Patrulhamento preventivo" | SEG.PREV |
 | CUR-S32 | 189–190 | Projeto 18 · 9. Combate ao crime organizado | "A FOCO principal será enfraquecer financeiramente as organizações criminosas. [...] O objetivo será atacar o patrimônio do crime, bloquear recursos ilícitos e desarticular organizações criminosas." | SEG.CRIME (rep. de S5) |
 | CUR-S33 | 190 | Projeto 18 · 10. Fronteiras inteligentes | "Uso intensivo de: Drones; Satélites; Sensores; Radares [...] Maior controle sobre: Tráfico internacional; Armas; Drogas; Contrabando" | SEG.CRIME (rep. de S9) |
-| CUR-S34 | 190 | Projeto 18 · 11. Municípios inteligentes | "Cada cidade possuirá um Centro Integrado de Segurança conectado ao sistema nacional." | SEG.FED |
+| CUR-S34 | 190 | Projeto 18 · 11. Municípios inteligentes | "Cada cidade possuirá um Centro Integrado de Segurança conectado ao sistema nacional." | SEG.PREV |
 
 Título [LITERAL]: "7. SEGURANÇA PÚBLICA 4.0" (p. 45); fecho do Projeto 18 [LITERAL]: "Pior do que o crime organizado é Estado desorganizado: o projeto FATO, organizará a segurança pública como nunca foi feito na história do Brasil." (p. 192).
 
@@ -106,7 +106,7 @@ Não codificado como SEG:
 
 | # | Pág. | Seção | Trecho [LITERAL] | Código |
 |---|---|---|---|---|
-| CUR-I1 | 4 | Cultura da paz | "A dor do agricultor e do comerciante, que muitas vezes possuem uma lucratividade inferior a 10% e enfrentam um custo anual de financiamento de, no mínimo, 20% para manter seus negócios" | IMP.JUROS |
+| CUR-I1 | 4 | Cultura da paz | "A dor do agricultor e do comerciante, que muitas vezes possuem uma lucratividade inferior a 10% e enfrentam um custo anual de financiamento de, no mínimo, 20% para manter seus negócios" | IMP.DIAG (objeto: JUROS) |
 | CUR-I2 | 28 | Introdução | "Precisamos reduzir burocracia sufocante. Precisamos simplificar impostos." | IMP.TRIB |
 | CUR-I3 | 37 | Teses · 1 f) Simplificação tributária | "Iremos avaliar os impactos da reforma tributária sobre os diferentes setores da economia, com especial atenção às micro e pequenas empresas [...]. Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários" | IMP.TRIB |
 | CUR-I4 | 37 | Teses · 1 f) | "Defenderemos a simplificação dos tributos, a redução da burocracia, a unificação de procedimentos e a diminuição dos custos de conformidade para empresas e cidadãos." | IMP.TRIB |
@@ -114,7 +114,7 @@ Não codificado como SEG:
 | CUR-I6 | 55–56 | Teses · 12 h) Igualdade na concessão de crédito para mulheres | "Também vamos propor mudanças nos critérios e nas matrizes de risco utilizados na concessão de crédito ao público feminino [...]. O objetivo é assegurar que as mulheres tenham acesso a taxas de juros menores ou, no mínimo, a condições equivalentes às oferecidas aos homens" | IMP.JUROS [fronteira com T44] |
 | CUR-I7 | 89–90 | Projeto 3 · 5. Igualdade no acesso ao crédito | "Incentivaremos o aperfeiçoamento das matrizes de risco para que sejam cada vez mais fundamentadas no risco efetivo do tomador" | IMP.JUROS (rep. de I6) |
 | CUR-I8 | 129 | Projeto 8 · Agroindústria Brasil | "Queremos construir condições para que o produtor possa ganhar mais [...] e, simultaneamente, o consumidor possa encontrar alimentos mais acessíveis na mesa de sua família. Não se combate o preço dos alimentos atacando quem produz. Combate-se aumentando produtividade, infraestrutura, armazenagem, eficiência, industrialização e competição." | IMP.PRECO |
-| CUR-I9 | 135 | Projeto 9 · 4.8 Cooperativas de saúde e medicamentos | "propomos o incentivo às cooperativas de compra de medicamentos. Por meio da compra coletiva diretamente da indústria, milhões de consumidores poderão ter acesso a medicamentos com preços mais baixos." | IMP.PRECO [fronteira com SAU] |
+| CUR-I9 | 135 | Projeto 9 · 4.8 Cooperativas de saúde e medicamentos | "propomos o incentivo às cooperativas de compra de medicamentos. Por meio da compra coletiva diretamente da indústria, milhões de consumidores poderão ter acesso a medicamentos com preços mais baixos." | SAU.ESP (v1.8: fora de IMP) |
 | CUR-I10 | 135 | Projeto 9 · 4.9 Cooperativas de consumo | "Ao comprar em escala, os cooperados poderão reduzir os preços de alimentos, medicamentos, materiais escolares e produtos essenciais. Essa política contribuirá diretamente para diminuir o custo de vida das famílias brasileiras." | IMP.PRECO |
 
 Sobre CUR-I1: diagnóstico de juros para quem produz e comercia (crédito a negócios). Entra em IMP.JUROS porque o subcódigo inclui "juros, crédito"; as propostas de crédito a empreendedores (Banco do Empreendedor) ficaram em T66 (ver abaixo). [INFERÊNCIA] Há uma assimetria a resolver no reteste: IMP.JUROS foi definido para juros ao consumidor e endividamento das famílias, e este diagnóstico trata de negócios.
@@ -158,7 +158,7 @@ Não codificado como IMP:
 | CUR-H20 | 163 | Projeto 13 · 7. Infraestrutura digital | "o programa criará uma ampla rede de pontos públicos de acesso digital assistido" em "Unidades básicas de saúde; Escolas; Centros comunitários" | SAU.TEC |
 | CUR-H21 | 164 | Projeto 13 · 8. Nova organização do sistema público de saúde | "A medicina digital não substituirá o atendimento presencial, mas reorganizará o sistema de saúde. Casos simples poderão ser resolvidos rapidamente por meio da plataforma digital." | SAU.FIN |
 | CUR-H22 | 166 | Projeto 14 · Prevenção e detecção precoce do câncer | "O projeto SOCIEDADE ESTÁ ABRAÇANDO (SEA) propõe a maior estratégia integrada de prevenção do câncer, unindo: Educação continuada; Gestão da emoção; Tecnologia; Mobilização social; Comitês regionais" | SAU.ESP |
-| CUR-H23 | 166 | Projeto 14 · 2. Contextualização | "Dados do Brasil: Cerca de 700 mil novos casos por ano; Mais de 230 mil mortes anuais; Alta taxa de diagnóstico tardio" | SAU.ESP |
+| CUR-H23 | 166 | Projeto 14 · 2. Contextualização | "Dados do Brasil: Cerca de 700 mil novos casos por ano; Mais de 230 mil mortes anuais; Alta taxa de diagnóstico tardio" | SAU.DIAG (objeto: ESP) |
 | CUR-H24 | 168 | Projeto 14 · Câncer de pele | "O fortalecimento da Atenção Primária permitirá capacitar profissionais das Unidades Básicas de Saúde para identificar lesões suspeitas, realizar documentação fotográfica e dermatoscopia digital, com encaminhamento remoto das imagens" | SAU.ESP |
 | CUR-H25 | 171 | Projeto 14 · Integração ao Projeto SEA | "A experiência do Hospital de Amor servirá como referência para a construção da maior rede nacional de prevenção do câncer já implementada no Brasil. O modelo será: Expandido como referência nacional de qualidade [...] Fortalecido por uma ampla rede de unidades móveis" | SAU.ESP |
 | CUR-H26 | 171–172 | Projeto 14 · 8. Programa Nacional 365 Dias de Saúde Emocional e Prevenção | "será criado um programa permanente de educação preventiva, oferecendo diariamente conteúdos simples e cientificamente fundamentados para toda a população." | SAU.ESP |
@@ -181,4 +181,6 @@ Não codificado como SAU:
 - **IMP:** "simplificação tributária", "carga menor", "alíquota-referência", "custos de conformidade", "juros civilizados", "spread", "custo de vida" (três ocorrências, p. 60, 135 e 138), "preços mais baixos". Busca de termos feita em 28/10/2026.
 - **SAU:** "desafogar o SUS", "telemedicina", "medicina digital", "saúde emocional", "gestão da emoção", "prevenção", "diagnóstico precoce".
 
-Contagem: SEG 34 (11 repetições), IMP 10 (1 repetição; 1 de fronteira em IMP.PRECO), SAU 27 (3 repetições).
+Contagem: SEG 34 (11 repetições), IMP 9 (1 repetição), SAU 28 (3 repetições).
+
+Revisão v1.8 (28/10/2026, depois do reteste da rodada 2; ver `reteste.md`): CUR-S1, S20, I1 e H23 passaram ao subcódigo DIAG, com o objeto anotado; com isso, a pendência sobre IMP.JUROS aplicado ao crédito de negócios (CUR-I1) fica resolvida, porque a unidade é diagnóstico. CUR-S34 (Centro Integrado de Segurança municipal) passou de SEG.FED para SEG.PREV, como as demais centrais integradas do corpus. CUR-I9 (cooperativas de compra de medicamentos) saiu de IMP.PRECO para SAU.ESP. IMP passa de 10 para 9 unidades; SAU, de 27 para 28.

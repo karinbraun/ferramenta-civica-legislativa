@@ -102,7 +102,7 @@ Sobre T76: o programa não traz proposta de reforma do Judiciário. As varas esp
 | CAI-S48 | 20 | Tema 6 · Proposta 13 | "Trabalhar fortemente pela aprovação da PEC da redução da maioridade penal para 16 (dezesseis) anos, com redirecionamento para: autores de crimes de homicídio, tentativa de homicídio, tortura [...]" | SEG.PENAL |
 | CAI-S49 | 20 | Tema 6 · Proposta 13 | "Alterar os arts. 155 e 157 [...] (Código Penal), para agravar a punição da “subtração mediante arrebatamento diretamente exercido contra a vítima” (furto) de telefone celular [...] equiparando ao crime de roubo." | SEG.PENAL |
 | CAI-S50 | 30–31 | Tema 10 · Defesa · Proposta 2 | "Integrar Forças Armadas, inteligência, Polícia Federal, Polícia Rodoviária Federal, forças estaduais e órgãos de fiscalização em operações contra narcotráfico, tráfico de armas, garimpo ilegal, extração clandestina de madeira e organizações criminosas." | SEG.CRIME [fronteira com T57] |
-| CAI-S51 | 58 | Tema 19 · Mulheres · Diagnóstico | "Feminicídios, tentativas, estupros e violência doméstica mantêm números elevados, com grande subnotificação e concentração dentro de casa. Medidas protetivas nem sempre são monitoradas" | SEG.VIOL |
+| CAI-S51 | 58 | Tema 19 · Mulheres · Diagnóstico | "Feminicídios, tentativas, estupros e violência doméstica mantêm números elevados, com grande subnotificação e concentração dentro de casa. Medidas protetivas nem sempre são monitoradas" | SEG.DIAG (objeto: VIOL) |
 | CAI-S52 | 58 | Tema 19 · Proposta 1 | "Pacto Nacional pelo Fim do Feminicídio: Estabelecer metas, protocolo de risco, integração de dados e responsabilidades de União, estados e municípios." | SEG.VIOL |
 | CAI-S53 | 58 | Tema 19 · Proposta 2 | "Criar interoperabilidade nacional para medidas protetivas, cadastro de risco e alertas. Expandir monitoramento eletrônico de agressores de alto risco, botão de emergência e patrulhas especializadas" | SEG.VIOL (rep. de S37) |
 | CAI-S54 | 58 | Tema 19 · Proposta 3 | "Adotar protocolo nacional de feminicídio, estupro e violência sexual, fortalecer perícia e Salas Lilás e reduzir revitimização." | SEG.VIOL |
@@ -142,14 +142,14 @@ Não codificado como SEG:
 | # | Pág. | Seção | Trecho [LITERAL] | Código |
 |---|---|---|---|---|
 | CAI-I1 | 12 | Tema 4 · Estabilização fiscal · Sumário executivo | "O ajuste não será baseado em aumentos sucessivos de impostos nem em cortes lineares." | IMP.TRIB |
-| CAI-I2 | 12 | Tema 4 · Diagnóstico | "os juros reais permanecem entre os mais altos do mundo. A incerteza sobre a sustentabilidade das contas públicas aumenta o custo de financiamento do governo, das empresas e das famílias" | IMP.JUROS |
+| CAI-I2 | 12 | Tema 4 · Diagnóstico | "os juros reais permanecem entre os mais altos do mundo. A incerteza sobre a sustentabilidade das contas públicas aumenta o custo de financiamento do governo, das empresas e das famílias" | IMP.DIAG (objeto: JUROS) |
 | CAI-I3 | 12 | Tema 4 · Diagnóstico | "A carga tributária já é elevada e o sistema permanece complexo. A resposta não pode ser a criação contínua de receitas para acompanhar despesas que crescem automaticamente." | IMP.DIAG |
 | CAI-I4 | 13 | Tema 4 · Proposta 10 | "Coordenar políticas fiscal e monetária com respeito à autonomia do Banco Central: Reduzir pressões fiscais sobre preços, aperfeiçoar comunicação e previsibilidade e criar condições para que inflação controlada, juros menores e desenvolvimento coexistam de forma sustentável." | IMP.JUROS |
 | CAI-I5 | 13 | Tema 4 · Compromisso | "estabilizar a dívida, reconstruir superávits, proteger o investimento e reduzir o peso dos juros sem transferir a conta aos mais pobres e sem recorrer a aumentos permanentes de carga tributária." | IMP.TRIB (rep. de I1) |
 | CAI-I6 | 19 | Tema 6 · Proposta 12 | "Tratar como questão de saúde pública o superendividamento, limitando através da criação de um teto, e a exploração de públicos vulneráveis produzidos pelas apostas." | IMP.JUROS [fronteira com SAU] |
 | CAI-I7 | 26 | Tema 8 · Ciência e tecnologia · Proposta 4 | "reduzir a carga tributária do smartphone de entrada, como uma forma de subsídio e inclusão digital da população de baixa renda" | IMP.TRIB [fronteira com T62] |
 | CAI-I8 | 35 | Tema 12 · Energia · Sumário executivo | "Petrobras e demais estatais terão governança, eficiência e investimento, sem uso partidário ou controle artificial de preços." | IMP.PRECO |
-| CAI-I9 | 35 | Tema 12 · Diagnóstico | "Há, porém, um paradoxo que o brasileiro sente todo mês: essa energia limpa e abundante chega cara. A conta de luz carrega bilhões de reais por ano em subsídios e políticas públicas embutidos na tarifa" | IMP.PRECO |
+| CAI-I9 | 35 | Tema 12 · Diagnóstico | "Há, porém, um paradoxo que o brasileiro sente todo mês: essa energia limpa e abundante chega cara. A conta de luz carrega bilhões de reais por ano em subsídios e políticas públicas embutidos na tarifa" | IMP.DIAG (objeto: PRECO) |
 | CAI-I10 | 35 | Tema 12 · Proposta 1 | "Energia mais barata e conta de luz transparente: Rever, de forma gradual e transparente [...] os subsídios e encargos embutidos na conta de luz [...] e transferir progressivamente para o orçamento público [...] as políticas de natureza social ou setorial" | IMP.PRECO |
 | CAI-I11 | 35–36 | Tema 12 · Proposta 2 | "Implementar o cronograma de abertura do mercado de energia [...]. Promover a concorrência com regras adequadas, transparência e segurança, de modo a reduzir custos e ampliar a liberdade de escolha" | IMP.PRECO |
 | CAI-I12 | 36 | Tema 12 · Proposta 3 | "Proteger quem mais precisa, da conta de luz ao botijão de gás: Manter e aperfeiçoar a gratuidade da energia elétrica para as famílias de baixa renda [...] reduzir o custo do gás nacional, contribuindo para tornar o botijão mais acessível a todas as famílias." | IMP.PRECO |
@@ -257,3 +257,5 @@ Não codificado como SAU:
 - **SAU:** "fila transparente", "prioridade clínica", "regulação inteligente", "missões", "soberania sanitária", "SUS digital", "hospitais inteligentes", "valor em saúde".
 
 Contagem: SEG 65 (7 repetições; 1 unidade de balanço), IMP 14 (2 repetições), SAU 67 (4 repetições).
+
+Revisão v1.8 (28/10/2026, depois do reteste da rodada 2; ver `reteste.md`): CAI-S51, CAI-I2 e CAI-I9 passaram ao subcódigo DIAG, com o objeto anotado. Totais inalterados.

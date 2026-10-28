@@ -52,13 +52,13 @@ Total de temas presentes (contando SEG, IMP e SAU): 21.
 | AVA-S7 | 14 | Proposta 05 · Punição que funciona | "Vamos endurecer as penas para crimes violentos e organizados, fechar as brechas jurídicas que soltam criminoso perigoso de volta pra rua" | SEG.PENAL |
 | AVA-S8 | 14 | Proposta 05 · Isolamento total | "Nosso plano de governo tem como base isolar de verdade o preso de alta periculosidade do mundo lá fora, fechando qualquer canal que sirva pra passar ordem de dentro pra fora da cadeia." | SEG.PENAL |
 | AVA-S9 | 28 | Proposta 12 · Equipar as Forças Armadas | "existem relatos recorrentes de organização criminosa internacional atuando nas fronteiras da Amazônia, lucrando com extração ilegal de madeira, ouro e recurso natural, muitas vezes usando a mesma rota pra tráfico de droga." | SEG.DIAG |
-| AVA-S10 | 36 | Proposta 16 · Segurança da Mulher | "o Brasil bateu recorde histórico de feminicídio em 2025: 1.568 mulheres assassinadas por razão de gênero" | SEG.VIOL |
+| AVA-S10 | 36 | Proposta 16 · Segurança da Mulher | "o Brasil bateu recorde histórico de feminicídio em 2025: 1.568 mulheres assassinadas por razão de gênero" | SEG.DIAG (objeto: VIOL) |
 | AVA-S11 | 36 | Proposta 16 | "Nosso governo terá tolerância zero com violência doméstica e feminicídio: fiscalização real de medida protetiva, resposta rápida da polícia em caso de descumprimento, e presença da rede de proteção à mulher também no interior do país" | SEG.VIOL |
 | AVA-S12 | 36 | Proposta 16 | "Nosso governo vai expandir a rede de casas de acolhimento pra todo o país, com estrutura completa — não só teto temporário, mas orientação jurídica, suporte psicológico contínuo e recolocação real no mercado de trabalho" | SEG.VIOL |
 | AVA-S13 | 36 | Proposta 16 | "a Lei Maria da Penha já permite que a Justiça determine tratamento e reeducação pro agressor [...]. Nosso governo vai dar escala nacional a esse tipo de tratamento" | SEG.VIOL |
 | AVA-S14 | 37 | Proposta 16 | "A mesma rede de acolhimento que nosso governo vai expandir pra mulher vítima de violência também vai acolher idoso em situação de risco, com proteção jurídica específica contra apropriação patrimonial" | SEG.VIOL |
 | AVA-S15 | 37 | Proposta 16 · Vagão exclusivo | "Nosso governo vai criar lei nacional obrigando vagão exclusivo pra mulher em todo sistema de metrô e trem urbano do país" | SEG.VIOL [fronteira com T61] |
-| AVA-S16 | 39 | Proposta 17 · Exploração Sexual Infantil | "Em 2025, a SaferNet Brasil registrou 63.214 denúncias de abuso e exploração sexual infantil" | SEG.VIOL |
+| AVA-S16 | 39 | Proposta 17 · Exploração Sexual Infantil | "Em 2025, a SaferNet Brasil registrou 63.214 denúncias de abuso e exploração sexual infantil" | SEG.DIAG (objeto: VIOL) |
 | AVA-S17 | 39–40 | Proposta 17 · Punição rígida | "Nosso governo vai lutar por legislação que no mínimo dobre a pena mínima hoje em vigor, tanto pra quem estrutura ou comanda rede de exploração sexual infantil quanto pra quem vende acesso ou material envolvendo criança" | SEG.PENAL |
 | AVA-S18 | 39 | Proposta 17 · Prevenção | "Nosso governo vai criar um programa nacional de identificação ativa, capaz de reconhecer quando imagem ou vídeo de criança em situação de abuso ou de cunho sexual estiver circulando na internet" | SEG.PREV [fronteira com T37] |
 | AVA-S19 | 40 | Proposta 17 | "assim que houver identificação confiável desse tipo de material, o site, perfil ou canal sai do ar imediatamente, sem prazo de defesa prévio" | SEG.VIOL [fronteira com T37] |
@@ -99,7 +99,7 @@ Não codificado como SEG:
 | AVA-I9 | 6 | Proposta 01 · Por que funciona | "Menos imposto embutido significa preços mais baixos, mais dinheiro circulando e menos sonegação" | IMP.PRECO (rep. de I4) |
 | AVA-I10 | 18 | Proposta 07 · IPVA de R$ 50 por Mês | "Ter um carro no Brasil é caro demais — e boa parte disso é imposto sobre imposto." | IMP.DIAG |
 | AVA-I11 | 18 | Proposta 07 | "substituição do IPVA proporcional ao valor do veículo por uma taxa fixa e acessível de R$ 50 mensais para todos." | IMP.TRIB |
-| AVA-I12 | 20 | Proposta 08 · Polo tecnológico | "Com pesquisa científica forte e bem financiada, o Brasil deixa de só importar remédio caro de fora e passa a desenvolver, produzir e exportar suas próprias vacinas e medicamentos [...]. É saúde mais barata e mais acessível pro brasileiro" | IMP.PRECO [fronteira] |
+| AVA-I12 | 20 | Proposta 08 · Polo tecnológico | "Com pesquisa científica forte e bem financiada, o Brasil deixa de só importar remédio caro de fora e passa a desenvolver, produzir e exportar suas próprias vacinas e medicamentos [...]. É saúde mais barata e mais acessível pro brasileiro" | SAU.TEC (v1.8: fora de IMP) |
 | AVA-I13 | 22 | Proposta 09 · Industrializar o Brasil | "o brasileiro passa a poder consumir, por um preço justo, o mesmo café de primeira qualidade que hoje é exportado verde e devolvido a preço multiplicado" | IMP.PRECO [fronteira] |
 | AVA-I14 | 24 | Proposta 10 · Fertilizantes | "depende de fertilizante importado pra produzir sua própria comida. Isso encarece tudo — do produtor até o preço no supermercado" | IMP.PRECO |
 | AVA-I15 | 25 | Proposta 10 · Por que funciona | "produzir insumo aqui baixa custo de produção, baixa preço de comida na mesa do brasileiro" | IMP.PRECO (rep. de I14) |
@@ -138,11 +138,11 @@ Não codificado como IMP:
 | AVA-H9 | 9 | Proposta 03 · Saúde do idoso | "o país tem hoje pouco mais de 3 mil geriatras — uma média de apenas 1 especialista pra cada 10 mil idosos" | SAU.DIAG |
 | AVA-H10 | 10 | Proposta 03 · Saúde do idoso | "Nosso governo vai investir na formação e contratação de mais geriatras pro SUS, garantir prioridade de verdade [...] pro idoso nas filas de cirurgia e consulta, e ampliar o acesso a acompanhamento contínuo de doenças crônicas" | SAU.PROF |
 | AVA-H11 | 10 | Proposta 03 · De onde sai o dinheiro | "entre 10% e 20% de todos os medicamentos comprados por instituições públicas no Brasil são desperdiçados" | SAU.DIAG |
-| AVA-H12 | 10 | Proposta 03 · Por que funciona | "o problema do SUS nunca foi falta de dinheiro — o Brasil arrecada o suficiente. O problema é contrato superfaturado e licitação fraudada" | SAU.FIN [fronteira com E-CORR] |
+| AVA-H12 | 10 | Proposta 03 · Por que funciona | "o problema do SUS nunca foi falta de dinheiro — o Brasil arrecada o suficiente. O problema é contrato superfaturado e licitação fraudada" | SAU.DIAG (objeto: FIN) [fronteira com E-CORR] |
 | AVA-H13 | 12 | Proposta 04 · Motorista de aplicativo | "nosso governo vai criar um plano de saúde próprio, exclusivo pra motorista de aplicativo" | SAU.PUBPRIV [fronteira com T58] |
 | AVA-H14 | 37 | Proposta 16 · Saúde da mulher | "nosso governo vai garantir atendimento de saúde íntima pra mulher desde a juventude [...] E, na outra ponta da vida da mulher, vamos garantir acompanhamento de verdade no climatério, na menopausa e na pós-menopausa" | SAU.ESP (rep. de H6 e H8) |
 | AVA-H15 | 37–38 | Proposta 16 · Apoio psicológico | "o Brasil precisa de acesso gratuito a apoio psicológico de verdade, pra população em geral — e nosso governo vai começar essa construção pelas mulheres" | SAU.ESP |
-| AVA-H16 | 43 | Proposta 18 · Juventude | "jovens de 16 a 24 anos são o grupo mais infeliz do Brasil, mais até que qualquer geração mais velha" | SAU.ESP |
+| AVA-H16 | 43 | Proposta 18 · Juventude | "jovens de 16 a 24 anos são o grupo mais infeliz do Brasil, mais até que qualquer geração mais velha" | SAU.DIAG (objeto: ESP) |
 | AVA-H17 | 43 | Proposta 18 · Respira | "Nosso governo vai criar o Respira, com a mesma lógica: centro físico espalhado pelo Brasil inteiro [...] onde ele chega sem encaminhamento, sem fila de burocracia, e é atendido na hora por equipe completa: psicólogo, psiquiatra, orientador" | SAU.ESP |
 
 Título [LITERAL]: "Zerar a Fila do SUS / Remédio que nunca vai faltar é um novo olhar pra saúde da mulher e do idoso" (p. 9).
@@ -164,4 +164,6 @@ Não codificado como SAU:
 - **IMP:** "avalanche de impostos", "imposto embutido", "imposto único", "poder de compra", "sonegação", "preço justo", "carga tributária". A expressão "custo de vida" não aparece. Busca de termos feita em 27/10/2026.
 - **SAU:** "fila do SUS", "zerar a fila", "remédio que nunca vai faltar", "climatério", "menopausa", "saúde mental", "geriatras".
 
-Contagem: SEG 23 (2 repetições), IMP 20 (3 repetições; 2 de fronteira em IMP.PRECO), SAU 17 (2 repetições).
+Contagem: SEG 23 (2 repetições), IMP 19 (3 repetições; 1 de fronteira em IMP.PRECO), SAU 18 (2 repetições).
+
+Revisão v1.8 (28/10/2026, depois do reteste da rodada 2; ver `reteste.md`): AVA-S10, S16, H12 e H16 passaram ao subcódigo DIAG, com o objeto anotado. AVA-I12 (medicamentos e vacinas mais baratos pela produção nacional) saiu de IMP.PRECO para SAU.TEC. IMP passa de 20 para 19 unidades; SAU, de 17 para 18.
