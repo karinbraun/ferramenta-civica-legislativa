@@ -13,7 +13,7 @@
 | 9 | Samara (UP) | `programas/280002538811-samara-UP.md` | Concluído |
 | 10 | Leonardo Avalanche (PRTB) | `programas/280002554479-leonardo-avalanche-PRTB.md` | Concluído |
 | 11 | Flavio Bolsonaro (PL) | `programas/280002551544-flavio-bolsonaro-PL.md` | Concluído |
-| 12 | Lula (PT) | — | Pendente |
+| 12 | Lula (PT) | `programas/280002542548-lula-PT.md` | Concluído |
 | 13 | Escritor Augusto Cury (AVANTE) | — | Pendente |
 | 14 | Ronaldo Caiado (PSD) | — | Pendente |
 

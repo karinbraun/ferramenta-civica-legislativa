@@ -1,6 +1,6 @@
 # Codificação — Flavio Bolsonaro (PL)
 
-Arquivo: `etapa2/corpus/pdf/2026BR280002551544_01.pdf` (76 páginas; texto em `etapa2/corpus/txt/2026BR280002551544_01.txt`). Livro de códigos v1.6. Codificado em 27/10/2026.
+Arquivo: `etapa2/corpus/pdf/2026BR280002551544_01.pdf` (76 páginas; texto em `etapa2/corpus/txt/2026BR280002551544_01.txt`). Livro de códigos v1.6 (marca [balanço] da v1.7 aplicada em 28/10/2026). Codificado em 27/10/2026.
 
 Candidatura do 2º turno (critério de transversalidade, `CLAUDE.md`, seção 8).
 
@@ -108,7 +108,7 @@ Não codificado como SEG:
 | FLA-I5 | 29 | Brasil Mais Barato | "O povo se sente humilhado ao frequentar os supermercados. [...] o carrinho está cada vez mais vazio e a conta, cada vez mais alta. Até as embalagens encolheram: o mesmo preço compra menos café, menos chocolate, menos de tudo." | IMP.PRECO |
 | FLA-I6 | 29 | Brasil Mais Barato | "Foram 30 aumentos de tributos, a inflação de alimentos fora de controle e a maior taxa de juros em 19 anos. O Brasil tem hoje a maior taxa de juro real do mundo!" | IMP.DIAG |
 | FLA-I7 | 29 | Brasil Mais Barato | "o endividamento das famílias mais pobres bateu recorde, 85% das que ganham até três salários mínimos estão endividadas" | IMP.JUROS |
-| FLA-I8 | 29 | Brasil Mais Barato | "No governo Bolsonaro, a redução de tributos chegou ao dia a dia das famílias: caiu a conta de energia elétrica, caiu a conta de telefone, caiu o preço da gasolina" | IMP.DIAG |
+| FLA-I8 | 29 | Brasil Mais Barato | "No governo Bolsonaro, a redução de tributos chegou ao dia a dia das famílias: caiu a conta de energia elétrica, caiu a conta de telefone, caiu o preço da gasolina" | IMP.DIAG [balanço] |
 | FLA-I9 | 30 | Menos imposto no que você consome | "com a atual reforma tributária, o Brasil caminha para ter um dos maiores impostos sobre valor agregado (IVA) do mundo, projetado em torno de 30%, contra uma média de 19% nos países da OCDE" | IMP.DIAG |
 | FLA-I10 | 30 | Menos imposto no que você consome | "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir suas distorções, reduzir o IVA [...] e assegurar a não cumulatividade" | IMP.TRIB |
 | FLA-I11 | 30 | Menos imposto no que você consome | "O esforço de simplificação continuará: menos impostos, legislação unificada, desoneração das exportações e dos investimentos e redução das exceções, para que grupos parecidos paguem impostos parecidos." | IMP.TRIB |
