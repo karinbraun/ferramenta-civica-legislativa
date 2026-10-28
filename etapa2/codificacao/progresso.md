@@ -14,7 +14,7 @@
 | 10 | Leonardo Avalanche (PRTB) | `programas/280002554479-leonardo-avalanche-PRTB.md` | Concluído |
 | 11 | Flavio Bolsonaro (PL) | `programas/280002551544-flavio-bolsonaro-PL.md` | Concluído |
 | 12 | Lula (PT) | `programas/280002542548-lula-PT.md` | Concluído |
-| 13 | Escritor Augusto Cury (AVANTE) | — | Pendente |
+| 13 | Escritor Augusto Cury (AVANTE) | `programas/280002551547-augusto-cury-AVANTE.md` | Concluído |
 | 14 | Ronaldo Caiado (PSD) | — | Pendente |
 
 Depois dos 14: reteste da rodada 2 (10% das unidades dos programas 4 a 14), matriz de incidência e entrega do Polo 2.
